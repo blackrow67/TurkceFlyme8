@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="address_type">
+        <item>Ana ekran</item>
+        <item>İş</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="bookmark_folder_context_menu">
+        <item>Klasörü Yeniden Adlandır</item>
+        <item>Klasörü Sil</item>
+    </string-array>
+    <string-array name="businesscard_address_type">
+        <item>Ana ekran</item>
+        <item>İş</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="businesscard_instantmessenger_type">
+        <item>QQ</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+    </string-array>
+    <string-array name="businesscard_mail_type">
+        <item>Kişisel</item>
+        <item>İş</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="businesscard_phone_type">
+        <item>Ana ekran</item>
+        <item>İş</item>
+        <item>Mobil</item>
+        <item>FAKS</item>
+        <item>Çağrı cihazı</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="mail_type">
+        <item>Kişisel</item>
+        <item>İş</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>Mayıs</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Pzr</item>
+        <item>Ptes</item>
+        <item>Per</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Ctes</item>
+    </string-array>
+    <string-array name="phone_type">
+        <item>Ana ekran</item>
+        <item>İş</item>
+        <item>Mobil</item>
+        <item>FAKS</item>
+        <item>Çağrı cihazı</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Her zaman açık</item>
+        <item>İsteğe bağlı</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Hiçbir zaman</item>
+        <item>Yalnızca Kablosuzda</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Çince (GBK)</item>
+        <item>Çince (Big5)</item>
+        <item>Japonca (ISO-2022-JP)</item>
+        <item>Japonca (SHIFT_JIS)</item>
+        <item>Japonca (EUC-JP)</item>
+        <item>Korece (EUC-KR)</item>
+        <item>Korece (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Uzak</item>
+        <item>Orta</item>
+        <item>Kapat</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Mevcut sayfa</item>
+        <item>Boş sayfa</item>
+        <item>Varsayılan sayfa</item>
+        <item>En çok ziyaret edilen siteler</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="pref_homepage_choices2">
+        <item>Şimdiki sayfayı kullan</item>
+        <item>Favoriler</item>
+        <item>Sık ziyeren edilenler</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Hiçbir zaman</item>
+        <item>Yalnızca Kablosuzda</item>
+        <item>Her zaman</item>
+    </string-array>
+    <string-array name="pref_pic_quality_key">
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>Varsayılan</item>
+        <item>Ortan</item>
+        <item>Büyük</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Minik</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
+    </string-array>
+    <string-array name="pref_toolbar_style_item">
+        <item>Grafiksel</item>
+        <item>Klasik</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_name">
+        <item>Varsayılan ile güncelle</item>
+        <item>Sadece WLAN üzerinden güncelle</item>
+        <item>Basit</item>
+    </string-array>
+    <string-array name="title_bar_share_item">
+        <item>Bluetooth</item>
+        <item>Mesajlaşma</item>
+        <item>E-posta</item>
+    </string-array>
+    <string-array name="zixun_detial_feedback_item">
+        <item>Reklam</item>
+        <item>İzin verilmez</item>
+        <item>Pornografik</item>
+        <item>Tık tuzağı</item>
+        <item>Dedikodu</item>
+        <item>Yetersiz içerik</item>
+        <item>Uygunsuz</item>
+        <item>Tekrarlanan</item>
+        <item>Yazım Hataları</item>
+    </string-array>
+</resources>

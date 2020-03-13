@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">1 s</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d dk</item>
+        <item quantity="one">1 dk</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d S</item>
+        <item quantity="one">1 S</item>
+    </plurals>
+</resources>
