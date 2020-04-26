@@ -145,7 +145,7 @@
     <string name="mz_permission_message_content">%1$s, %3$d %2$s için izin(leri) istiyor.</string>
     <string name="mz_permission_message_supplement">%1$s, %2$s için %3$d izin istiyor</string>
     <string name="mz_permission_policy_description">To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
-    <string name="mz_permission_title_supplement"> aşağıdaki izinleri talep ediyor</string>
+    <string name="mz_permission_title_supplement">aşağıdaki izinleri talep ediyor</string>
     <string name="mz_permission_title_terms">Permissions and statements</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WIFI</string>
