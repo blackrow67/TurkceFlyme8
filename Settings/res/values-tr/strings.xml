@@ -316,8 +316,8 @@ Just bring the devices together (typically back to back) and then tap your scree
     <string name="app_ops_running">Çalışıyor</string>
     <string name="app_ops_settings">Uygulama işlemleri</string>
     <string name="app_permission">Uygulama izinleri</string>
-    <string name="app_permission_summary_allowed">Allowed</string>
-    <string name="app_permission_summary_not_allowed">Not allowed</string>
+    <string name="app_permission_summary_allowed">İzin verildi</string>
+    <string name="app_permission_summary_not_allowed">İzin verilmez</string>
     <string name="app_permissions">Uygulama izinleri</string>
     <string name="app_permissions_summary">%1$s kullanan uygulamalar</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
@@ -1034,31 +1034,31 @@ All rights to third party software contained in this product belong to the right
     <string name="copyright_title">Telif Hakkı</string>
     <string name="cpu_title">CPU</string>
     <string name="create">Oluştur</string>
-    <string name="credential_contains">This entry contains:</string>
-    <string name="credential_for_vpn_and_apps">Installed for VPN and apps</string>
-    <string name="credential_for_wifi">Installed for WLAN</string>
-    <string name="credential_storage_type">Storage type</string>
-    <string name="credential_storage_type_hardware">Hardware-backed</string>
-    <string name="credential_storage_type_software">Software only</string>
+    <string name="credential_contains">Bu giriş şunları içeriyor:</string>
+    <string name="credential_for_vpn_and_apps">VPN ve uygulamalar için yüklendi</string>
+    <string name="credential_for_wifi">WLAN için yüklendi</string>
+    <string name="credential_storage_type">Depolama türü</string>
+    <string name="credential_storage_type_hardware">Donanım destekli</string>
+    <string name="credential_storage_type_software">Yalnızca yazılım</string>
     <string name="credentials_and_admin_title">Yöneticiler &amp; kimlik bilgileri</string>
-    <string name="credentials_configure_lock_screen_hint">You need to set a lock screen PIN or password before you can use credential storage.</string>
-    <string name="credentials_enabled">Credential storage is enabled.</string>
-    <string name="credentials_erased">Wiped successfully</string>
-    <string name="credentials_install">Install from storage</string>
-    <string name="credentials_install_summary">Install certificates from storage</string>
-    <string name="credentials_not_erased">Fail to wipe</string>
-    <string name="credentials_old_password">Current password:</string>
-    <string name="credentials_password_too_short">8 characters mini.</string>
-    <string name="credentials_reset">Clear credentials</string>
-    <string name="credentials_reset_hint">Remove all the contents?</string>
-    <string name="credentials_reset_summary">Remove all certificates</string>
-    <string name="credentials_reset_warning">Incorrect password. You have one more chance before credential storage is wiped.</string>
-    <string name="credentials_reset_warning_plural">Incorrect password. You have %1$d more chances before credential storage is wiped.</string>
-    <string name="credentials_settings_not_available">Credentials are not available for this user</string>
-    <string name="credentials_title">Credential storage</string>
+    <string name="credentials_configure_lock_screen_hint">"Kimlik bilgileri depolamasını kullanabilmek için öncelikle bir ekran PIN'i veya parola ayarlamanız gerekir."</string>
+    <string name="credentials_enabled">Kimlik bilgileri belleği etkin.</string>
+    <string name="credentials_erased">Başarıyla silindi</string>
+    <string name="credentials_install">Depolama içinden kur</string>
+    <string name="credentials_install_summary">Sertifikaları depolama içinden kur</string>
+    <string name="credentials_not_erased">Silinemedi</string>
+    <string name="credentials_old_password">Geçerli parola:</string>
+    <string name="credentials_password_too_short">minimum 8 karakter</string>
+    <string name="credentials_reset">Bilgileri temizle</string>
+    <string name="credentials_reset_hint">Tüm içerikler silinsin mi?</string>
+    <string name="credentials_reset_summary">Tüm sertifikaları kaldır</string>
+    <string name="credentials_reset_warning">Yanlış parola. Kimlik bilgileri belleği silinmeden önce tek bir şansınız kaldı.</string>
+    <string name="credentials_reset_warning_plural">Yanlış parola. Kimlik bilgileri belleği silinmeden önce %1$d şansınız kaldı.</string>
+    <string name="credentials_settings_not_available">Bu kullanıcı için kimlik bilgileri mevcut değil</string>
+    <string name="credentials_title">Bilgileri depolama</string>
     <string name="credentials_unlock" />
-    <string name="credentials_unlock_hint">Type the password for credential storage.</string>
-    <string name="credentials_wrong_password">Incorrect password.</string>
+    <string name="credentials_unlock_hint">Kimlik bilgileri belleği için parolayı girin.</string>
+    <string name="credentials_wrong_password">Yanlış parola.</string>
     <string name="crypt_keeper_button_text">Telefonu şifrele</string>
     <string name="crypt_keeper_confirm_title">Şifrelensin mi?</string>
     <string name="crypt_keeper_data_corrupt_summary">"Girdiğiniz parola doğru, ancak ne yazık ki verileriniz bozulmuş. 
@@ -1087,11 +1087,11 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlamanız g
     <string name="crypt_keeper_switch_input_method">Giriş yöntemini değiştir</string>
     <string name="crypt_keeper_unplugged_text">Şarj cihazınızı takıp tekrar deneyin.</string>
     <string name="crypt_keeper_warn_wipe">Uyarı: Cihazınız ^1 kez daha başarısız kilit açma denemesinden sonra temizlenecek!</string>
-    <string name="cryptkeeper_emergency_call">Emergency call</string>
-    <string name="cryptkeeper_return_to_call">Return to call</string>
-    <string name="cryptkeeper_wrong_password">Wrong Password</string>
-    <string name="cryptkeeper_wrong_pattern">Wrong Pattern</string>
-    <string name="cryptkeeper_wrong_pin">Wrong PIN</string>
+    <string name="cryptkeeper_emergency_call">Acil durum araması</string>
+    <string name="cryptkeeper_return_to_call">Aramaya geri dön</string>
+    <string name="cryptkeeper_wrong_password">Yanlış Parola</string>
+    <string name="cryptkeeper_wrong_pattern">Yanlış Desen</string>
+    <string name="cryptkeeper_wrong_pin">Yanlış PIN</string>
     <string name="current_backup_pw_prompt">Enter your current full backup password here</string>
     <string name="current_input_method">Mevcut Klavye</string>
     <string name="current_screen_lock">Geçerli ekran kilidi</string>
@@ -1360,7 +1360,7 @@ Bu sorunu çözmeyi denemek için %1$s işlemini durdurabilirsiniz.
     <string name="dialog_stop_ok">Uygulamayı durdur</string>
     <string name="dialog_stop_title">Uygulama durdurulsun mu?</string>
     <string name="diaplay_and_brightness">Ekran ve parlaklık</string>
-    <string name="digital_health_title">Dijital Sağlık</string>
+    <string name="digital_health_title">Dijital denge</string>
     <string name="digital_style_text_1">Varsayılan</string>
     <string name="digital_style_text_2">Dijital</string>
     <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında, telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
@@ -1551,34 +1551,34 @@ dedicate to perfection"</string>
     <string name="enable_text">Etkinleştir</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="encrypt_app_tips">Bu uygulamayı şifrelediğinizde, klonu da şifrelenir.</string>
-    <string name="encrypt_talkback_dialog_message_password">"When you enter your password to start this device, accessibility services such as %1$s won't yet be available."</string>
-    <string name="encrypt_talkback_dialog_message_pattern">"When you enter your pattern to start this device, accessibility services such as %1$s won't yet be available."</string>
-    <string name="encrypt_talkback_dialog_message_pin">"When you enter your PIN to start this device, accessibility services such as %1$s won't yet be available."</string>
-    <string name="encrypt_talkback_dialog_require_password">Require password?</string>
-    <string name="encrypt_talkback_dialog_require_pattern">Require pattern?</string>
-    <string name="encrypt_talkback_dialog_require_pin">Require PIN?</string>
+    <string name="encrypt_talkback_dialog_message_password">Bu cihazı başlatmak için parolanızı girdiğinizde %1$s gibi erişilebilirlik hizmetleri henüz kullanılabilir olmayacaktır.</string>
+    <string name="encrypt_talkback_dialog_message_pattern">Bu cihazı başlatmak için deseninizi girdiğinizde %1$s gibi erişilebilirlik hizmetleri henüz kullanılabilir olmayacaktır.</string>
+    <string name="encrypt_talkback_dialog_message_pin">"Bu cihazı başlatmak için PIN'inizi girdiğinizde %1$s gibi erişilebilirlik hizmetleri henüz kullanılabilir olmayacaktır."</string>
+    <string name="encrypt_talkback_dialog_require_password">Parola istensin mi?</string>
+    <string name="encrypt_talkback_dialog_require_pattern">Desen istensin mi?</string>
+    <string name="encrypt_talkback_dialog_require_pin">PIN istensin mi?</string>
     <string name="encryption_and_credential_settings_summary">Telefon şifrelendi</string>
     <string name="encryption_and_credential_settings_title">Şifreleme ve kimlik bilgileri</string>
-    <string name="encryption_continue_button">Continue</string>
-    <string name="encryption_interstitial_header">Secure start-up</string>
-    <string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+    <string name="encryption_continue_button">Devam et</string>
+    <string name="encryption_interstitial_header">Güvenli başlatma</string>
+    <string name="encryption_interstitial_message_password">"Başlatılmadan önce parolanızın girilmesini isteyerek bu cihazı daha ileri düzeyde koruyabilirsiniz. Cihaz açılıncaya kadar aramalar, mesajlar veya alarmlar dahil olmak üzere bildirimler alınamaz. 
 
-This helps protect data on lost or stolen devices. Require password to start your device?"</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+Bu, kaybedilen veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için parola istensin mi?"</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Cihazınızın kilidini açmak için parmak izinizi kullanmanın yanı sıra, başlatılmadan önce parolanızın girilmesini zorunlu hale getirerek bu cihaz için ek koruma sağlayabilirsiniz. Cihaz başlatılana kadar, alarmlar dahil olmak üzere arama, ileti veya bildirimleri alamaz.
 
-This helps protect data on lost or stolen devices. Require password to start your device?"</string>
-    <string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+Bu özellik, kaybolan veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için parola istensin mi?"</string>
+    <string name="encryption_interstitial_message_pattern">"Başlatılmadan önce desen çizilmesini isteyerek bu cihazı daha ileri düzeyde koruyabilirsiniz. Cihaz açılıncaya kadar aramalar, mesajlar veya alarmlar dahil olmak üzere bildirimler alınamaz. 
 
-This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+Bu, kaybedilen veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için desen çizilmesi istensin mi?"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Cihazınızın kilidini açmak için parmak izinizi kullanmanın yanı sıra, başlatılmadan önce deseninizin girilmesini zorunlu hale getirerek bu cihaz için ek koruma sağlayabilirsiniz. Cihaz başlatılana kadar, alarmlar dahil olmak üzere arama, ileti veya bildirimleri alamaz.
 
-This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
-    <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms. 
+Bu özellik, kaybolan veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için desen istensin mi?"</string>
+    <string name="encryption_interstitial_message_pin">"Başlatılmadan önce PIN kodu girilmesini isteyerek bu cihazı daha ileri düzeyde koruyabilirsiniz. Cihaz açılıncaya kadar aramalar, mesajlar veya alarmlar dahil olmak üzere bildirimler alınamaz. 
 
-This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
+Bu, kaybedilen veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için PIN kodu istensin mi?"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Cihazınızın kilidini açmak için parmak izinizi kullanmanın yanı sıra, başlatılmadan önce deseninizin girilmesini zorunlu hale getirerek bu cihaz için ek koruma sağlayabilirsiniz. Cihaz başlatılana kadar, alarmlar dahil olmak üzere arama, ileti veya bildirimleri alamaz.
 
-This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
+Bu özellik, kaybolan veya çalınan cihazlardaki verileri korumaya yardımcı olur. Cihazınızı başlatmak için PIN istensin mi?"</string>
     <string name="encryption_interstitial_no">Hayır</string>
     <string name="encryption_interstitial_yes">Evet</string>
     <string name="enhanced_4g_lte_mode_summary">HD ses kullan</string>
@@ -1595,36 +1595,36 @@ This helps protect data on lost or stolen devices. Require PIN to start your dev
     <string name="enterprise_privacy_always_on_vpn_work">Always-on VPN turned on in your work profile</string>
     <string name="enterprise_privacy_apps_count_estimation_info">Belirtilen uygulama sayısı tahminidir. Play Store dışında yüklenen uygulamaları içermeyebilir.</string>
     <string name="enterprise_privacy_bug_reports">Most recent bug report</string>
-    <string name="enterprise_privacy_ca_certs_device">Trusted credentials</string>
-    <string name="enterprise_privacy_ca_certs_personal">Trusted credentials in your personal profile</string>
-    <string name="enterprise_privacy_ca_certs_work">Trusted credentials in your work profile</string>
+    <string name="enterprise_privacy_ca_certs_device">Güvenilir kimlik bilgileri</string>
+    <string name="enterprise_privacy_ca_certs_personal">Kişisel profilinizdeki güvenilir kimlik bilgileri</string>
+    <string name="enterprise_privacy_ca_certs_work">İş profilinizdeki güvenilir kimlik bilgileri</string>
     <string name="enterprise_privacy_camera_access">Kamera izinleri</string>
-    <string name="enterprise_privacy_device_access_category">Your access to this device</string>
-    <string name="enterprise_privacy_enterprise_data">Data associated with your work account, such as email and calendar</string>
+    <string name="enterprise_privacy_device_access_category">Bu cihaza erişiminiz</string>
+    <string name="enterprise_privacy_enterprise_data">İş hesabınızla ilişkili e-posta ve takvim gibi veriler</string>
     <string name="enterprise_privacy_enterprise_installed_packages">Yüklü uygulamalar</string>
     <string name="enterprise_privacy_enterprise_set_default_apps">Varsayılan uygulamalar</string>
-    <string name="enterprise_privacy_exposure_category">Types of information your organization can see</string>
-    <string name="enterprise_privacy_exposure_changes_category">"Changes made by your organization's admin"</string>
-    <string name="enterprise_privacy_failed_password_wipe_device">Failed password attempts before deleting all device data</string>
-    <string name="enterprise_privacy_failed_password_wipe_work">Failed password attempts before deleting work profile data</string>
-    <string name="enterprise_privacy_global_http_proxy">Global HTTP proxy set</string>
-    <string name="enterprise_privacy_header">"To provide access to your work data, your organization may change settings and install software on your device.
+    <string name="enterprise_privacy_exposure_category">Kuruluşunuzun görebileceği bilgi türleri</string>
+    <string name="enterprise_privacy_exposure_changes_category">Kuruluşunuzun yöneticisi tarafından yapılan değişiklikler</string>
+    <string name="enterprise_privacy_failed_password_wipe_device">Tüm cihaz verilerini silmeden önceki başarısız parola denemeleri</string>
+    <string name="enterprise_privacy_failed_password_wipe_work">İş profili verilerini silmeden önceki başarısız parola denemeleri</string>
+    <string name="enterprise_privacy_global_http_proxy">Global HTTP ara sunucu ayarlandı</string>
+    <string name="enterprise_privacy_header">"İş verilerinize erişim sağlamak için, kuruluşunuz ayarları değiştirebilir ve cihazınıza yazılım yükleyebilir.
 
-For more details, contact your organization's admin."</string>
+Daha fazla ayrıntı için, kuruluşunuzun yöneticisi ile iletişime geçin."</string>
     <string name="enterprise_privacy_input_method">Varsayılan klavye</string>
-    <string name="enterprise_privacy_input_method_name">Set to %s</string>
-    <string name="enterprise_privacy_installed_packages">List of apps on your device</string>
+    <string name="enterprise_privacy_input_method_name">%s olarak ayarla</string>
+    <string name="enterprise_privacy_installed_packages">Cihazınızdaki uygulamaların listesi</string>
     <string name="enterprise_privacy_location_access">Konum izinleri</string>
-    <string name="enterprise_privacy_lock_device">Admin can lock the device and reset password</string>
+    <string name="enterprise_privacy_lock_device">Yönetici cihazı kilitleyebilir ve parolayı sıfırlayabilir</string>
     <string name="enterprise_privacy_microphone_access">Mikrofon izinleri</string>
-    <string name="enterprise_privacy_network_logs">Most recent network traffic log</string>
-    <string name="enterprise_privacy_none">None</string>
-    <string name="enterprise_privacy_security_logs">Most recent security log</string>
-    <string name="enterprise_privacy_settings">Managed device info</string>
-    <string name="enterprise_privacy_settings_summary_generic">Changes &amp; settings managed by your organization</string>
-    <string name="enterprise_privacy_settings_summary_with_name">Changes &amp; settings managed by %s</string>
-    <string name="enterprise_privacy_usage_stats">Amount of time and data spent in each app</string>
-    <string name="enterprise_privacy_wipe_device">Admin can delete all device data</string>
+    <string name="enterprise_privacy_network_logs">En son ağ trafiği kaydı</string>
+    <string name="enterprise_privacy_none">Hiçbiri</string>
+    <string name="enterprise_privacy_security_logs">En son güvenlik kaydı</string>
+    <string name="enterprise_privacy_settings">Yönetilen cihaz bilgileri</string>
+    <string name="enterprise_privacy_settings_summary_generic">Kuruluşunuz tarafından yönetilen değişiklikler ve ayarlar</string>
+    <string name="enterprise_privacy_settings_summary_with_name">%s tarafından yönetilen değişiklikler ve ayarlar</string>
+    <string name="enterprise_privacy_usage_stats">Her bir uygulamada geçen süre ve veri</string>
+    <string name="enterprise_privacy_wipe_device">Yönetici tüm cihaz verilerini silebilir</string>
     <string name="erase_btn">Sıfırlamayı Başlat</string>
     <string name="erase_esim_storage">"eSIM'leri sil"</string>
     <string name="erase_esim_storage_description">"Telefondaki tüm eSIM'leri siler. Bu, mobil hizmet planınızı iptal etmez."</string>
@@ -1718,7 +1718,7 @@ Flyme hesabının parolasını girin\"%s\""</string>
     <string name="fingerprint_unlock_skip_fingerprint">Parmak izi olmadan devam et</string>
     <string name="fingerprint_unlock_title">Telefonunuzun kilidini parmak izinizle açabilirsiniz. Güvenlik amacıyla, bu seçenek için yedek bir ekran kilidi gerekir.</string>
     <string name="fingerprint_usage_category_title">Şunun için parmak izi kullan:</string>
-    <string name="finish_button_label">Done</string>
+    <string name="finish_button_label">Bitti</string>
     <string name="firmware_version">Android sürümü</string>
     <string name="fix_details">Hizmet ayrıntıları</string>
     <string name="fix_speed">Hizmet verimliliği</string>
@@ -1758,7 +1758,7 @@ At veya başka bir hayvan görünmüyordu; erkekler, önlerinde ittikleri küç�
     <string name="font_size_preview_text_headline">Örnek metin</string>
     <string name="font_size_preview_text_subtitle">"11. Bölüm: Oz'un Zümrüt Kenti"</string>
     <string name="font_size_preview_text_title">Muhteşem Oz Büyücüsü</string>
-    <string name="font_size_save">OK</string>
+    <string name="font_size_save">TAMAM</string>
     <string name="font_size_summary">Ekrandaki metni küçültün veya büyütün.</string>
     <string name="force_allow_on_external">Harici birimdeki uygulamalara izin vermeye zorla</string>
     <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
@@ -2348,8 +2348,8 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
     <string name="manage_notification_access_title">Bildirim erişimi</string>
     <string name="manage_space_text">Alanı yönet</string>
-    <string name="manage_trust_agents">Trust agents</string>
-    <string name="manage_trust_agents_summary">None</string>
+    <string name="manage_trust_agents">Güven aracıları</string>
+    <string name="manage_trust_agents_summary">Hiçbiri</string>
     <string name="manage_zen_access_title">\"Rahatsız etme\" Erişimi</string>
     <string name="manageapplications_settings_summary">Yüklü uygulamaları yönetin ve kaldırın</string>
     <string name="manageapplications_settings_title">Uygulamaları yönet</string>
@@ -3615,11 +3615,11 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
 3. Sabitlemeyi kaldırmak için Ana Ekran düğmesine dokunun ve basılı tutun"</string>
     <string name="screen_pinning_description_with_navigation_bar">"Tips:
 
-1. Make sure AppPin is turned on
+1. AppPin işlevinin açıldığından emin olun
 
-2. Select AppPin in Multitasking pad
+2. Çoklu görev sekmesinde AppPin işlevini seçin
 
-3. Touch &amp; hold Back button to unpin"</string>
+3. Sabitlemeyi kaldırmak için Geri düğmesine dokunun ve basılı tutun"</string>
     <string name="screen_pinning_title">AppPin</string>
     <string name="screen_pinning_unlock_none">Sabitlemeyi kaldırırken ekranı kilitle</string>
     <string name="screen_pinning_unlock_password">Sabitlemeyi kaldırırken ekranı kilitle</string>
@@ -3633,14 +3633,14 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="screen_zoom_and_font_title">Ekran yakınlaştırma ve yazı tipi boyutu</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
-    <string name="screen_zoom_conversation_message_1">Hi, Bian Xiaoxi!</string>
-    <string name="screen_zoom_conversation_message_2">Hey, want to grab coffee and catch up today?</string>
-    <string name="screen_zoom_conversation_message_3">Sounds great. I know of a good place not too far from here.</string>
-    <string name="screen_zoom_conversation_message_4">Perfect!</string>
-    <string name="screen_zoom_conversation_timestamp_1">April 1, 21:02</string>
-    <string name="screen_zoom_conversation_timestamp_2">April 1, 21:02</string>
-    <string name="screen_zoom_conversation_timestamp_3">April 1, 21:02</string>
-    <string name="screen_zoom_conversation_timestamp_4">Tue 6:03PM</string>
+    <string name="screen_zoom_conversation_message_1">Merhaba, Bian BlackRow67!</string>
+    <string name="screen_zoom_conversation_message_2">Kahve içip sohbet edelim mi, ne dersin?</string>
+    <string name="screen_zoom_conversation_message_3">İyi fikir. Yakınlarda güzel bir yer biliyorum.</string>
+    <string name="screen_zoom_conversation_message_4">Mükemmel!</string>
+    <string name="screen_zoom_conversation_timestamp_1">1 Nisan 21:02</string>
+    <string name="screen_zoom_conversation_timestamp_2">1 Nisan 21:02</string>
+    <string name="screen_zoom_conversation_timestamp_3">1 Nisan 21:02</string>
+    <string name="screen_zoom_conversation_timestamp_4">Sal 18:03</string>
     <string name="screen_zoom_keywords">Ekran yoğunluğu, ekran yakınlaştırma, ölçek, ölçekleme</string>
     <string name="screen_zoom_make_larger_desc">Büyüt</string>
     <string name="screen_zoom_make_smaller_desc">Küçült</string>
@@ -3674,10 +3674,10 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="sd_ejecting_summary">Unmounting</string>
     <string name="sd_ejecting_title">Unmounting</string>
     <string name="sd_format">Dahili depolamayı biçimlendir</string>
-    <string name="sd_format_summary">Fotoğraflar ve videolar da dahil olmak üzere dahili depolama birimindeki tüm verileri silin</string>
-    <string name="sd_insert_summary">Insert USB storage for mounting</string>
-    <string name="sd_memory">USB storage</string>
-    <string name="sd_mount">Mount USB storage</string>
+    <string name="sd_format_summary">Fotoğraflar ve videolar dahil, dahili depolamadaki tüm veriler silinsin mi?</string>
+    <string name="sd_insert_summary">Bağlantı için USB depolamayı takın</string>
+    <string name="sd_memory">USB depolama</string>
+    <string name="sd_mount">USB depolamayı tak</string>
     <string name="sd_mount_summary" />
     <string name="sdcard_changes_instructions">USB kablosu tekrar bağlandığında değişiklikler devreye girer.</string>
     <string name="sdcard_format">USB depolamayı sil</string>
@@ -3703,7 +3703,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="search_networks">Ağ ara</string>
     <string name="search_result_empty">Sonuç Bulunamadı</string>
     <string name="search_results_title">Settings</string>
-    <string name="search_settings">Search for time zone</string>
+    <string name="search_settings">Saat dilimi ara</string>
     <string name="search_settings_title">Ara</string>
     <string name="second_confirm_factory_reset_dlg_msg">"All data will be wiped and it can't be undone"</string>
     <string name="second_confirm_factory_reset_dlg_title">Sure to factory reset?</string>
@@ -4334,7 +4334,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="system_ringtone">Sistem</string>
     <string name="system_ui_settings">System UI Ayarlayıcısını göster</string>
     <string name="system_update_settings_list_item_summary" />
-    <string name="system_update_settings_list_item_title">Sistem Güncelleme</string>
+    <string name="system_update_settings_list_item_title">Sistem güncelleme</string>
     <string name="system_version">"Sistem sürümü: "</string>
     <string name="talk_back_title">TalkBack</string>
     <string name="talkback_summary">Özellikle görme engelliler ve gözleri az görenler için tasarlanmış bir ekran okuyucu</string>
@@ -4630,23 +4630,23 @@ Any user can update apps for all other users."</string>
 
 Any user can update apps for all other users."</string>
     <string name="user_add_user_or_profile_menu">Add user or profile</string>
-    <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_type_title">Add</string>
-    <string name="user_adding_new_user">Creating new user…</string>
+    <string name="user_add_user_title">Yeni kullanıcı ekle?</string>
+    <string name="user_add_user_type_title">Ekle</string>
+    <string name="user_adding_new_user">Yeni kullanıcı oluşturuluyor...</string>
     <string name="user_admin">Admin</string>
-    <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
-    <string name="user_cannot_manage_message">Only the owner can manage users.</string>
-    <string name="user_confirm_remove_message">All apps and data will be deleted.</string>
-    <string name="user_confirm_remove_self_message">You will lose your space and data. It cannot be undone.</string>
-    <string name="user_confirm_remove_self_title">Delete yourself?</string>
-    <string name="user_confirm_remove_title">Remove this user?</string>
-    <string name="user_credential_none_installed">No user credentials installed</string>
-    <string name="user_credential_removed">Removed credential: %s</string>
-    <string name="user_credential_title">Credential Details</string>
-    <string name="user_credentials">User credentials</string>
-    <string name="user_credentials_summary">View and modify stored credentials</string>
+    <string name="user_cannot_add_accounts_message">Kısıtlanmış profiller hesap ekleyemez</string>
+    <string name="user_cannot_manage_message">Yalnızca cihaz sahibi kullanıcıları yönetebilir.</string>
+    <string name="user_confirm_remove_message">Tüm uygulamalar ve veriler silinecek.</string>
+    <string name="user_confirm_remove_self_message">Alan ve verilerinizi kaybedeceksiniz. Bu işlem geri alınamaz.</string>
+    <string name="user_confirm_remove_self_title">Kendinizi silmek istiyor musunuz?</string>
+    <string name="user_confirm_remove_title">Bu kullanıcı kaldırılsın mı?</string>
+    <string name="user_credential_none_installed">Kullanıcı bilgisi yüklenmedi</string>
+    <string name="user_credential_removed">Kaldırılan kimlik bilgisi: %s</string>
+    <string name="user_credential_title">Kimlik Bilgilsi Ayrıntıları</string>
+    <string name="user_credentials">Kullanıcı bilgileri</string>
+    <string name="user_credentials_summary">Depolanan bilgileri görüntüle ve değiştir</string>
     <string name="user_data_label">Kullanıcı verileri</string>
-    <string name="user_delete_button">Delete</string>
+    <string name="user_delete_button">Sil</string>
     <string name="user_delete_user_description">Delete user</string>
     <string name="user_dict_settings_add_dialog_confirm">Tamam</string>
     <string name="user_dict_settings_add_dialog_less_options">Daha az seçenek</string>
