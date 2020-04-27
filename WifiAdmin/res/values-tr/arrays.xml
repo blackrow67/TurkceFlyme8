@@ -55,4 +55,32 @@
         <item>Cum</item>
         <item>Cmt</item>
     </string-array>
+	    <string-array name="wifi_status">
+        <item></item>
+        <item>Tarıyor…</item>
+        <item>Bağlanıyor...</item>
+        <item>Kimlik doğrulaması yapılıyor...</item>
+        <item>IP adresi alınıyor...</item>
+        <item>Bağlı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor...</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Zayıf bağlantıdan geçici olarak kaçın</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Tarıyor…</item>
+        <item>%1$s ağına bağlanılıyor...</item>
+        <item>%1$s ile kimlik doğrulaması yapılıyor…</item>
+        <item>IP adresi %1$s üzerinden alınıyor...</item>
+        <item>%1$s ağına bağlanıldı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s ile bağlantı kesiliyor...</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Zayıf bağlantıdan geçici olarak kaçın</item>
+    </string-array>
 </resources>
