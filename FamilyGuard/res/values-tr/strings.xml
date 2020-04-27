@@ -635,7 +635,7 @@ Open Family Guard > Family guard me > Ask family to scan"</string>
     <string name="us_other">Diğer</string>
     <string name="us_pick_up_day_average">Günlük yaklaşık %1$d</string>
     <string name="us_pick_up_hour_average">Saatlik yaklaşık %1$d</string>
-    <string name="us_receive_notification">Bildirim alındı</string>
+    <string name="us_receive_notification">Alınan bildirim</string>
     <string name="us_remaining">Hesaplanıyor</string>
     <string name="us_sat">Cmt</string>
     <string name="us_school_day">Okul günü</string>
@@ -655,7 +655,7 @@ Karşı taraf yükseltme işleminden sonra yeni özelliği kullanabilirsiniz"</s
     <string name="us_support_flyme8_only_title">"Bu özellik yalnızca Flyme 8'de mevcuttur. Lütfen karşı taraftan sistemi yükseltmesini isteyin."</string>
     <string name="us_system_app">Sistem uygulamaları</string>
     <string name="us_system_tools">Araçlar</string>
-    <string name="us_take_up_phone">Telefon açık</string>
+    <string name="us_take_up_phone">Telefon açıkken</string>
     <string name="us_task_affinity">com.meizu.flyme.usageStatistics</string>
     <string name="us_thur">Prş</string>
     <string name="us_times">%1$d</string>
