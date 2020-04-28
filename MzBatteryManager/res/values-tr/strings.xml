@@ -30,13 +30,9 @@
     <string name="mc_cancel_praised_message">Beğeniyi iptal et</string>
     <string name="mc_change_num">Güncelle</string>
     <string name="mc_collected_message">Favori durum</string>
-    <string name="mc_custom_date_time_days_after">%1$d days after</string>
-    <string name="mc_custom_date_time_days_before">%1$d days before</string>
     <string name="mc_custom_date_time_gregorian">Gregoryen</string>
     <string name="mc_custom_date_time_hide_lunar">Ay Takvimini Gizle</string>
     <string name="mc_custom_date_time_lunar">Ay Takvimi</string>
-    <string name="mc_custom_date_time_one_day_after">1 gün sonra</string>
-    <string name="mc_custom_date_time_one_day_before">1 gün önce</string>
     <string name="mc_custom_date_time_show_gregorian">Miladi Takvimi göster</string>
     <string name="mc_custom_date_time_show_lunar">Ay Takvimini göster</string>
     <string name="mc_custom_date_time_today">Bugün</string>
@@ -74,7 +70,6 @@
     <string name="mc_permission_message_content">%1$s öğesi %2$s dahil %3$d izin istiyor</string>
     <string name="mc_pm_allow_check_app">Tamam</string>
     <string name="mc_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
-    <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Arama</string>
     <string name="mc_pm_call_log">Arama Kaydını oku</string>
     <string name="mc_pm_camera">Kamera (Fotoğraf/Video)</string>
@@ -85,7 +80,6 @@
     <string name="mc_pm_dlg_ok">Tamam</string>
     <string name="mc_pm_location">Konum bul</string>
     <string name="mc_pm_network">Hücresel veri</string>
-    <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Çıkış</string>
     <string name="mc_pm_not_allow_dialog_push">Devre dışı bırak</string>
     <string name="mc_pm_online_intenert">İnternet</string>
@@ -99,7 +93,6 @@
     <string name="mc_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mc_pm_set_gprs_on">Mobil ağı aç</string>
     <string name="mc_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mc_pm_wlan">WLAN</string>
     <string name="mc_praised_message">Beğen</string>
     <string name="mc_pull_refresh">Yenilemek için aşağı çekin</string>
     <string name="mc_reject">Çıkış</string>
@@ -138,19 +131,7 @@
     <string name="mz_date_time_year" />
     <string name="mz_network_unavailable_hint">Ağ kullanılamıyor. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_permission_allow">İzin ver</string>
-    <string name="mz_permission_almost_deny">Reddedildikten sonra bir daha sorma</string>
-    <string name="mz_permission_always_allow">Her zaman izin ver</string>
-    <string name="mz_permission_apply">İzin talebi</string>
-    <string name="mz_permission_deny">Reddet</string>
     <string name="mz_permission_message_content">%1$s, %3$d %2$s için izin(leri) istiyor.</string>
-    <string name="mz_permission_message_supplement">%1$s, %2$s için %3$d izin istiyor</string>
-    <string name="mz_permission_policy_description">To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
-    <string name="mz_permission_title_supplement">aşağıdaki izinleri talep ediyor</string>
-    <string name="mz_permission_title_terms">Permissions and statements</string>
-    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WIFI</string>
-    <string name="mz_permissiongroup_name_net">Ağ bağlantısı</string>
-    <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
     <string name="mz_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
     <string name="mz_pm_bluetooth">"Bluetooth'u kontrol edin"</string>
@@ -179,11 +160,7 @@
     <string name="mz_pm_set_gprs_on">Hücresel veriyi aç</string>
     <string name="mz_pm_set_wifi_on">"WIFI'yı aç"</string>
     <string name="mz_pm_wlan">WIFI</string>
-    <string name="mz_privacy_policy">Meizu Privacy Policy</string>
     <string name="mz_reject">Çıkış</string>
-    <string name="mz_specific_permission_allow">Still allow</string>
-    <string name="mz_specific_permission_deny">Deny to give permission</string>
-    <string name="mz_user_agreement">User Agreement</string>
     <string name="mz_wif_setting_dialog_message">No network connection. Please check your network settings.</string>
     <string name="mz_wif_setting_dialog_set">Network Settings</string>
     <string name="mzuc_cancel">Cancel</string>
@@ -203,8 +180,7 @@
     <string name="mzuc_install_immediately">Install now</string>
     <string name="mzuc_install_later">Install later</string>
     <string name="mzuc_installing">Installing</string>
-    <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_ok">OK</string>
+    <string name="mzuc_ok">Tamam</string>
     <string name="mzuc_reboot_update_now">Restart &amp; Update</string>
     <string name="mzuc_retry">Retry</string>
     <string name="mzuc_skip_version">Ignore</string>
@@ -248,7 +224,6 @@
     <string name="battery_low_alert_title">Süper tasarruf modu etkinleştirilsin mi?</string>
     <string name="battery_low_description">Sadece Telefona ve Mesajlara İzin Ver</string>
     <string name="battery_low_percent_format">%d%% kaldı. Süper tasarruf modu etkinleştirilsin mi?</string>
-    <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_on_time">Bluetooth açık kalma süresi</string>
     <string name="bluetooth_power_ratio">Bluetooth tarafından kullanılan güç:</string>
     <string name="button_disable_mode">Şimdi Devre Dışı Bırak</string>
@@ -280,10 +255,6 @@
     <string name="enable_idle_run">Beklemede iken çalışmasına izin ver</string>
     <string name="exception_suggest1">1. Uygulamanın devre dışı bırakılması yüksek güç kullanımı sorununu düzeltebilir. Fakat uygulama bildirimleri alınamayacaktır</string>
     <string name="exception_suggest2">2. Sorunu uygulama geliştiricileriyle paylaşın ve sorunu düzeltmelerini isteyin</string>
-    <string name="face_power_ratio">Power used by face recognition:</string>
-    <string name="face_power_save_notice_msg">"Power saving tip: turn off face recognition when it's not in use"</string>
-    <string name="fingerprint_power_ratio">Power used by fingerprint:</string>
-    <string name="fingerprint_power_save_notice_msg">"Power saving tip: turn off fingerprint when it's not in use"</string>
     <string name="flash_light_power_ratio">Fener tarafından kullanılan güç:</string>
     <string name="flashlight_on_time">El feneri açık kalma süresi</string>
     <string name="force_screen_on_rank">Zorla ekran açma sıralaması</string>
@@ -297,7 +268,7 @@
     <string name="gpu_app_instruction">Güç tasarrufu yapmak için sosyal, oyun, navigasyon ve tarayıcı uygulamalarında görüntüleri sıkıştırın ve çerçeveleri bırakın</string>
     <string name="has_out_low_power_mode_notification_subtitle">Pilde zaten yeterli güç var.</string>
     <string name="has_out_low_power_mode_notification_title">Düşük güç modundan çıkıldı</string>
-    <string name="high_performance_mode">Performans ve ekranın öncelik sırasını ayarlayın</string>
+    <string name="high_performance_mode">Yüksek Performans Modu</string>
     <string name="high_performance_notify_content">Aşırı ısınmaya ve yüksek güç tüketimine neden olabilir. Geçiş yapmak için dokunun</string>
     <string name="high_performance_notify_title">Şimdi yüksek performans modunda</string>
     <string name="high_power_auto_kill_msg_type_scale">%1$s arka planda hızlı biçimde %2$s pil tüketiyor ve gelecek 2 saat boyunca %3$s mA/sa pil tüketeceği tahmin ediliyor. Aşırı pil kullanımını önlemek için, kapatıldı.</string>
@@ -326,8 +297,6 @@
     <string name="low_power_remind_cancle_power_mode">İptal</string>
     <string name="low_power_remind_enter_power_mode">Etkinleştir</string>
     <string name="low_power_remind_jump_to_power_mode_config">Yapılandır</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
     <string name="medium_power_save_subtitle">Pil ömrünü %20 artır</string>
     <string name="medium_power_save_title">Orta düzey tasarruf</string>
     <string name="menu_cpu_mode_balance">Dengede</string>
@@ -345,7 +314,6 @@
     <string name="msg_help_for_clean_app">Devre dışı bırakılan uygulamalar tanımlanacak ve telefon bekleme moduna geçtikten 3 dakika sonra gerçek duruma göre dondurulacak veya kapatılacaktır. Bu, bildirim alınamamasına neden olabilir.</string>
     <string name="msg_help_for_clean_app_old">Telefonunuz bekleme moduna geçtikten 3 dakika sonra arka plan uygulamalarını otomatik olarak temizleyin. Bu durum bildirim alma arızasına sebep olabilir.</string>
     <string name="msg_start_end_too_small">"Başlangıç ve bitiş zamanları arasındaki aralık %1$d dk'dan az olamaz."</string>
-    <string name="mzuc_update_finish_format">Updated to latest version %s</string>
     <string name="normal_idle_time">Normal bekleme süresi</string>
     <string name="normal_screen_on_time">Normal ekran açık kalma süresi</string>
     <string name="not_use_powerxtend">Devre dışı bırak</string>
@@ -360,9 +328,7 @@
     <string name="picture_compression_explain">The greater the compression ratio, the better the power saving effect, but it may affect image quality.</string>
     <string name="picture_compression_ratio">Ratio</string>
     <string name="power_alert_dialog_ok">OK</string>
-    <string name="power_aod">AOD</string>
     <string name="power_bg">Arka plan güç kullanımı</string>
-    <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Hücresel ağ beklemede</string>
     <string name="power_consumption_details">Son yüklemeden beri kullanım</string>
     <string name="power_continue_disable">İptal</string>
@@ -374,9 +340,7 @@
     <string name="power_duration_twenty_four_hours">Son 24 saat</string>
     <string name="power_exception_msg">"Etkin olmayan uygulama arka planı, CPU'nun %1$s kadarını kullanıyor, bugünkü kullanım maks. %2$s dk, yüksek güç kullanımına, ısınmaya ve gecikmeye neden oluyor"</string>
     <string name="power_exception_notice">Yüksek güç kullanan uygulamalar</string>
-    <string name="power_face">Face recognition</string>
     <string name="power_fg">Ön plan güç kullanımı</string>
-    <string name="power_fingerprint">Fingerprint identification</string>
     <string name="power_flashlight">El Feneri</string>
     <string name="power_hard_sipper">Donanım</string>
     <string name="power_hard_total_sipper">Toplam donanım kullanımı</string>
@@ -394,19 +358,10 @@
     <string name="power_no_sw_data_msg">Yazılım Kullanım Verisi yok</string>
     <string name="power_not_remind">Bana tekrar anımsatma</string>
     <string name="power_phone">Sesli arama</string>
-    <string name="power_rank_draw_y0">0</string>
-    <string name="power_rank_draw_y100">100</string>
-    <string name="power_rank_draw_y20">20</string>
-    <string name="power_rank_draw_y40">40</string>
-    <string name="power_rank_draw_y60">60</string>
-    <string name="power_rank_draw_y80">80</string>
-    <string name="power_rank_hardware">Donanım</string>
-    <string name="power_rank_soft">Yazılım</string>
     <string name="power_ranking_desc">Tüketim sıralamasını görüntüle</string>
     <string name="power_save_notice">Güç tasarrufu ipucu</string>
     <string name="power_save_notice_msg">Güç tasarrufu ipucu: Ekran parlaklığını ve zaman aşımını düşürün</string>
     <string name="power_screen">Ekran</string>
-    <string name="power_setting">Ayarlar</string>
     <string name="power_soft_sipper">Yazılım</string>
     <string name="power_soft_total_sipper">Toplam yazılım kullanımı</string>
     <string name="power_title">Güç kullanımı ayrıntıları</string>
@@ -527,12 +482,9 @@
     <string name="title_background_count_standard">Standart sınır</string>
     <string name="title_battery_manager">Pil Yöneticisi</string>
     <string name="title_click_enter_pm">%1$s öğesini etkinleştirmek için dokunun</string>
-    <string name="title_device_bluetooth">Bluetooth</string>
     <string name="title_device_cpu_mode">CPU performansı</string>
-    <string name="title_device_gps">GPS</string>
     <string name="title_device_gpu_mode">GPU güç tasarrufu</string>
     <string name="title_device_mobile_hotspots">Taşınabilir erişim noktası</string>
-    <string name="title_device_nfc">NFC</string>
     <string name="title_device_tlight">Ana ekran düğme ışığı</string>
     <string name="title_enable_supper_mode">Süper tasarruf modunu etkinleştir</string>
     <string name="title_end_time">Bitiş Zamanı</string>
@@ -547,8 +499,7 @@
     <string name="title_low_powr_remind_jump_to_super_mode">Süper tasarruf modunu yapılandırmak için dokunun</string>
     <string name="title_lower_level_value">Düşük güç:</string>
     <string name="title_mode_select">Tasarruf modu</string>
-    <string name="title_network_data">Turn off cellular network</string>
-    <string name="title_network_wlan">WLAN</string>
+    <string name="title_network_data">Hücresel veriyi kapat</string>
     <string name="title_performance_low_mode">Şu anda düşük güç modundasınız.</string>
     <string name="title_performance_supper_mode">Şu anda süper tasarruf modundasınız</string>
     <string name="title_power_low">Pil şu değerden az: %1$d</string>
@@ -566,7 +517,6 @@
     <string name="title_stardard_ps">Düşük güç modu</string>
     <string name="title_start_time">Başlangıç Zamanı</string>
     <string name="title_super_mode_app_count">Uygulamalara süper modda izin verildi</string>
-    <string name="title_super_mode_app_count_0">0</string>
     <string name="title_super_mode_app_count_1">1 uygulama</string>
     <string name="title_super_mode_app_count_2">2 uygulama</string>
     <string name="title_super_mode_app_select">Uygulama Seç</string>
@@ -604,44 +554,10 @@
     <string name="wakeup_msg">Çevrimiçi mesaj eşitlemesi, veri güncelleme vb dahildir</string>
     <string name="wakeup_time_while_idle">Beklemedeyken uyanık geçen süre</string>
     <string name="wakeup_times_while_idle">WLAN veri kullanımı</string>
-    <string name="wifi">WLAN</string>
     <string name="wifi_data">WLAN veri kullanımı</string>
     <string name="wifi_on_time">WLAN açık kalma süresi</string>
     <string name="wifi_power_ratio">WLAN tarafından kullanılan güç:</string>
     <string name="wifi_power_save_notie_msg">"Güç tasarrufu ipucu: Ağ kullanılmıyorken WLAN'ı kapatın"</string>
-    <string name="wifi_settings_title">WLAN</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="durationMinutes_whole_unit">%1$dm</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
-    <string name="hello_blank_fragment">Battery management</string>
-    <string name="jumpToSetup">Click to enter setup page</string>
-    <string name="mc_action_settings">Settings</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_hello_world">Hello world!</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
-    <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
-    <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="reject_recommend">Optional</string>
-    <string name="title_activity_activity_power_rank">ActivityPowerRank</string>
     <string name="title_activity_app_power_manager" />
     <string name="title_activity_power_uimain" />
-    <string name="total_num_lager_files">%1$s total Nums</string>
 </resources>
