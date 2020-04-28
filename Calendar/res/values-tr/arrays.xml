@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="availability">
+        <item>Meşgul</item>
+        <item>Kullanılabilir</item>
+        <item>Belirsiz</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadece bu etkinlik</item>
+        <item>Tüm yinelenen etkinlikler</item>
+        <item>İptal</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>Anımsatma</item>
+        <item>10 dakika içinde uyar</item>
+        <item>30 dakika içinde uyar</item>
+        <item>1 saat içinde uyar</item>
+        <item>3 saat içinde uyar</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Sadece bu etkinlik</item>
+        <item>Bu ve gelecekteki etkinlikler</item>
+        <item>Tüm etkinlikler</item>
+        <item>İptal</item>
+    </string-array>
+    <string-array name="email_options">
+        <item>E-posta gönder</item>
+        <item>Kişilere ekle</item>
+    </string-array>
+    <string-array name="flyme_package_installer_internal_app_uninstall_text">
+        <item>Bu uygulamayı kaldırırsanız, diğer sistem uygulamalarını devre dışı bırakabilir. Yine de kaldırılsın mı?</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>Yeni Yıl</item>
+        <item>Sevgililer Günü</item>
+        <item>Kadınlar Günü</item>
+        <item></item>
+        <item>Uluslararası Tüketici Hakları Günü</item>
+        <item></item>
+        <item>1 Nisan</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Uluslararası İşçi Bayramı</item>
+        <item>Uluslararası Gençlik Günü</item>
+        <item></item>
+        <item>Çocuklar Günü</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Öğretmenler Günü</item>
+        <item></item>
+        <item>Cadılar Bayramı</item>
+        <item>Noel Arifesi</item>
+        <item>Noel</item>
+    </string-array>
+    <string-array name="horoscope_array">
+        <item>Aries</item>
+        <item>Boğa</item>
+        <item>İkizler</item>
+        <item>Yengeç burcu</item>
+        <item>Leo</item>
+        <item>Başak burcu</item>
+        <item>Terazi</item>
+        <item>Akrep burcu</item>
+        <item>Yay burcu</item>
+        <item>Oğlak burcu</item>
+        <item>Kova burcu</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="lunar_month">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>Mayıs</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="permission_summary">
+        <item>"Kişiler'in doğum gününü oku"</item>
+        <item>Tatil ve abonelik bilgilerini al</item>
+        <item>Kesin konumu edinin</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>Hiçbiri</item>
+        <item>Etkinlik gününde (09:00)</item>
+        <item>1 gün önce (09:00)</item>
+        <item>2 gün önce (09:00)</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>Hiçbiri</item>
+        <item>Etkinlik saatinde</item>
+        <item>10 dakika önce</item>
+        <item>30 dakika önce</item>
+        <item>1 saat önce</item>
+        <item>1 gün önce</item>
+    </string-array>
+    <string-array name="pref_week_start_labels">
+        <item>Varsayılan bölge</item>
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+    </string-array>
+    <string-array name="principle_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Birkaç dakika geç kalacağım</item>
+        <item>Yaklaşık 10 dakika içinde orada olurum.</item>
+        <item>Devam et ve bensiz başla.</item>
+        <item>Maalesef yapamıyorum. Yeniden planlamamız gerekir.</item>
+        <item>Kendiniz yazın…</item>
+    </string-array>
+    <string-array name="reminder_day_labels">
+        <item>Hiçbiri</item>
+        <item>Etkinlik gününde</item>
+        <item>1 gün önce</item>
+        <item>2 gün önce</item>
+        <item>3 gün önce</item>
+        <item>1 hafta önce</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Bildirimler</item>
+        <item>E-posta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_types">
+        <item>Dikkat bildirimleri</item>
+        <item>Pop-up Uyarılar</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Daima</item>
+        <item>Bir tarihe kadar</item>
+        <item>Belirli bir sayıda</item>
+    </string-array>
+    <string-array name="sectional_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tool_types">
+        <item>Tarih tahmini</item>
+        <item>Zaman aralığı</item>
+        <item>Gregoryen takvim dönüşümü</item>
+    </string-array>
+    <string-array name="weekSpeakArr">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cts</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">1 gün önce</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">1 saat önce</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d dk önce</item>
+        <item quantity="one">1 dakika önce</item>
+    </plurals>
+    <plurals name="fmt_in_num_days">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">Yarın</item>
+    </plurals>
+    <plurals name="fmt_num_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">Dün</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">%d kezden sonra sona erdirilsin mi?</item>
+        <item quantity="one">Tek seferlik etkinlik</item>
+    </plurals>
+    <plurals name="reminder_fmt_d">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">1 gün</item>
+    </plurals>
+    <plurals name="reminder_fmt_h">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="reminder_fmt_m">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d kez</item>
+        <item quantity="one">1 kez</item>
+    </plurals>
+</resources>
