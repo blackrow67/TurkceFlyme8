@@ -1068,7 +1068,7 @@
         <item>Gösterme</item>
     </string-array>
     <string-array name="statusbar_power_percent_entries">
-        <item>Simgenin içinde göster</item>
+        <item>"Simgenin içinde/yanında göster"</item>
         <item>Pil yüzdesini gösterme</item>
     </string-array>
 </resources>
