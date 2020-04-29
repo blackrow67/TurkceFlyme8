@@ -282,9 +282,11 @@ We've got it all under perfect control"</string>
     <string name="pref_summary_navigation_bar_standard">Gezinti çubuğunda geri, Giriş ve çoklu görev düğmesine dokunun</string>
     <string name="pref_summary_navigation_bar_hide_gesture">Ekran tarafında: geri gitmek için kısa kaydırma, Giriş ekranına veya çoklu göreve gitmek için uzun kaydırma</string>
     <string name="experience_now">Şimdi deneyin</string>
-    <string name="experience_now_summary_line_one">Simple and efficient navigation bar:</string>
+    <string name="experience_now_summary_line_one">Basit ve verimli navigasyon çubuğu:</string>
     <string name="experience_now_summary_line_two">Tap to go back. Press to go Home screen</string>
-    <string name="experience_now_summary_line_three">Swipe up from the bottom to go multi-task</string>
+    <string name="experience_now_summary_line_three">Çoklu göreve gitmek için aşağıdan yukarıya kaydırın</string>
+	<string name="pref_title_mback_gesture_side">Her iki taraftan geri kaydırma</string>
+    <string name="pref_title_mback_long_press">Ekranı kilitlemek için ana tuşa uzun basın</string>
     <string name="luckymoney_app_name">Lucky money assistant</string>
     <string name="welcomepage_one_title">Renewed</string>
     <string name="welcomepage_one_content">Meticulously crafted new design. Simple, light, and delicate.</string>
