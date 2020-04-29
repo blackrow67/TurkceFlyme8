@@ -1313,7 +1313,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
     <string name="quick_settings_hotspot_label">Erişim noktası</string>
     <string name="quick_settings_ime_label">Giriş yöntemi</string>
     <string name="quick_settings_inversion_label">Renkleri tersine çevir</string>
-    <string name="quick_settings_location_label">Konum hizmetleri</string>
+    <string name="quick_settings_location_label">Konum Hizmetleri</string>
     <string name="quick_settings_location_off_label">Konum Kapalı</string>
     <string name="quick_settings_media_device_label">Medya Cihazı</string>
     <string name="quick_settings_more_settings">Daha Fazla Ayar</string>
