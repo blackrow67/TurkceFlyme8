@@ -289,7 +289,7 @@ Just bring the devices together (typically back to back) and then tap your scree
     <string name="app_link_open_never">Bu uygulamada açma</string>
     <string name="app_link_open_summary">desteklenen bağlantıyı açmak için varsayılan olarak bu uygulamayı kullan</string>
     <string name="app_list_memory_use">Uygulama kullanımı</string>
-    <string name="app_list_preference_none">None</string>
+    <string name="app_list_preference_none">Hiç biri</string>
     <string name="app_memory_use">Bellek kullanımı</string>
     <string name="app_name">ForceTouch</string>
     <string name="app_name_label">Uygulama</string>
@@ -403,8 +403,8 @@ Just bring the devices together (typically back to back) and then tap your scree
     <string name="auto_sync_personal_account_title">Automatically sync personal data</string>
     <string name="auto_sync_work_account_title">Automatically sync work data</string>
     <string name="autofill_app">Otomatik doldurma hizmeti</string>
-    <string name="autofill_confirmation_message">"&lt;b>Make sure you trust this app&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> uses what's on your screen to determine what can be autofilled."</string>
-    <string name="autofill_information">The autofill service needs to read your screen display to determine what can be filled out automatically.</string>
+    <string name="autofill_confirmation_message">&lt;b>Bu uygulamaya güvendiğinizden emin olun&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g>, otomatik olarak doldurulabilir girişleri belirlemek için ekranınızdakileri kullanır.</string>
+    <string name="autofill_information">Otomatik doldurma hizmeti, nelerin otomatik olarak doldurulması gerektiğini belirlemesi için ekranı okuması gerekir.</string>
     <string name="autofill_keywords">otomatik, doldur, otomatik doldur</string>
     <string name="automatic_brightness">Otomatik parlaklık</string>
     <string name="automatic_storage_manager_activation_warning">Your storage is now being managed by the storage manager</string>
@@ -1180,7 +1180,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="data_usage_limit_dialog_title">Limiting data usage</string>
     <string name="data_usage_limit_editor_title">Set data usage limit</string>
     <string name="data_usage_list_mobile">Mobile</string>
-    <string name="data_usage_list_none">None</string>
+    <string name="data_usage_list_none">Hiçbiri</string>
     <string name="data_usage_menu_allow_background">Arka plan verilerine izin ver</string>
     <string name="data_usage_menu_auto_sync">Verileri otomatik eşitle</string>
     <string name="data_usage_menu_cellular_networks">Hücresel ağlar</string>
@@ -3147,7 +3147,7 @@ Bu izin; uygulamaya, Rahatsız Etme ayarını açma veya kapatma ve ilgili ayarl
     <string name="overlay_settings">Display over other apps</string>
     <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Android.</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
-    <string name="owner_info_settings_summary">None</string>
+    <string name="owner_info_settings_summary">Hiç biri</string>
     <string name="owner_info_settings_title">Lock screen message</string>
     <string name="packages_subtitle">Dahil olan paketler</string>
     <string name="page_tab_title_summary">All</string>
@@ -3584,6 +3584,16 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="runningservices_settings_title">Çalışan hizmetler</string>
     <string name="runtime_permissions_summary_no_permissions_granted">No permissions granted</string>
     <string name="runtime_permissions_summary_no_permissions_requested">No permissions requested</string>
+	<string name="r_angle_adjust">Tam ekran görüntüleme modu</string>
+    <string name="r_angle_adjust_description">Açıldığında, uygulama maksimum ölçekte görüntülenecek ve tüm ekranı dolduracaktır. Anormal bir ekran varsa, uygulamanın anahtarını kapatabilir ve orijinal ölçek ekranına geçebilirsiniz.</string>
+    <string name="r_angle_adjust_tips">Uygulama tam ekran moduyla uyumlu değil</string>
+    <string name="r_angle_adjust_open">Aç</string>
+    <string name="r_angle_adjust_close">Kapat</string>
+    <string name="r_angle_adjust_change_dlg_title">Ekran modunu değiştir</string>
+    <string name="r_angle_adjust_change_dlg_summary">Çalışan uygulama yeniden başlatılacak. Veri kaybını önlemek için lütfen devam eden işleminizi kaydedin.</string>
+    <string name="r_angle_adjust_change_dlg_checkbox">Daha uzun istem yok</string>
+    <string name="r_angle_adjust_change_btn_text">Değiştir</string>
+    <string name="r_angle_adjust_empty_text">Kullanılabilir uygulama yok</string>
     <string name="safety_and_regulatory_info">Güvenlik ve mevzuat kılavuzu</string>
     <string name="save">Kaydet</string>
     <string name="saved_network">%1$s tarafından kaydedildi</string>
@@ -4778,7 +4788,7 @@ Any user can update apps for all other users."</string>
     <string name="vpn_disconnect">Disconnect</string>
     <string name="vpn_disconnect_confirm">Disconnect this VPN?</string>
     <string name="vpn_disconnected">Disconnected from VPN</string>
-    <string name="vpn_disconnected_summary">None</string>
+    <string name="vpn_disconnected_summary">Hiç biri</string>
     <string name="vpn_dns_hint">8.8.8.8</string>
     <string name="vpn_dns_servers">DNS servers</string>
     <string name="vpn_done">Dismiss</string>
@@ -5268,7 +5278,7 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="zen_mode_events">Events</string>
     <string name="zen_mode_from_anyone">From anyone</string>
     <string name="zen_mode_from_contacts">From contacts only</string>
-    <string name="zen_mode_from_none">None</string>
+    <string name="zen_mode_from_none">Hiç biri</string>
     <string name="zen_mode_from_starred">From starred contacts only</string>
     <string name="zen_mode_messages">Messages</string>
     <string name="zen_mode_option_alarms">Alarms only</string>
