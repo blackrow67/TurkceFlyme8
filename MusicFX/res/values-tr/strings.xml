@@ -2,13 +2,7 @@
 <resources>
     <string name="alwaysUse">Varsayılan olarak bu seçeneği kullanın</string>
     <string name="date_time_set">Ayarla</string>
-    <string name="mz_date_time_day" />
-    <string name="mz_date_time_hour" />
-    <string name="mz_date_time_min" />
-    <string name="mz_date_time_month" />
-    <string name="mz_date_time_sec" />
-    <string name="mz_date_time_year" />
-    <string name="mz_network_unavailable_hint">Ağ kullanılamaz. Lütfen ağ ayarlarını kontrol edin.</string>
+      <string name="mz_network_unavailable_hint">Ağ kullanılamaz. Lütfen ağ ayarlarını kontrol edin.</string>
     <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_wif_setting_dialog_set">Network Settings</string>
     <string name="item_is_selected">%1$s selected</string>

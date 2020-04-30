@@ -45,5 +45,4 @@
     <string name="face_compare_liveness_frozen">Yüz kilidi devre dışı bırakıldı. Kilidini açmak için şifre veya parmak izi kullanın</string>
     <string name="face_name_template">Yüz</string>
     <string name="face_failed_attr_face_occlusion">Yüz kapalıydı</string>
-    <string name="mz_screenbrighness_lights_file_name">/sys/class/backlight/panel0-backlight/brightness</string>
 </resources>

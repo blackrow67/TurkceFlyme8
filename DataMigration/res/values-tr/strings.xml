@@ -32,7 +32,7 @@
     <string name="action_base_cancel_connecting_tip">Upgrading network connection, please wait.</string>
     <string name="action_base_client_stop_share_dialog_title">Gönderimin durdurulması kişileri, uygulamaları, WeChat verilerini ve diğer bilgileri geri almada başarısız olunmasına sebep olabilir.</string>
     <string name="action_base_detail_confirm_button_text">Tamam</string>
-    <string name="action_base_disconnect_dialog_title">Bağlantı kesilsin mi?
+    <string name="action_base_disconnect_dialog_title">Bağlantı kesilsin mi?</string>
     <string name="action_base_header_tips_fail_receiver">Alma durduruldu</string>
     <string name="action_base_header_tips_fail_receiver_exception">Error receiving</string>
     <string name="action_base_header_tips_fail_sender">Gönderme durduruldu</string>
@@ -313,9 +313,6 @@ just now"</string>
     <string name="mc_search_icon">Search</string>
     <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
-    <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
-    <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
