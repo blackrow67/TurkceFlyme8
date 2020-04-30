@@ -1969,6 +1969,12 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="high_power_prompt_title">Pil optimizasyonları yok sayılsın mı?</string>
     <string name="high_power_system">Pil optimizasyonu kullanılamıyor</string>
     <string name="history_details_title">Ayrıntılar</string>
+	<string name="hbm_title">Yüksek Parlaklık Modu</string>
+    <string name="hbm_switch_text">"Yüksek ışık ortamında YPM'yi etkinleştirin"</string>
+    <string name="hbm_guide_and_warnings">"Yüksek Parlaklık Modu, yüksek ışık ortamında ekranın içeriğini görmeyi kolaylaştırır. Yüksek Parlaklık Modunu uzun süre etkinleştirmek ekranda onarılamaz hasara neden olabilir
+İpuçları: Yüksek Parlaklık Modu yalnızca otomatik parlaklık aktifken etkinleşir"</string>
+    <string name="hbm_dialog_warnings">Yüksek Parlaklık Modu ekran eskimesini hızlandırır, uzun süre etkinleştirilmesi ekranda onarılamaz hasara neden olabilir</string>
+    <string name="hbm_dialog_title">Yüksek ışık ortamında YPM etkinleştirilsin mi?</string>
     <string name="home">Ayarlar Ana Sayfası</string>
     <string name="home_app">Başlatıcı uygulaması</string>
     <string name="home_category_title">Anasayfa ekranı</string>
