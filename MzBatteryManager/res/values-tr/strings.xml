@@ -560,6 +560,4 @@
     <string name="wifi_on_time">WLAN açık kalma süresi</string>
     <string name="wifi_power_ratio">WLAN tarafından kullanılan güç:</string>
     <string name="wifi_power_save_notie_msg">"Güç tasarrufu ipucu: Ağ kullanılmıyorken WLAN'ı kapatın"</string>
-    <string name="title_activity_app_power_manager" />
-    <string name="title_activity_power_uimain" />
 </resources>
