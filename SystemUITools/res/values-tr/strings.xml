@@ -285,7 +285,7 @@ We've got it all under perfect control"</string>
     <string name="experience_now_summary_line_one">Basit ve verimli navigasyon çubuğu:</string>
     <string name="experience_now_summary_line_two">Tap to go back. Press to go Home screen</string>
     <string name="experience_now_summary_line_three">Çoklu göreve gitmek için aşağıdan yukarıya kaydırın</string>
-	<string name="pref_title_mback_gesture_side">Her iki taraftan geri kaydırma</string>
+	<string name="pref_title_mback_gesture_side">Hareketle geri dön</string>
     <string name="pref_title_mback_long_press">Ekranı kilitlemek için ana tuşa uzun basın</string>
     <string name="luckymoney_app_name">Lucky money assistant</string>
     <string name="welcomepage_one_title">Renewed</string>
@@ -351,7 +351,6 @@ Proficient in recognition, voice, photo, and more."</string>
     <string name="pref_title_navigation_bar_hide_gesture_simple">Basit gezinme</string>
     <string name="pref_summary_navigation_bar_hide_gesture_simple">Ekran tarafında: geri dönmek için yatay kaydırın. Ana ekrana dığru gitmek için ekranı aşağı doğru kaydırın. Çoklu göreve gitmek için yukarı kaydırın.</string>
     <string name="pref_summary_switcher_recents">Görevler arasında geçiş yapmak için gezinme çubuğunda kaydırın</string>
-    <string name="pref_title_mback_gesture_side">Hareketle geri dön</string>
     <string name="pref_summary_mback_gesture_side">mBack kullanırken geri gitmek için kenardan kaydırın</string>
     <string name="pref_title_navigation_bar_none">Gezinme çubuğunu gizle</string>
     <string name="pref_summary_navigation_bar_none">Gezinme çubuğunu gizleme ve hareketleri kullanma</string>
