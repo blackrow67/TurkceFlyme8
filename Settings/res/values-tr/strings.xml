@@ -790,7 +790,7 @@ Oynatma Kalitesi"</string>
     <string name="bluetooth_talkback_headset">Headset</string>
     <string name="bluetooth_talkback_imaging">Imaging</string>
     <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
-    <string name="bluetooth_talkback_phone">Phone</string>
+    <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth paylaşımı</string>
     <string name="bluetooth_tethering_off_subtext_config">Bu %1$d cihazın internet bağlantısı Bluetooth üzerinden paylaşılıyor</string>
     <string name="bluetooth_tethering_overflow_error">En çok %1$d cihaz ile bağlantı paylaşımı yapılabilir.</string>
@@ -1108,7 +1108,7 @@ Telefonunuzu kullanmaya devam etmek için, fabrika ayarlarına sıfırlamanız g
     <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kılındı</string>
     <string name="dashboard_flyme_account_logined_summary">Hesap bilgileri, bulut hizmeti ve Telefon Bulucu</string>
     <string name="dashboard_flyme_account_logined_summary_without_sync_service">Hesap bilgileri ve Telefon Bulucu</string>
-    <string name="dashboard_flyme_account_not_login_summary">Data Synci ve Telefon Bulucuyu Etkinleştir</string>
+    <string name="dashboard_flyme_account_not_login_summary">Veri eşitleme ve Telefon Bulucuyu Etkinleştir</string>
     <string name="dashboard_flyme_account_not_login_summary_without_sync_service">Telefon Bulucuyu Etkinleştir</string>
     <string name="dashboard_flyme_account_not_login_title">Flyme hesabında oturum açın</string>
     <string name="dashboard_title">Ayarlar</string>
@@ -1324,7 +1324,7 @@ This setting affects all users on this phone."</string>
     <string name="device_info_default">Bilinmeyen</string>
     <string name="device_info_label">Cihaz bilgileri</string>
     <string name="device_info_not_available">Mevcut değil</string>
-    <string name="device_info_settings">Phone status</string>
+    <string name="device_info_settings">Telefon durumu</string>
     <string name="device_picker">Bluetooth cihazı seç</string>
     <string name="device_screen_consumption">Ekran tüketimi</string>
     <string name="device_screen_usage">Tam şarjdan itibaren ekran kullanımı</string>
@@ -3515,12 +3515,12 @@ Flyme hesabının parolasını girin \"%s\""</string>
     <string name="restore_default_apn_completed">Varsayılan APN ayarlarının sıfırlanması tamamlandı.</string>
     <string name="restr_pin_enter_admin_pin">Enter admin PIN</string>
     <string name="restrict_background_blacklisted">Kısıtlamasız veri erişimi</string>
-    <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
+    <string name="restriction_bluetooth_config_summary">Bluetooth eşleşmelerini ve ayarlarını değiştirmeye izin ver</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
-    <string name="restriction_location_enable_summary">Allow apps use your location information</string>
-    <string name="restriction_location_enable_title">Location</string>
-    <string name="restriction_menu_change_pin">Change PIN</string>
-    <string name="restriction_menu_reset">Remove restrictions</string>
+    <string name="restriction_location_enable_summary">Uygulamaların konum bilgilerinizi kullanmasına izin verin</string>
+    <string name="restriction_location_enable_title">Konum</string>
+    <string name="restriction_menu_change_pin">"PIN'i değiştir"</string>
+    <string name="restriction_menu_reset">Kısıtlamaları kaldır</string>
     <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
     <string name="restriction_nfc_enable_summary_config">Allow data exchange when this %1$s touches another NFC device</string>
     <string name="restriction_nfc_enable_title">NFC</string>
@@ -4270,8 +4270,8 @@ Consider using a faster ^1 for better performance."</string>
     <string name="strong_font_dlg_btn_restart">Şimdi yeniden başlat</string>
     <string name="strong_font_dlg_title">Bu ayarın uygulanması için yeniden başlatma gerekiyor</string>
     <string name="style_choose_text">Uygula</string>
-    <string name="subscreen_camera">Camera on secondary display</string>
-    <string name="subscreen_camera_summary">When disabled, camera view will not be shown on the secondary display.</string>
+    <string name="subscreen_camera">Kamera ikinci ekranda</string>
+    <string name="subscreen_camera_summary">Devre dışı bırakıldığında, kamera görünümü ikinci ekranda gösterilmez.</string>
     <string name="subscreen_category_title">Genel</string>
     <string name="subscreen_custom_badge">Özelleştir</string>
     <string name="subscreen_double_click_wakeup">Uyandırmak çift dokunun</string>
@@ -4283,7 +4283,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="subscreen_notification_phone_status_summary">Yazma, müzik oynatma, şarj etme vb.</string>
     <string name="subscreen_notification_remind">Bildirimler</string>
     <string name="subscreen_notification_remind_summary">Durum çubuğu bildirimlerini görüntüle</string>
-    <string name="subscreen_open">Enable secondary display</string>
+    <string name="subscreen_open">İkinci ekranı etkinleştir</string>
     <string name="subscreen_remind_source_summary">Dahil et: kişiler, bildirim kaynağı</string>
     <string name="subscreen_remind_source_title">Anımsatıcı bilgilerini göster</string>
     <string name="subscreen_timeout">Ekranı otomatik kapat</string>
