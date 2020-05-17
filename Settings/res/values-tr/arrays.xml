@@ -419,13 +419,13 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Never</item>
-        <item>15 seconds</item>
-        <item>30 secs</item>
-        <item>1 min</item>
-        <item>2 mins</item>
-        <item>5 mins</item>
-        <item>10 mins</item>
-        <item>30 mins</item>
+        <item>15 saniye</item>
+        <item>30 saniye</item>
+        <item>1 dk</item>
+        <item>2 dk</item>
+        <item>5 dk</item>
+        <item>10 dk</item>
+        <item>30 dk</item>
     </string-array>
     <string-array name="eap_method_without_sim_auth">
         <item>PEAP</item>
@@ -534,14 +534,14 @@
     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>15 seconds</item>
-        <item>30 secs</item>
-        <item>1 min</item>
-        <item>2 mins</item>
-        <item>5 minutes</item>
-        <item>10 mins</item>
-        <item>30 mins</item>
+        <item>5 sn</item>
+        <item>15 sn</item>
+        <item>30 sn</item>
+        <item>1 dk</item>
+        <item>2 dk</item>
+        <item>5 dk</item>
+        <item>10 dk</item>
+        <item>30 dk</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kısa</item>
