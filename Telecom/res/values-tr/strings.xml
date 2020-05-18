@@ -129,8 +129,6 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="mc_action_settings">Settings</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
@@ -293,18 +291,6 @@
     <string name="wifi_password_error_hint">Password incorrect</string>
     <string name="v7_preference_on">ON</string>
     <string name="v7_preference_off">OFF</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
     <string name="abc_action_mode_done">Done</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
@@ -329,14 +315,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">None</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_remembered">Kaydedildi</string>
@@ -358,8 +342,6 @@
     <string name="connected_via_network_scorer_default">Ağ derecelendirme sağlayıcı aracılığıyla otomatik olarak bağlandı</string>
     <string name="connected_via_passpoint">%1$s üzerinden bağlı</string>
     <string name="available_via_passpoint">%1$s üzerinden kullanılabilir</string>
-    <string name="settings_package">com.android.settings</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="wifi_connected_no_internet">Connected, no Internet</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Access point temporarily full</string>
     <string name="connected_via_carrier">%1$s üzerinden bağlı</string>
@@ -902,10 +884,6 @@ Koşullu"</string>
     <string name="notification_gmRejectCallsMsgMz">%s rejected call(s)</string>
     <string name="notification_unreadedGMRejectTitle_multi">%s rejected call(s)</string>
     <string name="notification_GM_tips">Block incoming calls in game mode,</string>
-    <string name="ui_default_package">com.android.dialer</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
-    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
-    <string name="incallui_default_package">com.android.incallui</string>
     <string name="telecommAppLabel">Telefon Arama Yönetimi</string>
     <string name="userCallActivityLabel">Telefon</string>
     <string name="notification_missedCallTitle">Cevapsız arama</string>
