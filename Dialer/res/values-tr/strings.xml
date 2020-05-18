@@ -138,16 +138,9 @@
     <string name="clearFrequentsConfirmation_title">Sık görüşülenler temizlensin mi?</string>
     <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...</string>
     <string name="clear_default">Varsayılanı temizle</string>
-    <string name="common_last_name_prefixes" />
-    <string name="common_name_conjunctions" />
-    <string name="common_name_prefixes" />
-    <string name="common_name_suffixes" />
     <string name="composer_failed_to_get_database_infomation">Veri tabanı bilgileri alınamadı</string>
     <string name="composer_has_no_exportable_contact">Dışa aktarılabilir kişi yok. Kişiler telefonunuzda değilse, bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermeyebilir</string>
     <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
     <string name="config_export_vcard_type">varsayılan</string>
     <string name="config_import_vcard_type">varsayılan</string>
     <string name="config_prohibited_phone_number_regexp" />
@@ -952,7 +945,7 @@ Olası neden:
     <string name="mzc_sos_auto_call_des">Auto-dial %1$s when entering Emergency SOS</string>
     <string name="mzc_sos_auto_send_position">"Otomatik konum SMS'i gönder"</string>
     <string name="mzc_sos_auto_send_position_des">"Acil DURUM SOS'u girerken, acil durum kişilerini otomatik olarak arayın ve bildirin ve konum iletileri gönderin"</string>
-    <string name="mzc_sos_auto_send_position_des2">When entering Emergency SOS, auto-send emergency contacts location messages</string>
+    <string name="mzc_sos_auto_send_position_des2">"Acil DURUM SOS'u, acil durum kişileri konum mesajlarını otomatik olarak gönder"</string>
     <string name="mzc_sos_auto_send_service_text">"Konum SMS'ini tüm acil durum kişilerine otomatik olarak her %d dakika içinde gönder"</string>
     <string name="mzc_sos_auto_send_service_title">"Otomatik konum SMS'i gönderme açık"</string>
     <string name="mzc_sos_auto_send_stop">Otomatik göndermeyi durdur</string>
@@ -1207,8 +1200,10 @@ Olası neden:
     <string name="savingContact">Kişi kaydediliyor…</string>
     <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor…</string>
     <string name="scanning_sdcard_failed_message">SD kart taranamadı. (Neden: \"%s\")</string>
+	<string name="search_font_family">sans-serif</string>
     <string name="searchHint">Kişileri ara</string>
     <string name="search_menu_title">Ara</string>
+	<string name="search_font_family">sans-serif</string>
     <string name="search_results_searching">Aranıyor…</string>
     <string name="search_settings_description">Kişilerinizin adları</string>
     <string name="search_shortcut_add_to_contacts">Kişilere ekle</string>
@@ -1283,6 +1278,7 @@ Olası neden:
     <string name="strequentList">Favoriler</string>
     <string name="sw_version">Yazılım sürümü</string>
     <string name="tab_all_contacts">Kişiler</string>
+	<string name="tab_font_family">sans-serif</string>
     <string name="tab_recents">Son aramalar</string>
     <string name="tab_speed_dial">Hızlı arama</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
@@ -1333,6 +1329,7 @@ Aşağıdaki seçeneklerden birini belirtin:"</string>
     <string name="version">Sürüm</string>
     <string name="vibrate_on_ring_title">Aramalarda da titret</string>
     <string name="video_chat">Görüntülü sohbet</string>
+	<string name="view_full_call_history_font_family">sans-serif</string>
     <string name="viewContactTitle">Kişi ayrıntıları</string>
     <string name="view_updates_from_group">Güncellemeleri görüntüle</string>
     <string name="voice_search_not_available">Sesli arama kullanılamaz</string>
@@ -1365,40 +1362,17 @@ Aşağıdaki seçeneklerden birini belirtin:"</string>
     <string name="yp_dialog_cancel">İptal</string>
     <string name="yp_dialog_confirm">Tamam</string>
     <string name="yp_dialog_not_install_msg">Tap to install the Flyme Yellow Page</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-    <string name="call_log_activity_title_font_family">sans-serif-light</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="card_name">" - %s"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="config_export_file_extension">vcf</string>
     <string name="date_time_fmt" formatted="false">%s, %s</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
     <string name="fast_scroll_alphabet_simc">ABCDEFGHIJKLMNOPQRSTUVWXYZ#</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="from_account_format">%1$s</string>
-    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="home">SIM 2</string>
     <string name="imei">IMEI</string>
     <string name="label_sip_address">SIP</string>
-    <string name="letter_tile_letter_font_family">sans-serif-light</string>
-    <string name="list_delimeter">", "</string>
-    <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_week">%a</string>
@@ -1446,13 +1420,7 @@ Aşağıdaki seçeneklerden birini belirtin:"</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="percentage">%s%%</string>
-    <string name="photo_file_provider_authority">com.android.contacts.files</string>
-    <string name="search_font_family">sans-serif</string>
     <string name="socialProfileTypeSinaWeibo">Sina Weibo</string>
     <string name="specail_number_dianxin">中国电信客服热线</string>
     <string name="specail_number_dishui">地税纳税服务热线</string>
@@ -1510,8 +1478,6 @@ Aşağıdaki seçeneklerden birini belirtin:"</string>
     <string name="specail_number_zhiliang">质量监督服务热线</string>
     <string name="specail_number_zhongguo">中国银行</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tab_font_family">sans-serif</string>
-    <string name="view_full_call_history_font_family">sans-serif</string>
     <string name="weibo_app">Weibo</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="work">SIM 1</string>
