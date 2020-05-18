@@ -670,7 +670,6 @@ Last ran on %2$s"</string>
     <string name="bluetooth_enter_passkey_msg">Type the passkey</string>
     <string name="bluetooth_enter_passkey_other_device">You may also need to enter this passkey on the other device.</string>
     <string name="bluetooth_enter_pin_other_device">You may also need to type this PIN on the other device.</string>
-    <string name="bluetooth_error_title" />
     <string name="bluetooth_footer_mac_message">Telefonun Bluetooth adresi: %1$s</string>
     <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
     <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
@@ -797,7 +796,6 @@ Oynatma Kalitesi"</string>
     <string name="bluetooth_tethering_subtext">Telefonun internet bağlantısını Bluetooth üzerinden paylaş</string>
     <string name="bluetooth_turning_off">Bluetooth kapatılıyor...</string>
     <string name="bluetooth_turning_on">Bluetooth açılıyor...</string>
-    <string name="bluetooth_unknown" />
     <string name="bluetooth_unlock">Bluetooth cihaz kilidini aç</string>
     <string name="bluetooth_unpair_dialog_body">Your phone will no longer be paired with %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Forget device</string>
@@ -1408,7 +1406,6 @@ dedicate to perfection"</string>
     <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
     <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
     <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Retry later."</string>
-    <string name="dlg_error_unmount_title" />
     <string name="dlg_guest_close_message">Kapatıldıktan sonra konuk modunda oturum açamayacaksınız. Konuk kullanıcının verilerini temizlemek istiyor musunuz?</string>
     <string name="dlg_guest_remain_data">Kapatma</string>
     <string name="dlg_ok">Tamam</string>
@@ -1485,9 +1482,9 @@ dedicate to perfection"</string>
     <string name="double_tap_power_for_camera_summary">Kamerayı hızlıca açmak için, güç düğmesine iki kez basın. Herhangi bir ekranda çalışır.</string>
     <string name="double_tap_power_for_camera_title">Kameraya geç</string>
     <string name="double_twist_for_camera_mode_summary" />
-    <string name="double_twist_for_camera_mode_title">Flip camera</string>
-    <string name="double_twist_for_camera_suggestion_title">Take selfies faster</string>
-    <string name="downloadAliPayTitle">Download alipay wallet</string>
+    <string name="double_twist_for_camera_mode_title">Kamerayı çevir</string>
+    <string name="double_twist_for_camera_suggestion_title">"Daha hızlı selfie'ler çekin"</string>
+    <string name="downloadAliPayTitle">Alipay wallet indir</string>
     <string name="doze_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
     <string name="doze_always_on_title">Daima açık</string>
     <string name="doze_summary">Bildirim geldiğinde ekranı uyandır</string>
@@ -1522,14 +1519,14 @@ dedicate to perfection"</string>
     <string name="easy_mode_cancel_dialog_msg">Kolay moddan çıkılsın mı?</string>
     <string name="easy_mode_tip">Daha büyük yazı tipleri ve simgeler ile daha basit bir Ana ekran</string>
     <string name="email_category_title">E-posta</string>
-    <string name="emergency_address_summary">Address used by emergency services as your location if you make an emergency call using WLAN</string>
-    <string name="emergency_address_title">Update Emergency Address</string>
-    <string name="emergency_info_summary">Info &amp; contacts for %1$s</string>
-    <string name="emergency_info_title">Emergency information</string>
+    <string name="emergency_address_summary">WLAN kullanarak acil durum araması yapmanız durumunda acil durum hizmetleri tarafından konumunuz olarak kullanılan adres</string>
+    <string name="emergency_address_title">Acil Durum Adresini Güncelle</string>
+    <string name="emergency_info_summary">%1$s için bilgi ve kişiler</string>
+    <string name="emergency_info_title">Acil durum bilgileri</string>
     <string name="emergency_tone_alert">Uyarı</string>
     <string name="emergency_tone_silent">Sessiz</string>
-    <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
-    <string name="emergency_tone_title">Emergency tone</string>
+    <string name="emergency_tone_summary">Acil durum araması yapıldığındaki çalışma biçimini ayarla</string>
+    <string name="emergency_tone_title">Acil durum tonu</string>
     <string name="emergency_tone_vibrate">Titret</string>
     <string name="empty_list_msg">Yüklü üçüncü taraf uygulamanız yok.</string>
     <string name="empty_networks_list">No networks</string>
@@ -1636,7 +1633,6 @@ Daha fazla ayrıntı için, kuruluşunuzun yöneticisi ile iletişime geçin."</
     <string name="error_mcc_not3">MCC alanı 3 haneli olmalıdır.</string>
     <string name="error_mnc_not23">MNC alanı 2 veya 3 basamaklı olmalıdır.</string>
     <string name="error_name_empty">Ad alanı boş olamaz.</string>
-    <string name="error_title" />
     <string name="estimated_charging_time_left">Tamamen şarj oluncaya kadar</string>
     <string name="estimated_time_description">Tahmin kullanıma bağlı olarak değişebilir</string>
     <string name="estimated_time_left">Tahmini kalan süre</string>
@@ -1773,12 +1769,12 @@ At veya başka bir hayvan görünmüyordu; erkekler, önlerinde ittikleri küç�
     <string name="force_stop">Durmaya zorla</string>
     <string name="force_stop_dlg_text">Bir uygulamayı zorla durdurursanız, hatalı çalışabilir.</string>
     <string name="force_stop_dlg_title">Durmaya zorlansın mı?</string>
-    <string name="force_touch_level_title">Intensity</string>
-    <string name="force_touch_press_tips">Press the picture to test the intensity of 3D press.</string>
+    <string name="force_touch_level_title">Yoğunluk</string>
+    <string name="force_touch_press_tips">3D presin yoğunluğunu test etmek için resme basın.</string>
     <string name="force_touch_test_title">Dokunma testi</string>
-    <string name="force_touch_tips">When enabled, you can preview content, open a shortcut menu, or perform an operation by pressing the screen with different amounts of force.</string>
-    <string name="force_touch_title">3D Press</string>
-    <string name="forget">FORGET</string>
+    <string name="force_touch_tips">Etkin olduğunda, ekrana farklı miktarlarda güç kullanıp basarak içeriği önizleyebilir, bir kısayol menüsünü açabilir veya bir işlem gerçekleştirebilirsiniz.</string>
+    <string name="force_touch_title">3B Pres</string>
+    <string name="forget">Unut</string>
     <string name="forget_pwd">Parolanızı mı unuttunuz?</string>
     <string name="forget_pwd_associate_account_summary">Parola almak için Meizu hesabında oturum açın</string>
     <string name="forget_pwd_associate_account_title">Flyme hesabını bağla</string>
@@ -1803,15 +1799,15 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="fullbackup_erase_dialog_message">Cihaz verilerinin (WLAN parolaları ve arama geçmişi gibi) ve uygulama verilerinin (uygulamalar tarafından depolanan ayarlar ve dosyalar gibi) yedeklenmesi durdurulsun ve uzak sunuculardaki tüm kopyaları silinsin mi?</string>
     <string name="future_result_is_null">invalid response</string>
     <string name="gadget_bluetooth">Bluetooth</string>
-    <string name="gadget_brightness_state_auto">Auto</string>
-    <string name="gadget_brightness_state_full">Brightest</string>
-    <string name="gadget_brightness_state_half">Half</string>
-    <string name="gadget_brightness_state_off">Off</string>
+    <string name="gadget_brightness_state_auto">Otomatik</string>
+    <string name="gadget_brightness_state_full">En parlak</string>
+    <string name="gadget_brightness_state_half">Yarım</string>
+    <string name="gadget_brightness_state_off">Kapalı</string>
     <string name="gadget_brightness_template">Parlaklık %1$s</string>
     <string name="gadget_location">Konum</string>
     <string name="gadget_picker_title">Araç seç</string>
-    <string name="gadget_state_off">Off</string>
-    <string name="gadget_state_on">On</string>
+    <string name="gadget_state_off">Kapalı</string>
+    <string name="gadget_state_on">Açık</string>
     <string name="gadget_state_template">%1$s%2$s</string>
     <string name="gadget_state_turning_off">Disabling</string>
     <string name="gadget_state_turning_on">Enabling</string>
@@ -1827,8 +1823,6 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="gemini_sim_info_editor_number">Telefon numarası</string>
     <string name="gemini_sim_select_title">SIM kart seç</string>
     <string name="gensor_calibrate_tip_text">Telefonu düz bir zemine yerleştirin</string>
-    <string name="gesture_double_twist_sensor_name" />
-    <string name="gesture_double_twist_sensor_vendor" />
     <string name="gesture_preference_summary">Telefonunuzu kontrol etmek için hızlı hareketler</string>
     <string name="gesture_preference_title">Hareketler</string>
     <string name="gesture_setting_off">Kapalı</string>
@@ -1840,7 +1834,7 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="global_change_warning">This setting applies for all users on this phone.</string>
     <string name="global_data_summary">SIM kartı olmadan yurtdışında internet erişimi al</string>
     <string name="global_data_title">Uluslararası veri</string>
-    <string name="global_locale_change_title">Change language</string>
+    <string name="global_locale_change_title">Dili değiştir</string>
     <string name="go_back_button_label">Geri git</string>
     <string name="gsensor_calibrate_text">Hızlandırma sensörü ve jiroskobu</string>
     <string name="guest_fp_bind_tips">You need to enroll a new fingerprint for unlocking guest mode</string>
@@ -1867,9 +1861,9 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="have_evaluation">Yorum gönderildi</string>
     <string name="hdcp_checking_dialog_title">HDCP denetimini ayarla</string>
     <string name="hdcp_checking_title">HDCP denetimi</string>
-    <string name="header_account_settings">Account settings</string>
-    <string name="header_add_an_account">Add account</string>
-    <string name="header_application_sync_settings">App sync settings</string>
+    <string name="header_account_settings">Hesap ayarları</string>
+    <string name="header_add_an_account">Bir hesap ekle</string>
+    <string name="header_application_sync_settings">Uygulama eşitleme ayarları</string>
     <string name="header_category_access">Erişim</string>
     <string name="header_category_connections">Bağlantılar</string>
     <string name="header_category_device">Cihaz</string>
@@ -1884,67 +1878,6 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, bazı mevcut işlerinizin kaybedebilirsiniz.</string>
     <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
     <string name="help_label">Yardım ve geri bildirim</string>
-    <string name="help_uri_about" />
-    <string name="help_uri_accessibility" />
-    <string name="help_uri_apps" />
-    <string name="help_uri_beam" />
-    <string name="help_uri_default" />
-    <string name="help_uri_display" />
-    <string name="help_uri_interruptions" />
-    <string name="help_uri_notifications" />
-    <string name="help_uri_other_sounds" />
-    <string name="help_uri_printing" />
-    <string name="help_uri_process_stats_apps" />
-    <string name="help_uri_process_stats_summary" />
-    <string name="help_uri_storage" />
-    <string name="help_uri_wallpaper" />
-    <string name="help_url_accessibility_shortcut" />
-    <string name="help_url_account_detail" />
-    <string name="help_url_accounts" />
-    <string name="help_url_apps_and_notifications" />
-    <string name="help_url_audio_accessory_not_supported" />
-    <string name="help_url_autoclick" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_battery" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_color_correction" />
-    <string name="help_url_connected_devices" />
-    <string name="help_url_data_saver" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_display_size" />
-    <string name="help_url_double_tap_screen" />
-    <string name="help_url_dreams" />
-    <string name="help_url_encryption" />
-    <string name="help_url_fingerprint" />
-    <string name="help_url_font_size" />
-    <string name="help_url_gestures" />
-    <string name="help_url_icc_lock" />
-    <string name="help_url_location_access" />
-    <string name="help_url_lockscreen" />
-    <string name="help_url_magnification" />
-    <string name="help_url_manage_storage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_network_dashboard" />
-    <string name="help_url_nfc_payment" />
-    <string name="help_url_night_display" />
-    <string name="help_url_pickup_gesture" />
-    <string name="help_url_remote_display" />
-    <string name="help_url_screen_pinning" />
-    <string name="help_url_screen_saver" />
-    <string name="help_url_security" />
-    <string name="help_url_sound" />
-    <string name="help_url_storage_dashboard" />
-    <string name="help_url_system_dashboard" />
-    <string name="help_url_tether" />
-    <string name="help_url_trust_agent" />
-    <string name="help_url_unrestricted_data_access" />
-    <string name="help_url_upgrading" />
-    <string name="help_url_usage_access" />
-    <string name="help_url_user_and_account_dashboard" />
-    <string name="help_url_users" />
-    <string name="help_url_vpn" />
-    <string name="help_url_wifi" />
     <string name="hide_extra_apps">Uygulama kullanımını göster</string>
     <string name="hide_fringe_summary">Ekran çentiği siyah renkle dolduruldu</string>
     <string name="hide_fringe_title">Ekran çentiğini gizle</string>
@@ -1976,17 +1909,17 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="hbm_dialog_warnings">Yüksek Parlaklık Modu ekran eskimesini hızlandırır, uzun süre etkinleştirilmesi ekranda onarılamaz hasara neden olabilir</string>
     <string name="hbm_dialog_title">Yüksek ışık ortamında YPM etkinleştirilsin mi?</string>
     <string name="home">Ayarlar Ana Sayfası</string>
-    <string name="home_app">Başlatıcı uygulaması</string>
+    <string name="home_app">Ana ekran uygulaması</string>
     <string name="home_category_title">Anasayfa ekranı</string>
     <string name="home_data_summary">SIM kartı olmadan yurtiçi veri hizmeti al</string>
     <string name="home_data_title">Veri hizmeti için mLiteSIM</string>
-    <string name="home_haptic_feedback_enable_title">mBack ses ve dokunmaları</string>
+    <string name="home_haptic_feedback_enable_title">Ana Ekran sesli ve dokunmatik bildirimleri</string>
     <string name="home_key_behavior">Ana Ekran tuşunu basılı tutun</string>
     <string name="home_key_behavior_double_click">Ana Ekran düğmesine çift basın</string>
-    <string name="home_work_profile_not_supported">"Doesn't support work profiles"</string>
-    <string name="homekey_feedback_enable_title">Ana ekran tuşu geribildirim</string>
-    <string name="homekey_sound_enable_title">Ses</string>
-    <string name="i_know">OK</string>
+    <string name="home_work_profile_not_supported">İş profillerini desteklemiyor</string>
+    <string name="homekey_feedback_enable_title">Ana Ekran düğmesi dokunuşları</string>
+    <string name="homekey_sound_enable_title">Ses düzeyi</string>
+    <string name="i_know">Tamam</string>
     <string name="ignore">Yoksay</string>
     <string name="ignore_optimizations_off">Optimize</string>
     <string name="ignore_optimizations_off_desc">Recommended for better battery life</string>
@@ -2071,42 +2004,42 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="keyboard_shortcuts_helper_summary">Display available shortcuts</string>
     <string name="keyguard_palm_rejection_summary">Cepteyken kilidin yanlışlıkla açılmasını önle</string>
     <string name="keyguard_palm_rejection_title">Avuç içi reddetme</string>
-    <string name="keywords_accounts">account</string>
-    <string name="keywords_all_apps">apps, download, applications, system</string>
+    <string name="keywords_accounts">Hesap</string>
+    <string name="keywords_all_apps">uygulamalar, indirme, uygulamalar, sistem</string>
     <string name="keywords_app">RAM</string>
-    <string name="keywords_app_permissions">apps, permissions, security</string>
-    <string name="keywords_assist_gesture_launch">gesture</string>
-    <string name="keywords_backup">backup, back up</string>
-    <string name="keywords_battery">power usage, charge</string>
-    <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, standard</string>
-    <string name="keywords_color_temperature">color temperature D65 D73 white yellow blue warm cool</string>
-    <string name="keywords_date_and_time">clock, military</string>
-    <string name="keywords_default_apps">apps, default</string>
-    <string name="keywords_default_phone_app">phone, dialer, default</string>
-    <string name="keywords_display">screen, touchscreen</string>
-    <string name="keywords_display_auto_brightness">dim screen, touchscreen, battery</string>
-    <string name="keywords_display_brightness_level">dim screen, touchscreen, battery</string>
-    <string name="keywords_display_cast_screen">project, cast</string>
-    <string name="keywords_display_font_size">Text size</string>
-    <string name="keywords_display_night_display">dim screen, night, tint</string>
-    <string name="keywords_display_wallpaper">background, personalize, customize, display</string>
-    <string name="keywords_emergency_app">emergency, ice, app, default</string>
-    <string name="keywords_factory_data_reset">wipe, delete, restore, clear, remove</string>
-    <string name="keywords_gesture">gesture</string>
-    <string name="keywords_home">launcher</string>
-    <string name="keywords_ignore_optimizations">ignore optimizations, doze, app standby</string>
-    <string name="keywords_install_other_apps">install apps unknown sources</string>
-    <string name="keywords_keyboard_and_ime">text correction, correct, sound, vibrate, auto, language, gesture, suggest, suggestion, theme, offensive, word, type, emoji, international</string>
-    <string name="keywords_location">nearby, location, history, reporting</string>
-    <string name="keywords_lockscreen">slide to unlock, password, pattern, PIN</string>
-    <string name="keywords_more_default_sms_app">text message, texting, messages, messaging</string>
-    <string name="keywords_more_mobile_networks">cellular, mobile, cell carrier, wireless, data, 4g,3g, 2g, lte</string>
-    <string name="keywords_network_reset">reset, restore, factory</string>
-    <string name="keywords_payment_settings">pay, tap, payments</string>
-    <string name="keywords_printing">printer</string>
-    <string name="keywords_profile_challenge">work challenge, work, profile</string>
-    <string name="keywords_reset_apps">reset, preferences, default</string>
-    <string name="keywords_sounds">speaker beep</string>
+    <string name="keywords_app_permissions">uygulamalar, izinler, güvenlik</string>
+    <string name="keywords_assist_gesture_launch">hareket</string>
+    <string name="keywords_backup">yedekle, yedekleme</string>
+    <string name="keywords_battery">güç kullanımı, şarj</string>
+    <string name="keywords_color_mode">canlı, RGB, sRGB, renk, doğal, standart</string>
+    <string name="keywords_color_temperature">renk sıcaklığı D65 D73 beyaz sarı mavi sıcak soğuk</string>
+    <string name="keywords_date_and_time">saat, 24 saatlik</string>
+    <string name="keywords_default_apps">uygulamalar, varsayılan</string>
+    <string name="keywords_default_phone_app">telefon, numara çevirici, varsayılan</string>
+    <string name="keywords_display">ekran, dokunmatik ekran</string>
+    <string name="keywords_display_auto_brightness">karartma ekranı, dokunmatik ekran, pil</string>
+    <string name="keywords_display_brightness_level">karartma ekranı, dokunmatik ekran, pil</string>
+    <string name="keywords_display_cast_screen">proje, yayın</string>
+    <string name="keywords_display_font_size">Metin boyutu</string>
+    <string name="keywords_display_night_display">karartma ekranı, gece, tonlama</string>
+    <string name="keywords_display_wallpaper">arka plan, kişiselleştirme, özelleştirme, ekran</string>
+    <string name="keywords_emergency_app">acil durum, ice, uygulama, varsayılan</string>
+    <string name="keywords_factory_data_reset">temizleme, silme, geri yükleme, kaldırma, çıkarma</string>
+    <string name="keywords_gesture">hareket</string>
+    <string name="keywords_home">başlatıcı</string>
+    <string name="keywords_ignore_optimizations">optimizasyonları yoksayma, doz, uygulamayı beklemeye alma</string>
+    <string name="keywords_install_other_apps">kaynağı bilinmeyen uygulamaları yükle</string>
+    <string name="keywords_keyboard_and_ime">metin düzeltme, düzeltme, ses, titreşim, otomatik, dil, hareket, öner, öneri, tema, rahatsız edici, kelime, tür, emoji, uluslararası</string>
+    <string name="keywords_location">yakın, konum, geçmiş, raporlama</string>
+    <string name="keywords_lockscreen">kilit açmak için kaydırma, parola, desen, PIN</string>
+    <string name="keywords_more_default_sms_app">metin mesajı, mesaj yazma, mesajlar, mesajlaşma</string>
+    <string name="keywords_more_mobile_networks">hücresel, mobil, cep telefonu operatörü, kablosuz, veri, 4g, 3g, 2g, lte</string>
+    <string name="keywords_network_reset">sıfırlama, geri yükleme, fabrika</string>
+    <string name="keywords_payment_settings">öde, dokun, ödemeler</string>
+    <string name="keywords_printing">yazıcı</string>
+    <string name="keywords_profile_challenge">İş güvenlik sorusu, iş, profil</string>
+    <string name="keywords_reset_apps">sıfırlama, tercihler, varsayılan</string>
+    <string name="keywords_sounds">hoparlör bip sesi</string>
     <string name="keywords_sounds_and_notifications_interruptions">dont don’t disturb, interrupt, interruption, break</string>
     <string name="keywords_spell_checker">spelling, dictionary, spellcheck, auto-correct</string>
     <string name="keywords_storage">space, disk, hard drive, device usage</string>
@@ -2117,12 +2050,12 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="keywords_voice_input">recognizer, input, speech, speak, language, hands-free, hand free, recognition, offensive, word, audio, history, bluetooth headset</string>
     <string name="keywords_vr_listener">vr/virtual reality/listener/stereo/helper service</string>
     <string name="keywords_wifi">WLAN, network connection</string>
-    <string name="keywords_wifi_calling">WLAN, call, calling</string>
+    <string name="keywords_wifi_calling">WLAN, arama, aranıyor</string>
     <string name="keywords_write_settings">write modify system settings</string>
     <string name="kilo_suffix">KB</string>
     <string name="knock_control">Knock control</string>
     <string name="knock_control_description">double knock the device to invoke certain function</string>
-    <string name="known_btn">Got it</string>
+    <string name="known_btn">Anladım</string>
     <string name="label_available">Available networks</string>
     <string name="label_global_roaming_settings">Dolaşım Ayarları</string>
     <string name="language_input_gesture_summary_off" />
@@ -3821,7 +3754,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="security_settings_fingerprint_preference_title">Parmak izi</string>
     <string name="security_settings_premium_sms_desc">Send premium SMS</string>
     <string name="security_settings_summary">Konumum, ekran kilidi açma, SIM kart kilidi, kimlik bilgileri belleği kilidi özelliklerini ayarla</string>
-    <string name="security_settings_title">Güvenlik &amp; konum</string>
+    <string name="security_settings_title">Güvenlik ve konum</string>
     <string name="security_status_title">Güvenlik durumu</string>
     <string name="see_all_apps_title">Tüm %1$d uygulamaları göster</string>
     <string name="select_all">Tümü</string>
@@ -4145,22 +4078,22 @@ To use this ^1 with this device, you have to set it up first."</string>
     <string name="storage_games">Oyunlar</string>
     <string name="storage_internal_forget_confirm">Bu ^1 biriminde depolanan tüm uygulamalar, fotoğraflar ve veriler kalıcı olarak kaybedilecek.</string>
     <string name="storage_internal_forget_confirm_title">^1 unutulsun mu?</string>
-    <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
+    <string name="storage_internal_forget_details">"Bu ^1 içindeki uygulamaları, fotoğrafları ve verileri kullanmak için depolama birimini tekrar yerleştirin. 
 
-Alternatively, you can choose to forget this storage if the device isn’t available. 
+Cihaz kullanılamıyorsa ayrıca bu depolama birimini unutmayı seçebilirsiniz. 
 
-If you choose to forget, all the data the device contains will be lost forever. 
+Unutmayı seçerseniz cihazdaki tüm veriler kalıcı olarak kaybolur. 
 
-You can reinstall the apps later, but their data stored on this device will be lost."</string>
-    <string name="storage_internal_format_details">"After formatting, you can use this^1 in other devices. 
+Uygulamaları daha sonra yeniden yükleyebilirsiniz, ancak uygulamalara ait bu cihazda depolanmış veriler kaybolur."</string>
+    <string name="storage_internal_format_details">"Biçimlendirdikten sonra, bu ^1 birimini başka cihazlarda kullanabilirsiniz. 
 
-All data on this ^1 will be erased. Consider backing up first. 
+Bu ^1 birimindeki veriler silinecektir. Önce yedeklemeyi düşünün. 
 
-"<b>Back up photos &amp; other media</b>" 
-Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
+"<b>Fotoğrafları ve diğer medyayı yedekleyin</b>" 
+Medya dosyalarınızı bu cihazdaki alternatif bir depolama birimine taşıyın veya USB kablosu kullanarak bir bilgisayara aktarın. 
 
-"<b>Back up apps</b>" 
-All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
+"<b>Uygulamaları yedekleyin</b>" 
+Bu ^1 biriminde depolanan tüm uygulamaların yüklemesi kaldırılacak ve verileri silinecektir. Bu uygulamaları korumak için bu cihazdaki farklı bir depolama birimine taşıyın."</string>
     <string name="storage_internal_title">Cihaz depolaması</string>
     <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>" 
 
@@ -4185,7 +4118,7 @@ This ^1 is formatted to work on this device only. It won’t work on any others.
     <string name="storage_menu_unmount">Çıkart</string>
     <string name="storage_mount_failure">%1$s takılamadı</string>
     <string name="storage_mount_success">%1$s eklendi</string>
-    <string name="storage_movies_tv">Movie &amp; TV apps</string>
+    <string name="storage_movies_tv">Film ve Televizyon uygulamaları</string>
     <string name="storage_music_audio">Müzik ve ses</string>
     <string name="storage_other_apps">Diğer uygulamalar</string>
     <string name="storage_other_users">Diğer kullanıcılar</string>
@@ -4315,7 +4248,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="summary_simple_gesture">Simple gesture</string>
     <string name="sunrise_sunset">Gün doğumundan gün batımına</string>
     <string name="support_country_format">%1$s - %2$s</string>
-    <string name="support_summary">Help articles, phone &amp; chat, getting started</string>
+    <string name="support_summary">Yardım makaleleri, telefon ve sohbet, başlarken</string>
     <string name="suw_back_button_label">Geri</string>
     <string name="suw_more_button_label">Daha fazla</string>
     <string name="suw_next_button_label">İleri</string>
@@ -4395,7 +4328,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="touch_event">Dokunma etkinliği</string>
     <string name="touch_event_summary">Dokunma Etkinlik Kayıtları</string>
     <string name="touch_filtered_warning">"Because an app is obscuring a permission request, Settings can't verify your response."</string>
-    <string name="touch_sense">Sesler &amp; titreşim</string>
+    <string name="touch_sense">Sesler ve titreşim</string>
     <string name="touch_sounds_title">Dokunma sesi</string>
     <string name="track_frame_time">Profil GPU oluşturma</string>
     <string name="transition_animation_scale_title">Geçiş animasyonu ölçeği</string>
@@ -4481,9 +4414,9 @@ Your saved fingerprints will also be removed from this profile and you won't be 
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Deseniniz olmadan cihaz koruma özellikleri çalışmayacak.
 
 Kaydedilen parmak izleriniz de bu cihazdan kaldırılacak ve parmak izlerinizi kullanarak telefonunuzun kilidini açamayacak, satın alma işlemlerini yetkilendiremeyecek veya uygulamalarda oturum açamayacaksınız."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Profile protection features will not work without your pattern.
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Deseniniz olmadan profil koruma özellikleri çalışmayacak.
 
-Your saved fingerprints will also be removed from this profile and you won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
+Kaydedilen parmak izleriniz de bu profilden kaldırılacak ve parmak izlerinizi kullanarak profilinizin kilidini açamayacak, satın alma işlemlerini yetkilendiremeyecek veya uygulamalarda oturum açamayacaksınız."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Profile protection features will not work without your pattern.</string>
     <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
     <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
@@ -4542,7 +4475,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
     <string name="urgency_call">Acil durum</string>
     <string name="usage">Usage</string>
     <string name="usage_access">Kullanım erişimi</string>
-    <string name="usage_access_description">Usage access allows an app to track what other apps you’re using and how often, as well as your carrier, language settings, and other details.</string>
+    <string name="usage_access_description">Kullanım erişimi; bir uygulamanın, başka hangi uygulamaları ne sıklıkta kullandığınızı, ayrıca operatörünüzü, dil ayarlarınızı ve diğer ayrıntıları takip etmesine izin verir.</string>
     <string name="usage_access_title">Apps with usage access</string>
     <string name="usage_stats_label">Kullanım istatistikleri</string>
     <string name="usage_time_label">Kullanım süresi</string>
@@ -4711,7 +4644,7 @@ Any user can update apps for all other users."</string>
     <string name="user_protocol">User Agreement</string>
     <string name="user_remove_user">Remove user</string>
     <string name="user_remove_user_menu">Delete %1$s from this device</string>
-    <string name="user_rename">RENAME</string>
+    <string name="user_rename">Yeniden adlandır</string>
     <string name="user_restrictions_controlled_by">Controlled by %1$s</string>
     <string name="user_restrictions_title">App and content access</string>
     <string name="user_set_lock_button">Set lock</string>
@@ -5346,14 +5279,14 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="power_remaining_duration_only_short_enhanced">Kullanımınıza dayalı olarak ^1 kaldı</string>
     <string name="power_discharging_duration_short">^1 - ^2 kaldı</string>
     <string name="lockpassword_ok_label">Tamam</string>
-    <string name="bluetooth_preference_found_devices">Available devices</string>
+    <string name="bluetooth_preference_found_devices">Kullanılabilir Cihazlar</string>
     <string name="wifi_wps_setup_title">WLAN koruması yüklemesi</string>
     <string name="wifi_wps_failed_auth">Kimlik doğrulama başarısız. Lütfen tekrar deneyin.</string>
     <string name="wifi_ap_choose_dual">Both</string>
     <string name="wifi_p2p_passive_listen">Passive Listen</string>
-    <string name="search_settings_summary">Manage search settings and history</string>
-    <string name="search_settings_no_results">No results</string>
-    <string name="selinux_status">SELinux status</string>
+    <string name="search_settings_summary">Arama ayarlarını ve geçmişi yönet</string>
+    <string name="search_settings_no_results">Sonuç yok</string>
+    <string name="selinux_status">SELinux durumu</string>
     <string name="location_mode_location_off_title">Konum kapalı</string>
     <string name="location_mode_screen_title">Konum modu</string>
     <string name="lockpassword_choose_your_pattern_header">Deseninizi seçin</string>
@@ -5378,15 +5311,15 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="mem_use_total">Toplam</string>
     <string name="untitled_apn">Başlıksız</string>
     <string name="work_mode_summary">Uygulamalar, arka planda eşitleme ve ilgili özellikler dahil olmak üzere iş profilinin çalışmasına izin ver</string>
-    <string name="provider_label">Push subscriptions</string>
+    <string name="provider_label">Anlık bildirim abonelikleri</string>
     <string name="wimax_settings">4G</string>
     <string name="status_wimax_mac_address">4G MAC address</string>
     <string name="data_plan_usage_manage_plans_button_text">Paketleri yönet</string>
-    <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permission</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
-    <string name="query_hint_text">Search settings</string>
-    <string name="keywords_location_mode">accuracy</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_permissive">İzni</string>
+    <string name="selinux_status_enforcing">Güçlendiriliyor</string>
+    <string name="query_hint_text">Arama Ayarları</string>
+    <string name="keywords_location_mode">doğruluk</string>
     <string name="zen_mode_priority_settings_title">Priority only allows</string>
     <string name="lock_screen_notifications_summary_disable_profile">İş bildirimlerini hiç gösterme</string>
     <string name="zen_mode_rule_type">Rule type</string>
@@ -5451,8 +5384,6 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="sync_timeout">sync get token time out</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
@@ -5478,8 +5409,6 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="settings_package">com.android.settings</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
@@ -5489,31 +5418,10 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="config_featureFactory">com.android.settings.overlay.FeatureFactoryImpl</string>
-    <string name="config_wallpaper_picker_package">com.android.settings</string>
-    <string name="config_wallpaper_picker_class">com.android.settings.Settings$WallpaperSettingsActivity</string>
-    <string name="config_deletion_helper_package">com.android.storagemanager</string>
-    <string name="config_deletion_helper_class">com.android.storagemanager.deletionhelper.DeletionHelperActivity</string>
     <string name="input_method_selector_show_automatically_value">0</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="category_key_wireless">com.android.settings.category.wireless</string>
-    <string name="category_key_device">com.android.settings.category.device</string>
-    <string name="category_key_personal">com.android.settings.category.personal</string>
-    <string name="category_key_system">com.android.settings.category.system</string>
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
     <string name="radio_info_imsi_label">IMSI:</string>
     <string name="disableNetwork">disableNetwork</string>
@@ -5528,8 +5436,7 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="hidden_ssid_label">Hidden SSID:</string>
     <string name="ipaddr_label">IPaddr:</string>
     <string name="macaddr_label">MAC addr:</string>
-    <string name="summary_two_lines_placeholder">" 
- "</string>
+    <string name="summary_two_lines_placeholder">" "</string>
     <string name="status_imei_sv">IMEI SV</string>
     <string name="physical_device_title">%1$s - %2$s</string>
     <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
@@ -5543,13 +5450,7 @@ Farklı bir WLAN'a bağlanmak için, "<b>Geri</b> öğesine dokunun.</string>
     <string name="support_hour_format">%1$s - %2$s, %3$s - %4$s&lt;br></string>
     <string name="change_theme_reboot">Changing the theme requires a restart.</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
-    <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
-    <string name="qtifeedback_package">com.qti.smq.qualcommFeedback</string>
-    <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
     <string name="never_timeout_summary">Screen always on</string>
-    <string name="baseband_prop_key">gsm.version.baseband</string>
-    <string name="multi_baseband_one_prop_key">gsm.version.baseband.2</string>
-    <string name="multi_baseband_two_prop_key">cdma.version.baseband</string>
     <string name="wifi_proxy_ip_hint">0.0.0.0</string>
     <string name="wifi_proxy_port_hint">80</string>
     <string name="wave_wake_speak_now_tip">Please speak to input voiceprint</string>
@@ -5596,8 +5497,4 @@ Wednesday Dec 14 10:10:07 UTC 2016"</string>
     <string name="use_flyme_icon_summary">"Replace apps' icons with Flyme style icons"</string>
     <string name="flyme_avatar_summary">"Replace contacts' avatars with Flyme style avatars"</string>
     <string name="flyme_avatar_title">Flyme style avatars</string>
-    <item type="string" name="APKTOOL_DUMMY_14ee">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14ef">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14f0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_14f1">false</item>
 </resources>
