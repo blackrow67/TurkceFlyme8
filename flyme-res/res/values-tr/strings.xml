@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mz_smart_bar_configuration_default">45, 0, 62, 20.5</string>
-    <string name="config_default_location_provider_mode">auto</string>
-    <string name="cover_control_path_string" />
-    <string name="hall_state_path_string" />
-    <string name="gesture_control_path_string">/sys/class/meizu/tp/gesture_control</string>
-    <string name="gesture_data_path_string" />
-    <string name="sub_gesture_control_path_string">/sys/class/meizu/sub_tp/gesture_control</string>
+    <string name="config_default_location_provider_mode">otomatik</string>
     <string name="specail_number_dianxin">China Telecom Müşteri Hizmetleri Hattı</string>
     <string name="specail_number_liantong">China Unicom Müşteri Hizmetleri Hattı</string>
     <string name="specail_number_tietong">China Railcom Müşteri Hizmetleri Hattı</string>
@@ -434,7 +428,7 @@
     <string name="app_suspended_title">Uygulama kullanılamıyor</string>
     <string name="app_suspended_default_message">"%1$s isn't available right now. This is managed by %2$s."</string>
     <string name="app_suspended_more_details">Daha fazla bilgi edin</string>
-    <string name="upgrade_watermark_text">Flyme alpha version</string>
+    <string name="upgrade_watermark_text">Flyme deneysel sürüm</string>
     <string name="config_def_theme">nrsnh</string>
     <string name="calendar_day_of_week">EEE</string>
     <string name="download_pending">İndirme başlatılıyor</string>
@@ -462,7 +456,6 @@
     <string name="mc_pattern_yesterday">Yesterday</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_action_settings">Settings</string>
-    <string name="mc_hello_world">Hello world!</string>
     <string name="mc_yes">Tamam</string>
     <string name="mc_cancel">İptal</string>
     <string name="mc_hour">sa</string>
@@ -562,10 +555,7 @@
     <string name="mc_description_target_decline">Geri çevir</string>
     <string name="mc_description_target_answer">Cevap</string>
     <string name="mc_enhanceseekbar">Kaydırıcı kontrolü kullanılıyor. Şu anki ayarı: %1$s.</string>
-    <string name="mc_selectionbutton_all">All</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
+    <string name="mc_selectionbutton_all">Hepsi</string>
     <string name="mz_date_time_month">d</string>
     <string name="mz_date_time_year">y</string>
     <string name="mz_date_time_day">g</string>
@@ -583,16 +573,15 @@
     <string name="mz_wechat_friend">WeChat friends</string>
     <string name="mz_wechat_timeline">WeChat Moments</string>
     <string name="mz_sina_weibo">Sina Weibo</string>
-    <string name="mz_share_title">Share to</string>
-    <string name="mz_undo">Undo</string>
-    <string name="mz_redo">Redo</string>
-    <string name="recommendtitle">Try to open it in the following way</string>
-    <string name="recommendsubtitle">The file format is unknown</string>
+    <string name="mz_share_title">Şununla paylaş</string>
+    <string name="mz_undo">Geri al</string>
+    <string name="mz_redo">Yeniden yap</string>
+    <string name="recommendtitle">Aşağıdaki şekilde açmaya çalışın</string>
+    <string name="recommendsubtitle">Dosya biçimi bilinmiyor</string>
     <string name="switch_wizard_title">To Sogou Input?</string>
     <string name="switch_wizard_info_one">Mükemmel performans</string>
     <string name="switch_wizard_info_two">Diğer Klavye özellikleri</string>
-    <string name="switch_wizard_info_three">More personalized skins</string>
+    <string name="switch_wizard_info_three">Daha kişiselleştirilmiş kaplamalar</string>
     <string name="switch_wizard_info_four">Thesaurus data retained</string>
-    <string name="switch_wizard_button">Switch</string>
-    <item type="string" name="APKTOOL_DUMMY_1b3">false</item>
+    <string name="switch_wizard_button">Değiştir</string>
 </resources>
