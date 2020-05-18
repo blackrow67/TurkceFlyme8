@@ -865,9 +865,8 @@ Daha fazla boş alan açın"</string>
     <string name="permission_internet">Ağ izinleri</string>
     <string name="permission_privacy">Gizlilik</string>
     <string name="permission_security">Güvenlik</string>
-    <string name="persent">0.0</string>
     <string name="petabyteShort">P</string>
-    <string name="phone_clean">Cleaner</string>
+    <string name="phone_clean">Temizleyici</string>
     <string name="phone_clean_f8">Temizleyici</string>
     <string name="phone_clean_summary_f8">%1$s left</string>
     <string name="phone_could_clean_summary_f8">%1$s deletable</string>
@@ -1015,7 +1014,6 @@ Daha fazla boş alan açın"</string>
     <string name="scan_virus_no_found">Hiçbiri</string>
     <string name="scanned_result">%1$s gereksiz dosya bulundu</string>
     <string name="scanning">Taranıyor</string>
-    <string name="score_ninetynine" />
     <string name="security_center">Güvenlik</string>
     <string name="security_news">Güvenlik ipuçları</string>
     <string name="security_news_action_share">Paylaş</string>
@@ -1445,8 +1443,8 @@ Yer kazanmak için tam sürümü sil"</string>
     <string name="virus_detail_1002">İptal</string>
     <string name="virus_detail_1003">TM</string>
     <string name="virus_details">Detaylar:</string>
-    <string name="virus_find_num">%1$d risk(s)</string>
-    <string name="virus_find_one">1 risk</string>
+    <string name="virus_find_num">%1$d tehdit</string>
+    <string name="virus_find_one">1 tehdit</string>
     <string name="virus_in_processed">İşleniyor</string>
     <string name="virus_level">"Risk düzeyi: "</string>
     <string name="virus_level_high">yüksek</string>
@@ -1605,18 +1603,6 @@ En son kullanım: %2$s"</string>
     <string name="wechat_title_f8">WeChat Temizleyici</string>
     <string name="x_minute">%1$s min</string>
     <string name="x_second">%1$s sec</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="active_block_mode">Current mode</string>
     <string name="anonymous_number">Anonymous numbers</string>
     <string name="avl_permissionDescription">AVL Engine</string>
@@ -1661,12 +1647,10 @@ En son kullanım: %2$s"</string>
     <string name="collision_mobilesafe_version_toast">Conflict with Security! Harassment blocking will be turned off temporarily</string>
     <string name="custom_blacklist">Blacklist</string>
     <string name="custom_ip_header">Other IP numbers</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="disturb_call">Spam calls</string>
     <string name="estate_agent">Real estate agency</string>
     <string name="express">Express &amp; order-in</string>
     <string name="fetion_number">Fetion ID</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="hybrid_cancel">取消</string>
     <string name="hybrid_msg_loading">正在加载</string>
     <string name="hybrid_network_error_to_refresh">网络异常，点击重新加载</string>
@@ -1720,17 +1704,13 @@ En son kullanım: %2$s"</string>
     <string name="notify_title_unread_blocked_message">"SMS blocked: &lt;font color='#ff6c00'>%1$s&lt;/font>"</string>
     <string name="notify_title_web_push_message">"New &lt;font color='#ff6c00'>WAP pushed message&lt;/font> blocked"</string>
     <string name="permission_argument_title">魅族隐私政策</string>
-    <string name="ptr_label">MzPullRefreshLayout</string>
-    <string name="replace_special_chars">1234567890123456789123456789123456789123456789123456789</string>
     <string name="retry">重试</string>
     <string name="sendMessageToOperators">Send a free message to the operator to check your data consumption</string>
     <string name="set_network">设置网络</string>
     <string name="short_time_ring">One-ring scam call</string>
     <string name="sms_keyword_length_hint">%1$s/%2$s</string>
     <string name="spam_call">Ads</string>
-    <string name="special_chars">一二三四五六七八九零壹贰叁肆伍陆柒捌玖⑴⑵⑶⑷⑸⑹⑺⑻⑼①②③④⑤⑥⑦⑧⑨㈠㈡㈢㈣㈤㈥㈦㈧㈨⒈⒉⒊⒋⒌⒍⒎⒏⒐</string>
     <string name="text_input_hint_text">输入内容</string>
-    <string name="title_activity_virus_scanner">VirusScannerActivity</string>
     <string name="title_buy_data">充流量</string>
     <string name="title_buy_tel">充话费</string>
     <string name="title_mz_card">魅友卡</string>
