@@ -30,7 +30,6 @@
     <string name="all_apps_home_button_label">Home screen</string>
     <string name="alwaysUse">Use this option as default</string>
     <string name="announce_selection">%1$s selected</string>
-    <string name="app_filter_class" />
     <string name="app_search_cling_btn">Anladım</string>
     <string name="app_search_cling_msg">Parmağınız hedef uygulamaya ulaşana kadar ana ekranın kenarında kaydırın, ardından uygulamayı hızlı bir şekilde açabilirsiniz</string>
     <string name="app_search_cling_title">Uygulamayı hızlı aç</string>
@@ -69,7 +68,6 @@ to open search screen"</string>
     <string name="delete_zone_label_all_apps">Kaldır</string>
     <string name="delete_zone_label_all_apps_system_app">Uninstall update</string>
     <string name="delete_zone_label_workspace">Delete</string>
-    <string name="drawable_factory_class" />
     <string name="dream_name">Rocket launcher</string>
     <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
     <string name="education_folder">Eğitim</string>
@@ -82,16 +80,13 @@ to open search screen"</string>
     <string name="first_double_click_tv_left_tips">Çift tıklama</string>
     <string name="first_double_click_tv_right_tips">Güç</string>
     <string name="first_run_cling_create_screens_hint">Uygulamalar ve klasörler için daha fazla ekran oluşturun</string>
-    <string name="first_run_cling_custom_content_hint" />
     <string name="first_run_cling_description">Create your own screen</string>
-    <string name="first_run_cling_search_bar_hint" />
     <string name="first_run_cling_title">Welcome!</string>
     <string name="flyme_shortcut">Flyme Kısayol</string>
     <string name="folder_cling_create_folder">Benzer bir klasör oluşturmak için bir uygulamayı tutun ve başka bir klasörün üzerine taşıyın.</string>
     <string name="folder_cling_title">"Here's a folder"</string>
     <string name="folder_closed">Klasör kapatıldı</string>
     <string name="folder_hint_text">Adsız klasör</string>
-    <string name="folder_name" />
     <string name="folder_name_format">Klasör: %1$s</string>
     <string name="folder_opened">Klasör açıldı, boyut: %1$d x %2$d</string>
     <string name="folder_renamed">Klasör olarak yeniden adlandırıldı %1$s</string>
@@ -106,7 +101,6 @@ to open search screen"</string>
     <string name="has_mark_read">Marked as read</string>
     <string name="has_mark_unread">Marked as unread</string>
     <string name="health_folder">Sağlık</string>
-    <string name="help_url" />
     <string name="home">Ana ekran</string>
     <string name="hotseat_out_of_space">Altta boş alan yok.</string>
     <string name="iconarrange_alignment_tips">Simgeleri hizalamak için telefonu sallayın</string>
@@ -430,8 +424,6 @@ to open search screen"</string>
     <string name="add_item_btn_ok">Tamam</string>
     <string name="aicy_appguess_tip">Aicy uygulama önerilerini burada herzaman günceller</string>
     <string name="app_name">ForceTouch</string>
-    <string name="background_scalex">0.7f</string>
-    <string name="background_scaley">0.8f</string>
     <string name="choiceness">Önerilen</string>
     <string name="debug_memory_activity">* HPROF</string>
     <string name="default_sans_serif">sans-serif</string>
@@ -536,9 +528,6 @@ to open search screen"</string>
     <string name="external_drop_widget_pick_format">%1$s (%2$d × %3$d)</string>
     <string name="f02f"></string>
     <string name="f030"></string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
-    <string name="folder_bg_scale">0.5f</string>
-    <string name="icon_background_alpha">0</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
@@ -548,9 +537,6 @@ to open search screen"</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_wlan">WLAN</string>
-    <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
-    <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
     <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
