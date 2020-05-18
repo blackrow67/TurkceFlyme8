@@ -939,7 +939,7 @@ sessizlik"</string>
     <string name="mc_pm_allow_dialog_push">Bildirime izin ver</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Ara</string>
-    <string name="mc_pm_call_log">CallLog oku</string>
+    <string name="mc_pm_call_log">Çağrı kaydı okuma</string>
     <string name="mc_pm_camera">Kamera (Foto/Video)</string>
     <string name="mc_pm_close">Kapat</string>
     <string name="mc_pm_contacts">Kişileri Oku</string>
@@ -1741,24 +1741,19 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="mc_action_settings">Settings</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
-    <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
     <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="wifi_certinstall">Install or view certificate</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapicertmanager">Certificate installation</string>
-    <string name="sim_slot">SIM card slot</string>
+    <string name="sim_slot">SIM kart slot</string>
     <string name="wifi_security_wapi_cert">WAPI CERT</string>
     <string name="wifi_security_wapi_psk_ascii">WAPI PSK ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK hexadecimal</string>
@@ -1772,7 +1767,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="no">Hayır</string>
     <string name="deny">Reddet</string>
     <string name="okay">TAMAM</string>
-    <string name="forget">UNUTMAK</string>
+    <string name="forget">UNUT</string>
     <string name="wifi_display_settings_title">Kablosuz Ekran</string>
     <string name="wifi_display_no_devices_found">Yakınlarda cihaz bulunamadı.</string>
     <string name="wifi_display_status_connecting">Bağlanıyor</string>
@@ -1905,19 +1900,15 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="free_wifi_logining">Ağ kimlik doğrulaması…</string>
     <string name="free_wifi_login_failed">Ağ kimlik doğrulaması başarısız oldu</string>
-    <string name="settings_package">com.android.settings</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="wifi_auth_password_wrong">Şifre yanlış olabilir</string>
     <string name="bluetooth_profile_dun">Dial-up Network Access</string>
     <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
@@ -1928,7 +1919,6 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="proxy_port_hint">8080</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -1936,20 +1926,6 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="status_bar_settings_battery_meter_format_simple">%d</string>
     <string name="recents_close_all_mem_GB">%1$sGB / %2$sGB</string>
     <string name="recents_close_all_mem_MB">%1$sMB / %2$sGB</string>
-    <string name="moon_on_path">M32.76,7.76C32.76,21.57 21.57,32.76 7.76,32.76C5.05,32.76 2.44,32.33 0,31.53C3.27,41.53 12.67,48.76 23.76,48.76C37.57,48.76 48.76,37.57 48.76,23.76C48.76,12.67 41.53,3.27 31.53,0C32.33,2.44 32.76,5.05 32.76,7.76Z</string>
-    <string name="moon_off_path">M45,9.5C56.5,24.5 40,57.5 12.5,45C11.06,44.35 3,39.5 0,30.53C3.27,40.53 12.67,47.76 23.76,47.76C37.57,47.76 47.78,36.54 48.76,22.76C49.5,12.5 41.53,2.27 31.53,-1C41,2.5 43.35,7.35 45,9.5Z</string>
-    <string name="flash_on_path">M57,46L63,46L63,34L57,34L57,46ZM72.5,46.5L77,51L86,42L81.5,37.5L72.5,46.5ZM34,42L43,51L47.5,46.5L38.5,37.5L34,42ZM43.02,54L43.01,68.35L51,76.5L51,86L69,86L69,76.5L77,68.35L77,54L43.02,54Z</string>
-    <string name="flash_off_path">M57,45L63,45L63,36L57,36L57,45ZM73,45.85L77.15,50L82,45.15L77.84,41L73,45.85ZM38,45.15L42.85,50L47,45.85L42.16,41L38,45.15ZM43.02,53.01L43.02,66.85L51,75L51,85L69,85L69,75L76.99,66.85L76.99,53.01L43.02,53.01Z</string>
-    <string name="mute_path_mask_on">M98.03,13.59C87.68,5.1 74.43,0 60,0C26.86,0 0,26.86 0,60C0,93.14 26.86,120 60,120C93.14,120 120,93.14 120,60C120,45.34 114.74,31.91 106.02,21.49C102.7,24.81 82.53,44.65 45.5,81C44.92,81.48 44.08,81.48 43.5,81L37.96,75.16C37.49,74.69 37.49,73.92 37.96,73.44L98.03,13.59Z</string>
-    <string name="mute_path_mask_off">M98.0195256,13.580996 C87.6693377,5.09366562 74.4294955,0 60,0 C26.863,0 0,26.863 0,60 C0,93.137 26.863,120 60,120 C93.137,120 120,93.137 120,60 C120,45.3394961 114.741935,31.9070418 106.008769,21.4856005 C104.950641,22.4714836 102.281051,24.8096168 98,28.5 C97.4180303,28.9752458 96.5819697,28.9752458 96,28.5 L90.461,22.664 C89.9863486,22.1885149 89.9863486,21.4184851 90.461,20.943 L98.0195256,13.580996 Z</string>
-    <string name="mute_path_cross_on">M37.7,73.2L75.32,36.36C75.55,36.13 75.86,36 76.18,36C76.5,36 76.81,36.13 77.04,36.36L79.62,38.94C80.09,39.41 80.09,40.18 79.62,40.66L42,77.5C41.77,77.73 41.46,77.86 41.14,77.86C40.82,77.86 40.51,77.73 40.28,77.5L37.7,74.92C37.23,74.44 37.23,73.67 37.7,73.2Z</string>
-    <string name="mute_path_cross_off">M78.5,35 L78,35 C78.2278863,34.7719198 77.855485,35 78.1779021,35 C78.5003192,35 79.2721137,35.2719198 79.5,35.5 L81.6164021,37.9372307 C82.0916049,38.4124875 82.1405,38.5 82.5,39 L82.5,38.8562307 C82.2721137,39.0843109 82.5,39.5 82.5,39 C82.5,38.5 81.8442884,38.2280802 81.6164021,38 L79.5,35.5 C79.0247972,35.0247431 79,35.5 78.5,35 Z</string>
-    <string name="rotation">M81.7863039,40.3229618 C76.2368336,34.7292045 68.9692177,31.9643359 61.7446055,32.0003472 L60.5165014,33.237736 L68.300161,40.979168 L71.3894228,37.9702227 C74.1476566,39.1535944 76.7388762,40.8651321 78.9940673,43.1388464 C83.2784304,47.457203 85.598627,52.9819386 86.0026612,58.5987032 L86.1726757,58.7707572 L90,58.7947648 C89.6249682,52.091659 86.8947368,45.4725796 81.7863039,40.3229618 Z M49.6095771,82.0270632 C46.8603441,80.832688 44.275125,79.1131478 42.0219341,76.8424345 C37.7215696,72.5080728 35.3873718,66.9683325 34.9803373,61.3455661 L34.8733282,61.2375322 L31,61.2005205 C31.3950335,67.88362 34.138266,74.491696 39.2466989,79.6413137 C44.7961692,85.2340707 52.0497839,88.0149443 59.2523943,87.9999396 L60.5165014,86.7265396 L52.7338419,78.9841073 L49.6095771,82.0270632 Z M76.0828206,62.7970221 L63.3467412,75.4650017 L44.9511823,57.1672535 L57.6862615,44.4982735 L76.0828206,62.7970221 Z M35.0453428,55.758811 L64.7618612,85.3180971 L85.98766,64.2044642 L56.2711416,34.6451781 L35.0453428,55.758811 Z</string>
-    <string name="fire_on">M54.0583113,86.657 C53.9329727,86.0446136 54.010919,85.408052 54.2803113,84.844 C54.4553113,84.275 55.1563113,82 55.7703113,82 L63.1373113,82 C63.7513113,82 64.4013113,84.2 64.6293113,84.847 C64.9117589,85.4086973 64.9885374,86.0515849 64.8463113,86.664 L61.1433113,98.689 C60.9308453,99.4595434 60.2293203,99.9928421 59.4300224,99.9914406 C58.6307246,99.9900392 57.931074,99.4542837 57.7213113,98.683 L54.0583113,86.657 Z</string>
-    <string name="fire_off">M54,82 C54.5,82 54,82 54.5,82 C55,82 55.1563113,82 55.7703113,82 L63.1373113,82 C63.7513113,82 63.5,82 64,82 C64.5,82 64.5,82 65,82 L61,82 C60.5,82 60.2992978,82.0014015 59.5,82 C58.7007022,81.9985985 58.5,82 57.5,82 L54,82 Z</string>
-    <string name="accelerator_long">M59.867,45 C57.382,45 55.367,47.015 55.367,49.5 C55.367,51.985 57.382,54 59.867,54 C62.352,54 64.367,51.985 64.367,49.5 C64.367,47.015 62.352,45 59.867,45 Z M80.734,72.342 L80.128,73.999 L75.541,87 L70.954,87 L66.367,78 L66.239,78 C66.239,78 66.237,78.005 66.237,78.005 L53.493,78.005 C53.493,78.005 53.491,78 53.491,78 L53.367,78 L48.78,87 L44.193,87 L39.606,73.999 L39,72.342 L48.484,64.506 C47.427,60.026 46.87,54.972 47.784,50.22 C50.345,36.9 59.863,32 59.863,32 C59.863,32 69.977,36.617 71.95,50.22 C72.634,54.932 72.048,59.906 71.037,64.329 L80.734,72.342 Z</string>
-    <string name="night_mode_moon_off">M37.69,71C41,70.5 41,70.5 43,70.5C46.5,70.5 47.68,70.49 50,70.5C65,69.99 76.52,67.99 77.5,67.5C78.5,67 79,66 79.5,65.5C83,66.5 84,67 86,68C88,69 89,70.01 89,70.01L89,71L37.69,71Z</string>
-    <string name="night_mode_moon_on">M37.69,71C35.34,68.75 33.46,66.06 32.13,63.09C34.37,63.68 36.68,63.99 39,64C53.91,64 66,51.91 66,37C65.99,34.68 65.68,32.37 65.09,30.14C71.5,32.95 76.43,38.33 78.68,44.96C80.93,51.59 80.29,58.86 76.91,65L37.69,65L37.69,71Z</string>
     <string name="accessibility_desc_work_lock">Werksluitskerm</string>
     <string name="mz_phone_platform">QCOM</string>
     <string name="snooze_tip_content">"Don't show heads-up until you unlock it"</string>
@@ -1963,41 +1939,13 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="lock_week">yyyy MMMM d (EEE)</string>
     <string name="mz_date_format">E, MMMM d</string>
     <string name="lock_month">MMMM</string>
-    <string name="keyboard_headset_required_to_hear_password">keyboard_headset_required_to_hear_password</string>
-    <string name="keyboard_password_character_no_headset">keyboard_password_character_no_headset</string>
     <string name="lockscreen_poster_link_text">Ayrıntılar</string>
-    <item type="string" name="lb_guidedactions_width_weight">0.71428573</item>
-    <item type="string" name="lb_guidedactions_width_weight_two_panels">1.1917808</item>
-    <item type="string" name="lb_guidedbuttonactions_width_weight">0.45</item>
-    <item type="string" name="lb_guidedstep_height_weight">2.0</item>
-    <item type="string" name="lb_guidedstep_height_weight_translucent">1.0</item>
-    <item type="string" name="lb_guidedactions_item_disabled_text_alpha">0.25</item>
-    <item type="string" name="lb_guidedactions_item_disabled_description_text_alpha">0.25</item>
-    <item type="string" name="lb_guidedactions_item_unselected_text_alpha">1.0</item>
-    <item type="string" name="lb_guidedactions_item_unselected_description_text_alpha">0.5</item>
-    <item type="string" name="lb_guidedactions_item_enabled_chevron_alpha">1.0</item>
-    <item type="string" name="lb_guidedactions_item_disabled_chevron_alpha">0.5</item>
-    <item type="string" name="lb_guidedstep_keyline">40.0</item>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="v7_preference_on">ON</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
+    <string name="v7_preference_on">Açık</string>
+    <string name="v7_preference_off">Kapalı</string>
     <string name="quick_settings_tiles_default">wifi,mobiledata,bt,mute,vibrate,airplane,rotation,location,autobrightness,flashlight,zenmode,nightmode,powersave,accelerator,screenrecord,hotspot,nfc,eyeprotective,screenshot,smarttouch,drivemode,vpn,developeroptions</string>
     <string name="quick_settings_tiles">default</string>
     <string name="quick_settings_tiles_retail_mode">cell,battery,dnd,flashlight,rotation,location</string>
     <string name="velocity_tracker_impl">platform</string>
-    <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
     <string name="config_navBarLayout">space,back;home;recent,menu_ime</string>
     <string name="pip_settings_bounds">662 54 1142 324</string>
     <string name="pip_menu_bounds">596 280 1324 690</string>
@@ -2023,9 +1971,6 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="no_tiles_add">No tiles to add</string>
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
-    <string name="font_roboto_regular">sans-serif</string>
-    <string name="font_roboto_light">sans-serif-light</string>
-    <string name="ok">@android:string/ok</string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
     <string name="clock_12hr_format">hm</string>
@@ -2037,7 +1982,4 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="keyguard_accessibility_transport_loop_description">Loop button</string>
     <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <item type="string" name="APKTOOL_DUMMY_3a4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3a5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3a6">false</item>
 </resources>
