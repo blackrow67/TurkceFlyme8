@@ -723,18 +723,6 @@
     <string name="I">I</string>
     <string name="WaitTip">Lütfen bekleyin</string>
     <string name="YOU">You</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="about_us">关于我们</string>
     <string name="access_server_error">The system is busy, please try again later</string>
     <string name="alipay_data_exception">Data format incorrect</string>
@@ -832,7 +820,6 @@
     <string name="chatbot_website">服务网站</string>
     <string name="conv_divider_fomater">yyyy</string>
     <string name="ctcc_smart_message">Telecom Smart SMS</string>
-    <string name="default_sans_serif">sans-serif</string>
     <string name="dial_btn_title">Dial</string>
     <string name="dissolve_group">Group has been dissolved</string>
     <string name="duoqu_613_change">切换车次</string>
@@ -1041,7 +1028,6 @@
     <string name="flyme_mms_no_space_dialog_positive">Clear now</string>
     <string name="flyme_mms_no_space_msg">Available space: %s</string>
     <string name="flyme_mms_no_space_title">SD card ran out of space</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="full_group">You joined group is full</string>
     <string name="group_chat_established">Group is established</string>
     <string name="group_chat_join">join the group</string>
