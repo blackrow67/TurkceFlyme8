@@ -464,26 +464,12 @@
     <string name="directory_search_label">Dizin</string>
     <string name="directory_search_label_work">İş dizini</string>
     <string name="search_menu_title">Search</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="mc_custom_date_time_days_after">%1$d days after</string>
     <string name="mc_custom_date_time_days_before">%1$d days before</string>
     <string name="mc_custom_date_time_one_day_after">1 day after</string>
     <string name="mc_custom_date_time_one_day_before">1 day before</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="mc_action_settings">Ayarlar</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
@@ -514,16 +500,9 @@
     <string name="videocall_open_camera">Open Camera</string>
     <string name="typeface_medium_number">SFDIN</string>
     <string name="typeface_medium_text">sans-serif-medium</string>
-    <string name="typeface_default">sans-serif</string>
     <string name="inCallLabel">Arama</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_infoText_text">Gelen telefon numarası</string>
     <string name="fake_phone_activity_placeCall_text">Gelen Çağrı Sahte</string>
     <string name="voicemail_notification_vibrate_when_default">Asla</string>
-    <item type="string" name="APKTOOL_DUMMY_204">false</item>
-    <item type="string" name="APKTOOL_DUMMY_205">false</item>
-    <item type="string" name="APKTOOL_DUMMY_206">false</item>
-    <item type="string" name="APKTOOL_DUMMY_207">false</item>
-    <item type="string" name="APKTOOL_DUMMY_208">false</item>
-    <item type="string" name="APKTOOL_DUMMY_209">false</item>
 </resources>
