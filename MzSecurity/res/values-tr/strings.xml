@@ -586,7 +586,7 @@
     <string name="confirm">Tamam</string>
     <string name="contacts">Kişileri oku</string>
     <string name="contacts_c">kişilerinizi okuyun</string>
-    <string name="continue_use">Continue to use</string>
+    <string name="continue_use">Kullanmaya devam et</string>
     <string name="count_select_image">%1$s photo(s) selected</string>
     <string name="d_call_log">Arama Kayıtlarını Sil</string>
     <string name="d_call_log_c">arama kayıtlarınızı silin</string>
@@ -1112,7 +1112,7 @@ Yer kazanmak için tam sürümü sil"</string>
     <string name="status_switch_open">Açık</string>
     <string name="status_sys_update_done">Güncel</string>
     <string name="status_traffic_over">Satın al</string>
-    <string name="still_close">Still close</string>
+    <string name="still_close">Yinede Kapat</string>
     <string name="storage">Disk</string>
     <string name="str_no_note">Not Yok</string>
     <string name="str_notify_more_than_one_call">%1$s istenmeyen arama engellendi</string>
@@ -1328,7 +1328,7 @@ Yer kazanmak için tam sürümü sil"</string>
     <string name="traffic_saving_status_enable">Veri tasarrufu etkinleştirildi</string>
     <string name="traffic_saving_technical_support">OperaMax tarafından işletilmektedir</string>
     <string name="traffic_saving_vpn_hint">Data saver will disconnect your VPN, continue?</string>
-    <string name="traffic_send_correct_msg_to_operator_regular">Will be regularly sent to the operator free traffic correction</string>
+    <string name="traffic_send_correct_msg_to_operator_regular">Operatöre düzenli olarak ücretsiz trafik düzeltme gönderilecektir</string>
     <string name="traffic_set_operator_info">Operatör ayarları</string>
     <string name="traffic_setup_sim_title">SIM Kart</string>
     <string name="traffic_show_in_notifi_bar">Bildirim çubuğunda kullanımı görüntüle</string>
