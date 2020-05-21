@@ -90,11 +90,14 @@
     <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler (\"POSTDATA\") içeriyor. Verileri tekrar gönderirseniz sayfa üzerinde yapılmış tüm işlemler (arama veya çevrimiçi satın alma gibi) tekrarlanacaktır.</string>
     <string name="browserFrameNetworkErrorLabel">Bağlantı sorunu</string>
     <string name="browser_msg">Tarayıcı mesajı</string>
+	<string name="browser_orientation_info">Web sayfasına göz atarken dikey ekranı kilitleme</string>
     <string name="browser_setting_advance_detail">Gelişmiş işlev ayrıntısı</string>
     <string name="browser_sync_description">Ana ekran simgeleri, yer imleri</string>
     <string name="browser_sync_title">Tarayıcı</string>
     <string name="browser_useragent">Tarayıcı kimliği</string>
     <string name="browser_version">Uygulama Sürümü</string>
+	<string name="browser_force_block_ads_info">"Görüntü ekranını etkileyebilir
+Ayrıca reklamlara göre de derinden filtre uygulayabilirsiniz"</string>
     <string name="business_display_cover">Kapağı ya da posteri tarayın</string>
     <string name="business_display_qr_code">QR kodunu tara</string>
     <string name="business_tab_cover">Kapağı tara</string>
@@ -289,6 +292,16 @@ Lütfen onar'a tıklayıp Tarayıcınızı yeniden başlatın"</string>
     <string name="floor_count">%d tekrar var</string>
     <string name="floor_master_name">Konu başlatan</string>
     <string name="folder">Dizin</string>
+	 <string name="font_background">Arkaplan/Yazı tipi</string>
+    <string name="font_content">"Uzaktan bakıldığında dağın renkleri rakipsizdir.
+
+Yakın çekimde akan suyun sesleri boğulur.
+
+Bahar gitti, ama çiçekler hala duruyor.
+
+Dağlarına bahar gelmiş memleketimin
+
+İnsanların yaklaşımı kuşları korkutmuyor."</string>
     <string name="forcetouch_new_page">Yeni sekme</string>
     <string name="forcetouch_open_bookmark">Yer İşaretine git</string>
     <string name="forcetouch_open_custom">Özel ekranı aç</string>
@@ -641,6 +654,7 @@ Lütfen onar'a tıklayıp Tarayıcınızı yeniden başlatın"</string>
     <string name="pref_content_search_engine">Arama motoru ayarlayın</string>
     <string name="pref_content_search_engine_summary">Arama motoru seçin</string>
     <string name="pref_content_title">Sayfa içeriği</string>
+	<string name="pref_content_orientation">Dikey ekranı kilitleme</string>
     <string name="pref_data_preload_dialogtitle">Arama sonucunu önyükleme</string>
     <string name="pref_data_preload_summary">Tarayıcının yüksek güvenli arama sonuçlarını arka planda önyüklemesine izin ver</string>
     <string name="pref_data_preload_title">Arama sonucunu önyükleme</string>
@@ -655,6 +669,7 @@ Lütfen onar'a tıklayıp Tarayıcınızı yeniden başlatın"</string>
     <string name="pref_extras_reset_default_title">Varsayılanları sıfırla</string>
     <string name="pref_extras_website_settings">Web sitesi ayarları</string>
     <string name="pref_extras_website_settings_summary">Her web sitesi için ayrı düzenlenebilen gelişmiş ayarlar</string>
+	<string name="pref_gesture_back_forward">Sola ve sağa kaydırın</string>
     <string name="pref_general_autofill_title">Otomatik doldur</string>
     <string name="pref_lab_fullscreen">Tam ekran</string>
     <string name="pref_lab_fullscreen_summary">Durum çubuğunu gizlemek için tam ekran modunu kullanın</string>
@@ -792,6 +807,8 @@ Lütfen onar'a tıklayıp Tarayıcınızı yeniden başlatın"</string>
     <string name="search_button_text">Başlat</string>
     <string name="search_change_data">Değiştirildi</string>
     <string name="search_copy_success">Başarıyla kopyalandı</string>
+	<string name="search_direct_ad_info">Arama için uygulama önerme</string>
+    <string name="search_direct_ad_switch">Arama Önerisi</string>
     <string name="search_hint">"Arayın veya URL'yi yazın"</string>
     <string name="search_history">Arama geçmişi</string>
     <string name="search_menu_title">Ara</string>
@@ -902,6 +919,11 @@ Bittiğinde lütfen tarayıcıyı yeniden başlatın"</string>
     <string name="ten_thousands_more">10 binden fazla</string>
     <string name="terms_of_use_for_newsfeed_by_yandex">Newsfeed by Yandex için kullanım şartları</string>
     <string name="text_close_all_tab">Tümünü kapat</string>
+	<string name="text_huyan">Göz dostu</string>
+    <string name="text_jingdian">Klasik</string>
+    <string name="text_langman">Pembe</string>
+    <string name="text_size_biaozhun">Varsayılan</string>
+    <string name="text_xuanku">Siyah</string>
     <string name="thousand">bin</string>
     <string name="time_day_before_yestoday">Evvelsi gün</string>
     <string name="time_today">Bugün</string>
