@@ -364,6 +364,7 @@
     <string name="power_save_notice">Güç tasarrufu ipucu</string>
     <string name="power_save_notice_msg">Güç tasarrufu ipucu: Ekran parlaklığını ve zaman aşımını düşürün</string>
     <string name="power_screen">Ekran</string>
+	<string name="power_setting">Ayarlar</string>
     <string name="power_soft_sipper">Yazılım</string>
     <string name="power_soft_total_sipper">Toplam yazılım kullanımı</string>
     <string name="power_title">Güç kullanımı ayrıntıları</string>
