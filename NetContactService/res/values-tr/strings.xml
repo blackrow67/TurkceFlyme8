@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="alwaysUse">Bu seçeneği varsayılan olarak kullan</string>
+	<string name="app_name">Numara tanımlayıcısı</string>
     <string name="date_time_set">Ayarla</string>
     <string name="item_is_selected">%1$s seçildi</string>
     <string name="local_number">Yerel numara</string>
