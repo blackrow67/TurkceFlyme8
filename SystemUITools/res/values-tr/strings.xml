@@ -215,12 +215,12 @@
     <string name="wechat_sending_failed_text">Content copied to clipboard. Please paste and send again</string>
     <string name="first_page_text1">Pretty and smart</string>
     <string name="first_page_text2">Secure and easy to use</string>
-    <string name="enjoy_text1">200 new animations</string>
-    <string name="enjoy_text2">400 new features</string>
-    <string name="enjoy_text3">430 days and nights</string>
-    <string name="enjoy_text4">Dedicated to the best Flyme ever</string>
-    <string name="enjoy_text5">Get Started</string>
-    <string name="new_design">Brand New Design</string>
+    <string name="enjoy_text1">200 yeni animasyon</string>
+    <string name="enjoy_text2">400 yeni özellik</string>
+    <string name="enjoy_text3">430 gün ve gece</string>
+    <string name="enjoy_text4">"Gelmiş geçmiş en iyi Flyme'a adanmıştır."</string>
+    <string name="enjoy_text5">Başlayın</string>
+    <string name="new_design">Yepyeni Tasarım</string>
     <string name="new_design_content">"Content-oriented UI &amp; 3D animation 
 A visual treat for gadget enthusiasts"</string>
     <string name="intelligent_thinking_engine">An Engine That Thinks</string>
@@ -573,10 +573,4 @@ Kilit ekranı ayarlarını otomatik olarak geri yüklemek için sürüş modunda
     <string name="drivemode_noti_runing_title">Driving mode is on</string>
     <string name="childmode_setting_all_apps_time">All apps</string>
     <string name="game_mode_settings">Settings</string>
-    <item type="string" name="APKTOOL_DUMMY_22c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_22d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_22e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_22f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_230">false</item>
-    <item type="string" name="APKTOOL_DUMMY_231">false</item>
 </resources>
