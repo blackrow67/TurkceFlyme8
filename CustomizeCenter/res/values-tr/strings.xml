@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+
+    <string name="WaitTip">Lütfen bekleyin</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -17,8 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-    <string name="search_menu_title">Ara</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="about">Hakkında</string>
     <string name="about_subtitile1">Temalar web sürümü</string>
     <string name="about_subtitile2">Geliştirici Topluluğu</string>
@@ -27,10 +25,12 @@
     <string name="about_wallpaper_disclaimer">"Bazı duvar kağıtları internetten kopyalanır.
   Bunları silmek için telif hakkı sorunu varsa
   lütfen bizimle iletişime geçin"</string>
+    <string name="access_server_error">The system is busy, please try again later</string>
     <string name="account_badge">İkincil duvar kağıdı</string>
     <string name="account_balance">Bakiye: ￥%.2f</string>
     <string name="account_balance_getting">Reading</string>
     <string name="account_coupon">Kuponlar</string>
+    <string name="account_info_layout_default_color">\#8EA8BE</string>
     <string name="account_integration">puanlar</string>
     <string name="account_keyboard_skin">Klavye görünümü</string>
     <string name="account_mix">Karıştır ve Eşleştir</string>
@@ -56,9 +56,14 @@
     <string name="alert_dialog_ok">OK</string>
     <string name="alert_dialog_permission_title">Asking permission to %s</string>
     <string name="alert_dialog_reject">Deny</string>
+    <string name="alipay_data_exception">Data format incorrect</string>
+    <string name="alipay_network_request_error">Network Request Error</string>
+    <string name="alipay_server_error">Payment service is updating</string>
+    <string name="alipay_unknown_error">Alipay no response, please try again</string>
     <string name="all_special">All</string>
     <string name="all_update">All updates</string>
     <string name="alwaysUse">Use this option as default</string>
+    <string name="app_name">Perf</string>
     <string name="applied">Eklendi</string>
     <string name="apply">Uygula</string>
     <string name="apply_badge">İkinci ekrana ekle</string>
@@ -87,6 +92,8 @@
     <string name="badge_not_exist">İkinci duvar kağıdı mevcut değil</string>
     <string name="beautybean_clear_date_time">3 gün sonra süresi geçen puanlar</string>
     <string name="cancel">İptal</string>
+    <string name="capture_qrcode_prompt">Lütfen çerçevedeki barkodu tarayın</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_all">Tümü</string>
     <string name="check_app_update">Güncellemeleri kontrol et</string>
     <string name="check_gallery">Galeriyi kontrol et</string>
@@ -109,7 +116,19 @@
     <string name="collect_pap">Favori duvar kağıtları</string>
     <string name="collect_theme">Favori temalar</string>
     <string name="collection">Favoriler</string>
+    <string name="colon">:</string>
     <string name="colon_and_empty">:</string>
+    <string name="color_ring_get_rand_code">Şifreyi girin</string>
+    <string name="color_ring_login_token_invalid">Yetkilendirme başarısız oldu. Lütfen tekrar deneyin.</string>
+    <string name="color_ring_next_step">İleri</string>
+    <string name="color_ring_not_enough_duration">Minimum zaman aralığına henüz ulaşılmadı. Lütfen bekle.</string>
+    <string name="color_ring_phone_number_error">Doğru telefon numarasını girin</string>
+    <string name="color_ring_phone_number_hint">Lütfen telefon numarasını girin</string>
+    <string name="color_ring_rand_code_error">Yanlış doğrulama kodu. Lütfen tekrar girin.</string>
+    <string name="color_ring_rand_code_hint">PIN</string>
+    <string name="color_ring_reget_rand_code">Terkar dene</string>
+    <string name="color_ring_second">s</string>
+    <string name="color_ring_set_color_ring">Zil sesi olarak ayarla \"%s\"</string>
     <string name="color_ring_set_success">"Müzik zil sesi başvurunuz Cooltone'a gönderildi ve 2 saat içinde onaylanması bekleniyor. Hizmet etkinleştirildiğinde, zil tonunuz otomatik olarak \"%1$s\" olacaktır. Sorularınız varsa, lütfen %2$s ile temasa geçin."</string>
     <string name="color_ring_set_success_confirm">ANLADIM</string>
     <string name="color_ring_tag">dk</string>
@@ -136,6 +155,7 @@
     <string name="congratulations_get_coupon">Tebrikler! İşte size bir kupon</string>
     <string name="content_push">Anlık bildirimleri al</string>
     <string name="content_push_summary">Popüler etkinlikler, röportajlar ve daha fazlasının bildirimlerini al</string>
+    <string name="context_is_null">context is null</string>
     <string name="continue_download">Devam et</string>
     <string name="copy_that">ANLADIM</string>
     <string name="copy_url">"URL'yi kopyala"</string>
@@ -166,6 +186,7 @@
     <string name="do_not_waste_beautybean">Puanlarla kuponunuzu isteyin</string>
     <string name="download">İndir</string>
     <string name="download_again">Tekrar İndir</string>
+    <string name="download_complete">İndirme tamamlantı</string>
     <string name="download_count">(%s) indirme</string>
     <string name="download_error">İndirme başarısız</string>
     <string name="download_error_for_unrecognized_imei">Tanınmayan IMEI nedeniyle indirme hatası</string>
@@ -191,6 +212,7 @@
     <string name="download_success">%s İndirildi</string>
     <string name="download_wallpaper_fail">Hata, duvar kağıdı indirilemedi</string>
     <string name="downloaded_history">İndirme geçmişi</string>
+    <string name="downloading">İndiriliyor</string>
     <string name="downloading_badge">İndiriliyor</string>
     <string name="downloading_multiple">İndiriliyor %1$s %2$d/%3$d</string>
     <string name="downloading_patch_prefix">Güncelleme Dosyasını İndir</string>
@@ -203,16 +225,26 @@
     <string name="error">İndirilirken hata</string>
     <string name="error_and_please_re_tried">Hata. Lütfen yeniden deneyin. (%d)</string>
     <string name="error_code_remote_exception">Hesap uzaktan hizmet istisnası</string>
+    <string name="error_is_throwed">error is throwed while get token</string>
     <string name="every_day">Her gün</string>
     <string name="exist_bug">Uygulama veya tema hatalar var</string>
+    <string name="external_intent_font_online_title">Çevrimiçi Yazı tipleri</string>
+    <string name="external_intent_ringtone_online_title">Çevrimiçi Zil Sesleri</string>
+    <string name="external_intent_theme_online_title">Çevrimiçi Temalar</string>
+    <string name="external_intent_wallpaper_online_title">Çevrimiçi Duvar kağıtları</string>
     <string name="festival_wallpaper">Festival duvar kağıtları</string>
     <string name="file_selected_number">%1$s file(s) selected, %2$s MB in total</string>
+    <string name="fit_action_view">fitActionView</string>
+    <string name="float_switcher_title">Float Widget Entrance</string>
+    <string name="flyme_avatar_summary">Kişi avatarını Flyme stili avatar ile değiştirir</string>
+    <string name="flyme_avatar_title">Flyme stil avatar</string>
     <string name="font">Yazı Tipleri</string>
     <string name="font_check_license_failed">Kimlik doğrulanamadı, lütfen bu yazı tipini yeniden indirin</string>
     <string name="font_default_name">Sistem varsayılanı</string>
     <string name="font_description">Yazı Tipi açıklaması</string>
     <string name="font_detail_activity_name">Yazı tipi ayrıntıları</string>
     <string name="font_downloaded_times_exceeded_tip">Maksimum cihaz sınırına ulaşıldığı için indirilemiyor</string>
+    <string name="font_label">Yazı Tipi Etiketi</string>
     <string name="font_online_comment_title">Yazı Tipi yorumları</string>
     <string name="font_online_un_existed">Maalesef yazı biçimi artık mevcut değil.</string>
     <string name="font_preview_applied">Uygulandı</string>
@@ -234,7 +266,9 @@
     <string name="force_touch_ring">Zil Sesi</string>
     <string name="force_touch_theme">Tema</string>
     <string name="force_touch_wallpaper">Duvar kâğıdı</string>
+    <string name="future_result_is_null">invalid response</string>
     <string name="get_beautybean_after_log_in">Get the points after logging in</string>
+    <string name="get_cancel">get token cancel</string>
     <string name="get_download_url_error">İndirme yolunu alma hatası</string>
     <string name="get_token_fail">Hesap bilgileri alınamadı</string>
     <string name="got_it">ANLADIM</string>
@@ -247,17 +281,23 @@
     <string name="hot_ringtone_label">Beğenilen Zil Sesleri</string>
     <string name="hot_search_label">Popüler Aramalar</string>
     <string name="hot_theme_label">Beğenilen Temalar</string>
+    <string name="hour_minute" formatted="false">%s:%s</string>
     <string name="i_want_to_try">Şimdi Dene</string>
+    <string name="illegal_pay_request">Illegal payment request</string>
     <string name="immediately_see">Görüntüle</string>
     <string name="input_issue">Sorun açıklaması</string>
     <string name="input_other_error">Ek bilgi (isteğe bağlı)</string>
     <string name="install">Download</string>
+    <string name="install_app">Yükle</string>
+    <string name="install_error">Installation error</string>
     <string name="install_fail">Yükleme başarısız</string>
     <string name="install_theme_failed">Hata, tema yüklenemedi</string>
     <string name="installed_theme">Yüklendi</string>
+    <string name="installing">Yükleniyor</string>
     <string name="installing_app">Installing app</string>
     <string name="installing_theme">Installing theme</string>
     <string name="integration_net_error">Network exception, please try again</string>
+    <string name="intent_handle">intent need to be handled</string>
     <string name="internet_error">Ağ hatası</string>
     <string name="internet_error_tap_to_reload">Ağ hatası, yeniden yüklemek için dokunun</string>
     <string name="introduction_guide">Etkinleştirmek için #@0@# > Otomatik Duvar Kağıdı Değiştirici adımına gidin</string>
@@ -276,7 +316,9 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_more">Yüklemek için yukarı çekin</string>
     <string name="local">Yerel</string>
-    <string name="local_wallpaper">Yerel duvar kağıtları</string>
+    <string name="local_livepaper_title">Dinamik duvar kağıtları</string>
+    <string name="local_stereo_wallpaper_title">3 boyutlu duvar kağıtları</string>
+    <string name="local_wallpaper">Duvar kağıtları</string>
     <string name="lock_month_day">M/d</string>
     <string name="lock_screen_poster_description">Duvar kağıdı değiştirici, kilit ekranı duvar kağıtlarını otomatik değiştirir.</string>
     <string name="lock_week">M/d/yyyy (EEEE)</string>
@@ -287,70 +329,96 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="look_coupon">Şansı kaçırmayın. Göz atın!</string>
     <string name="look_over">Görüntüle</string>
     <string name="matched_theme">Eşleşen tema</string>
+    <string name="mc_action_settings">Ayarlar</string>
     <string name="mc_allow">Tamam</string>
-    <string name="mc_alway_allow">Always allow</string>
-    <string name="mc_cancel">İptal et</string>
-    <string name="mc_cancel_button_text">İptal et</string>
-    <string name="mc_cancel_collected_message">Canceled</string>
-    <string name="mc_cancel_praised_message">İptal et</string>
-    <string name="mc_change_num">Update</string>
-    <string name="mc_collected_message">Favorite</string>
-    <string name="mc_custom_date_time_gregorian">Gregorian</string>
-    <string name="mc_custom_date_time_hide_lunar">Hide Lunar</string>
-    <string name="mc_custom_date_time_lunar">Lunar</string>
-    <string name="mc_custom_date_time_show_gregorian">Show Gregorian</string>
-    <string name="mc_custom_date_time_show_lunar">Show Lunar</string>
-    <string name="mc_custom_date_time_today">Today</string>
-    <string name="mc_date_time_day">d</string>
-    <string name="mc_date_time_hour">h</string>
-    <string name="mc_date_time_min">m</string>
-    <string name="mc_date_time_month">m</string>
-    <string name="mc_date_time_sec">s</string>
-    <string name="mc_date_time_set">Set</string>
-    <string name="mc_date_time_year">y</string>
-    <string name="mc_description_target_answer">Answer</string>
-    <string name="mc_description_target_decline">Deny</string>
-    <string name="mc_disable">Disable</string>
-    <string name="mc_downloading_patch_prefix">Download Updates</string>
-    <string name="mc_downloading_prefix">Downloaded</string>
-    <string name="mc_enhanceseekbar">Using slider control. Currently set to %1$s</string>
-    <string name="mc_every_day">Every day</string>
-    <string name="mc_friday">FR</string>
-    <string name="mc_go_Refreshing">Release to refresh</string>
-    <string name="mc_hour">h</string>
-    <string name="mc_is_Refreshing">Refreshing</string>
-    <string name="mc_last_refresh">Last refresh</string>
-    <string name="mc_last_refresh_hour">h ago</string>
-    <string name="mc_last_refresh_just_now">Just now</string>
-    <string name="mc_last_refresh_minute">min ago</string>
-    <string name="mc_last_refresh_second">s ago</string>
-    <string name="mc_loading_animation_alert">Saving image</string>
+    <string name="mc_alway_allow">Her zaman izin ver</string>
+    <string name="mc_app_name">MeizuCommon</string>
+    <string name="mc_cancel">İptal</string>
+    <string name="mc_cancel_button_text">İptal</string>
+    <string name="mc_cancel_collected_message">İptal edildi</string>
+    <string name="mc_cancel_praised_message">İptal</string>
+    <string name="mc_change_num">Güncelle</string>
+    <string name="mc_collected_message">Favori</string>
+    <string name="mc_custom_date_time_days_after">%1$d gün sonra</string>
+    <string name="mc_custom_date_time_days_before">%1$d Gün önce</string>
+    <string name="mc_custom_date_time_gregorian">Miladi Takvim</string>
+    <string name="mc_custom_date_time_hide_lunar">Ay Takvimini Gizle</string>
+    <string name="mc_custom_date_time_lunar">Ay Takvimi</string>
+    <string name="mc_custom_date_time_one_day_after">1 gün sonra</string>
+    <string name="mc_custom_date_time_one_day_before">1 gün önce</string>
+    <string name="mc_custom_date_time_show_gregorian">Miladi Takvimi göster</string>
+    <string name="mc_custom_date_time_show_lunar">Ay Takvimini göster</string>
+    <string name="mc_custom_date_time_today">Bugün</string>
+    <string name="mc_date_time_day">gün</string>
+    <string name="mc_date_time_hour">sa.</string>
+    <string name="mc_date_time_min">dk</string>
+    <string name="mc_date_time_month">ay</string>
+    <string name="mc_date_time_sec">sn</string>
+    <string name="mc_date_time_set">Ayarla</string>
+    <string name="mc_date_time_year">yıl</string>
+    <string name="mc_description_target_answer">Yanıtla</string>
+    <string name="mc_description_target_decline">Reddet</string>
+    <string name="mc_disable">Devre dışı bırak</string>
+    <string name="mc_downloading_patch_prefix">Güncellemeleri İndir</string>
+    <string name="mc_downloading_prefix">İndirildi</string>
+    <string name="mc_enhanceseekbar">Kaydırıcı kontrolü kullanılıyor. Şu anki ayarı: %1$s</string>
+    <string name="mc_every_day">Her gün</string>
+    <string name="mc_friday">CU</string>
+    <string name="mc_go_Refreshing">Yenilemek için bırakın</string>
+    <string name="mc_hello_world">Hello world!</string>
+    <string name="mc_hour">sa</string>
+    <string name="mc_is_Refreshing">Yenileniyor</string>
+    <string name="mc_last_refresh">Son yenileme</string>
+    <string name="mc_last_refresh_hour">sa önce</string>
+    <string name="mc_last_refresh_just_now">Az önce</string>
+    <string name="mc_last_refresh_minute">dk önce</string>
+    <string name="mc_last_refresh_second">saniye önce</string>
+    <string name="mc_loading_animation_alert">Görüntü kaydediliyor</string>
     <string name="mc_loading_view_text">Yükleniyor</string>
-    <string name="mc_minute">m</string>
-    <string name="mc_monday">MO</string>
-    <string name="mc_never">Once</string>
-    <string name="mc_pattern_just_now">Just now</string>
-    <string name="mc_pattern_yesterday">Yesterday</string>
-    <string name="mc_permission_apply">Request for permission</string>
-    <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
-    <string name="mc_pm_allow_check_app">OK</string>
-    <string name="mc_pm_allow_dialog_push">Allow push</string>
+    <string name="mc_minute">dk</string>
+    <string name="mc_monday">PZT</string>
+    <string name="mc_never">Bir kez</string>
+    <string name="mc_pattern_a_hour_before">1 hour ago</string>
+    <string name="mc_pattern_a_minute_before">1 minute ago</string>
+    <string name="mc_pattern_hour_before">, hours ago</string>
+    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_minute_before">, minutes ago</string>
+    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_today">Bugün</string>
+    <string name="mc_pattern_today">Today</string>
+    <string name="mc_pattern_week">%a</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Dün</string>
+    <string name="mc_permission_apply">İzin talebi</string>
+    <string name="mc_permission_message_content">%1$s, %2$s dahil olmak üzere %3$d izin istiyor</string>
+    <string name="mc_pm_allow_check_app">Tamam</string>
+    <string name="mc_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
-    <string name="mc_pm_call">Dial</string>
-    <string name="mc_pm_call_log">Read CallLog</string>
-    <string name="mc_pm_camera">Camera (Photo/Video)</string>
-    <string name="mc_pm_close">Close</string>
-    <string name="mc_pm_contacts">Read Contacts</string>
-    <string name="mc_pm_dialog_push">Pop-up push</string>
-    <string name="mc_pm_dlg_cancel">İptal et</string>
-    <string name="mc_pm_dlg_ok">OK</string>
-    <string name="mc_pm_location">Locate</string>
-    <string name="mc_pm_network">Cellular data</string>
+    <string name="mc_pm_call">Ara</string>
+    <string name="mc_pm_call_log">Arama Kaydını oku</string>
+    <string name="mc_pm_camera">Kamera (Fotoğraf/Video)</string>
+    <string name="mc_pm_close">Kapat</string>
+    <string name="mc_pm_contacts">Kişileri Oku</string>
+    <string name="mc_pm_dialog_push">Açılır pencere anlık bildirimi</string>
+    <string name="mc_pm_dlg_cancel">İptal</string>
+    <string name="mc_pm_dlg_ok">Tamam</string>
+    <string name="mc_pm_location">Konumu Bul</string>
+    <string name="mc_pm_network">Hücresel veri</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Deny</string>
-    <string name="mc_pm_not_allow_dialog_push">Block</string>
-    <string name="mc_pm_online_intenert">Internet</string>
-    <string name="mc_pm_open">Open</string>
+    <string name="mc_pm_not_allow_check_app">Reddet</string>
+    <string name="mc_pm_not_allow_dialog_push">Engelle</string>
+    <string name="mc_pm_online_intenert">İnternet</string>
+    <string name="mc_pm_open">Aç</string>
     <string name="mc_pm_r_mms">Read MMS</string>
     <string name="mc_pm_r_sms">Read SMS</string>
     <string name="mc_pm_recordaudio_local">Local/call recordings</string>
@@ -371,6 +439,9 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
     <string name="mc_second">s</string>
+    <string name="mc_selectionbutton_all">Hepsi</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">SU</string>
     <string name="mc_thursday">TH</string>
     <string name="mc_time_picker_dialog_title">Schedule</string>
@@ -395,9 +466,11 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="mix_wallpaper_item">Duvar kağıdı</string>
     <string name="mobile_network_Tips">At first use, you need to download a number of initial wallpapers. This may consume your cellular data (about 30 MB).</string>
     <string name="model_request_error">Request failed</string>
+    <string name="module_count_def">--</string>
     <string name="more">Daha fazla</string>
     <string name="more_item_label">More</string>
     <string name="more_special">Daha Fazla Koleksiyon</string>
+    <string name="msg_loading">Loading data</string>
     <string name="multi_selection_alarm_clock_title">Alarm seç</string>
     <string name="multi_selection_badge_title">İkinci duvar kağıdı seç</string>
     <string name="multi_selection_font_title">Yazı biçimi seç</string>
@@ -414,19 +487,24 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="mz_action_bar_multi_choice_title">%d Öğe Seçildi</string>
     <string name="mz_allow">Tamam</string>
     <string name="mz_alway_allow">Her zaman izin ver</string>
-    <string name="mz_date_time_day">d</string>
-    <string name="mz_date_time_hour">h</string>
-    <string name="mz_date_time_min">m</string>
-    <string name="mz_date_time_month">m</string>
-    <string name="mz_date_time_sec">s</string>
-    <string name="mz_date_time_year">y</string>
+    <string name="mz_date_time_day">gün</string>
+    <string name="mz_date_time_hour">sa.</string>
+    <string name="mz_date_time_min">dk</string>
+    <string name="mz_date_time_month">ay</string>
+    <string name="mz_date_time_sec">sn</string>
+    <string name="mz_date_time_year">yıl</string>
     <string name="mz_network_unavailable_hint">Ağ kullanılamıyor. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_permission_allow">İzin ver</string>
     <string name="mz_permission_almost_deny">Reddedildikten sonra bir daha sorma</string>
+    <string name="mz_permission_always_allow">Her zaman izin ver</string>
     <string name="mz_permission_apply">İzin talebi</string>
     <string name="mz_permission_deny">Reddet</string>
-    <string name="mz_permission_message_content">%1$s requests %3$d permission(s) to %2$s</string>
-    <string name="mz_permission_title_supplement">aşağıdaki izinleri talep ediyor</string>
+    <string name="mz_permission_message_content">%1$s, %2$s için %3$d izin istiyor</string>
+    <string name="mz_permission_message_supplement">%1$s için %2$s %3$d izinleri gerekli</string>
+    <string name="mz_permission_title_supplement">Aşağıdaki izinleri iste</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_net">Ağ bağlantıları</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
     <string name="mz_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
@@ -463,52 +541,52 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="mz_specific_permission_deny">İzin vermeyi reddet</string>
     <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
-    <string name="mzuc_cancel">İptal et</string>
-    <string name="mzuc_cancel_download">Cancel download</string>
-    <string name="mzuc_cancel_install">Cancel installation</string>
-    <string name="mzuc_delete">Delete</string>
-    <string name="mzuc_download">Download</string>
-    <string name="mzuc_download_fail">Download failed</string>
-    <string name="mzuc_download_finish_install">Download completed, tap to install</string>
-    <string name="mzuc_download_finish_s" formatted="false">%s %s download completed</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">Downloading %s %s</string>
-    <string name="mzuc_downloading">Downloading</string>
-    <string name="mzuc_file_size_s">It will consume %s of cellular data</string>
-    <string name="mzuc_found_update_s">Update available %s</string>
-    <string name="mzuc_install_cancel_tip">Download canceled</string>
-    <string name="mzuc_install_fail">Installation failed</string>
-    <string name="mzuc_install_immediately">Install now</string>
-    <string name="mzuc_install_later">Install later</string>
-    <string name="mzuc_installing">Installing</string>
-    <string name="mzuc_manual_checking_update">Checking for update</string>
-    <string name="mzuc_manual_current_version">Current app version %s</string>
-    <string name="mzuc_manual_download_cancel">Cancel download</string>
-    <string name="mzuc_manual_download_fail">Failed to download</string>
-    <string name="mzuc_manual_downloading">Downloading %s%%</string>
-    <string name="mzuc_manual_found_new_version">New version found. Tap to update</string>
-    <string name="mzuc_manual_install_fail">Failed to install</string>
-    <string name="mzuc_manual_install_new_version">Update file is downloaded and tap to install</string>
-    <string name="mzuc_manual_installing">Installing...</string>
-    <string name="mzuc_manual_latest_version">Current version is latest</string>
-    <string name="mzuc_manual_update_for_new_version">Download the latest version</string>
-    <string name="mzuc_manual_update_title">Check for update</string>
-    <string name="mzuc_msg_indicator">"What's new:"</string>
+    <string name="mzuc_cancel">İptal</string>
+    <string name="mzuc_cancel_download">İndirmeyi iptal et</string>
+    <string name="mzuc_cancel_install">Yüklemeyi iptal et</string>
+    <string name="mzuc_delete">Sil</string>
+    <string name="mzuc_download">İndir</string>
+    <string name="mzuc_download_fail">İndirme başarısız</string>
+    <string name="mzuc_download_finish_install">İndirme tamamlandı, yüklemek için dokunun</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s %s indirme tamamlandı</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">İndiriliyor %s %s</string>
+    <string name="mzuc_downloading">İndiriliyor</string>
+    <string name="mzuc_file_size_s">%s kadar hücre verisi tüketecektir</string>
+    <string name="mzuc_found_update_s">Güncelleme mevcut: %s</string>
+    <string name="mzuc_install_cancel_tip">İndirme iptal edildi</string>
+    <string name="mzuc_install_fail">Yükleme başarısız</string>
+    <string name="mzuc_install_immediately">Şimdi yükle</string>
+    <string name="mzuc_install_later">Daha sonra yükle</string>
+    <string name="mzuc_installing">Yükleniyor</string>
+    <string name="mzuc_manual_checking_update">Güncellemeler kontrol ediliyor</string>
+    <string name="mzuc_manual_current_version">Geçerli uygulama sürümü %s</string>
+    <string name="mzuc_manual_download_cancel">İndirmeyi iptal et</string>
+    <string name="mzuc_manual_download_fail">İndirme başarısız</string>
+    <string name="mzuc_manual_downloading">İndiriliyor %s%%</string>
+    <string name="mzuc_manual_found_new_version">Yeni sürüm bulundu. Güncellemek için dokunun</string>
+    <string name="mzuc_manual_install_fail">Yüklenemiyor</string>
+    <string name="mzuc_manual_install_new_version">Güncelleme dosyası indirildi. Yüklemek için dokunun</string>
+    <string name="mzuc_manual_installing">Yükleniyor...</string>
+    <string name="mzuc_manual_latest_version">Geçerli sürüm, en son sürümdür</string>
+    <string name="mzuc_manual_update_for_new_version">En son sürümü indir</string>
+    <string name="mzuc_manual_update_title">Güncellemeleri kontrol et</string>
+    <string name="mzuc_msg_indicator">Yenilikler:</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_ok">OK</string>
-    <string name="mzuc_reboot_update_now">Restart to update</string>
-    <string name="mzuc_retry">Retry</string>
-    <string name="mzuc_skip_version">Ignore</string>
-    <string name="mzuc_skip_warn_tip">If you skip this version, you will not be prompted to install it</string>
-    <string name="mzuc_update_finish">Update completed</string>
-    <string name="mzuc_update_finish_format">Updated to the latest version %s</string>
-    <string name="mzuc_update_immediately">Update now</string>
-    <string name="mzuc_update_immediately_roaming">Update in roam (%s)</string>
-    <string name="mzuc_update_later">Remind me later</string>
-    <string name="mzuc_update_mobile_network">Download via mobile network?</string>
+    <string name="mzuc_ok">Tamam</string>
+    <string name="mzuc_reboot_update_now">Güncellemek için yeniden başlat</string>
+    <string name="mzuc_retry">Yeniden dene</string>
+    <string name="mzuc_skip_version">Yoksay</string>
+    <string name="mzuc_skip_warn_tip">Bu sürümü atlarsanız, yüklemeniz için hatırlatma yapılmayacak.</string>
+    <string name="mzuc_update_finish">Güncelleme tamamlandı</string>
+    <string name="mzuc_update_finish_format">En son sürüme (%s) güncellendi</string>
+    <string name="mzuc_update_immediately">Şimdi Güncelle</string>
+    <string name="mzuc_update_immediately_roaming">Dolaşımda güncelle (%s)</string>
+    <string name="mzuc_update_later">Daha sonra anımsat</string>
+    <string name="mzuc_update_mobile_network">Mobil ağ üzerinden indirilsin mi?</string>
     <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
-    <string name="mzuc_update_title_s" formatted="false">%s %s released</string>
-    <string name="mzuc_wait_tip">Please wait</string>
-    <string name="mzuc_warn_later">Remind Later</string>
+    <string name="mzuc_update_title_s" formatted="false">%s %s yayınlandı</string>
+    <string name="mzuc_wait_tip">Lütfen bekleyin</string>
+    <string name="mzuc_warn_later">Daha Sonra Hatırlat</string>
     <string name="native_badge_title">İkincil duvar kağıtlarım</string>
     <string name="native_keyboard_skin_title">Klavye kaplamalarım</string>
     <string name="native_pap_title">Duvar kağıtlarım</string>
@@ -519,6 +597,8 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="navigator_loading_text">Yükleniyor</string>
     <string name="need_update_apk_message">Themes needs to be updated before you can use paid %s. Update Themes?</string>
     <string name="net_exception">Network error, please try again later</string>
+    <string name="networkRequestError">Network Request Error</string>
+    <string name="network_error_to_refresh">Ağ hatası, tekrar deneyin</string>
     <string name="never">Asla tekrarlama</string>
     <string name="newest_version_has_downloaded_click_to_install">New version downloaded, tap to install</string>
     <string name="next_step">İleri</string>
@@ -526,6 +606,8 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="no_collection">Favori Yok</string>
     <string name="no_download_task">Hiçbir İndirme Görevi yok</string>
     <string name="no_internet_error">Ağ talebi başarısız</string>
+    <string name="no_livepaper_tips">Yerel dinamik duvar kağıdı önerilmez</string>
+    <string name="no_network_to_setting">No network, please check your settings.</string>
     <string name="no_record">Veri Yok</string>
     <string name="not_allow_comment">Yorumları yasakla</string>
     <string name="not_on_the_device">Cihazda değil</string>
@@ -555,14 +637,28 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="online_theme_trial_trying_notify_content">Deneme şu sürede sona erecektir: %1$d:%2$02d</string>
     <string name="online_theme_trial_trying_notify_title">\"%s\" teması deneniyor</string>
     <string name="online_theme_trying_now">Denemede</string>
+    <string name="online_theme_un_existed">Maalesef tema artık mevcut değil</string>
     <string name="open">Açık</string>
+    <string name="open_app">Aç</string>
+    <string name="open_pay_auto_pay_permission_title">Payment service authorization</string>
     <string name="open_varied_wallpaper_fail">Kilit ekranı için canlı bir duvar kağıdı kullanıyorsunuz. Otomatik duvar kağıdı değiştiriciyi etkinleştirmeden önce lütfen normal biriyle değiştirin.</string>
     <string name="open_with_browser">Tarayıcı ile aç</string>
-    <string name="other_error">Other issues</string>
+    <string name="orderInfoIncomplete">Illegal request, order incomplete</string>
+    <string name="origin_livepaper_set_wallpaper">Ana ekran duvar kağıdı olarak ayarla</string>
+    <string name="origin_livepaper_set_wallpaper_and_lockpaper">Kilit ekranı ve ana ekrana ayarla</string>
+    <string name="other_error">Diğer sorunlar</string>
     <string name="pap_special">Önerilen duvar kağıtları</string>
+    <string name="password_toggle_content_description">Şifre görünürlülüğü</string>
     <string name="pattern_month_day" formatted="false">%m-%d</string>
     <string name="pattern_year_month_day" formatted="false">%Y-%m-%d</string>
     <string name="paused">Paused</string>
+    <string name="pay_base_channel_access_server_error">The system is busy, please try again later</string>
+    <string name="pay_base_channel_pay_fail">Payment failed</string>
+    <string name="pay_base_channel_pay_success">Payment made successfully</string>
+    <string name="pay_base_channel_pay_unknown_error">Payment failed, unknown exception</string>
+    <string name="pay_fail">Payment failed</string>
+    <string name="pay_success">Payment made successfully</string>
+    <string name="pay_unknown_error">Payment failed, unknown exception</string>
     <string name="payment_fail">Payment failed: %s</string>
     <string name="payment_price_not_match">Failed to create order. Please try again.</string>
     <string name="payment_promotion_fail">Failed to purchase special offer. Please try again next time.</string>
@@ -586,6 +682,7 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="reload">Yeniden Yükle</string>
     <string name="report_issue_error">Sorun bildirilemedi</string>
     <string name="report_title">Bir sorunu bildir</string>
+    <string name="request_too_fast">Request too fast</string>
     <string name="res_error">Önemli hata</string>
     <string name="restart_now">Şimdi yeniden başlat</string>
     <string name="restore_font_title">Yazı biçimi geri yükleniyor</string>
@@ -615,13 +712,16 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="save_power_mode">Bu özellik geçerli modda kullanılamaz</string>
     <string name="scan_comment_all">Tüm İncelemeler (%s)</string>
     <string name="scan_qr">Scan QR code to debug Weex</string>
+    <string name="scope_null_token">got null auth token for scope: %s</string>
     <string name="sdcard_unmount_update_theme">No USB storage mounted</string>
     <string name="search">Ara</string>
     <string name="search_font_hint">Yazı tipi ara</string>
     <string name="search_history_label">Arama geçmişi</string>
+    <string name="search_menu_title">Ara</string>
     <string name="search_pap_hint">Duvar kağıdı ara</string>
     <string name="search_ringtone_hint">Zil sesi ara</string>
     <string name="search_theme_hint">Tema ara</string>
+    <string name="see_more_livepaper_text">Daha fazla dinamik duvar kağıdı görüntüle</string>
     <string name="select_theme">Tema seç</string>
     <string name="select_theme_description">"Favori temanızı bulun ve telefonunuza tarz katın. 
 Daha fazla seçenek için Meizu Temalarına göz atın."</string>
@@ -639,8 +739,18 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="set_wallpaper_success">Duvar kâğıdı uygulama başarılı</string>
     <string name="set_wallpaper_unsupport">Hata, akıllı duvar kağıdı desteklenmiyor</string>
     <string name="setting">Ayarlar</string>
+    <string name="setting_bottom_font_button_text">Daha fazla yazı tipi görüntüle</string>
+    <string name="setting_bottom_theme_button_text">Diğer temaları görüntüle</string>
+    <string name="setting_bottom_wallpaper_button_text">Daha fazla duvar kağıdı görüntüle</string>
     <string name="setting_keyboard_skin">Klavye kaplaması uygula</string>
     <string name="setting_livepaper">Dinamik duvar kağıdını uygula</string>
+    <string name="setting_network">Set</string>
+    <string name="setting_no_net_online_font_title">Çevrimiçi Yazı tipleri</string>
+    <string name="setting_no_net_online_theme_title">Çevrimiçi Temala</string>
+    <string name="setting_no_net_online_wallpaper_title">Çevrimiçi Duvar kağıtları</string>
+    <string name="setting_no_net_tips">Connect to Internet for more</string>
+    <string name="setting_permission_dialog_text">Themes &amp; wallpapers need network access, location, recordings, and contacts to get themes, wallpapers, and other customized resources</string>
+    <string name="setting_show_all_data_title">Hepsini göster</string>
     <string name="setting_theme">Tema uygulama</string>
     <string name="setup_error">Installation failed</string>
     <string name="sex_and_violence">Pornography or violence</string>
@@ -663,13 +773,23 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="start_setting_theme">Tema uygulanıyor</string>
     <string name="start_update_incremental">Artımlı güncelleme başlatıldı</string>
     <string name="starting_download_state">%s indirmesini başlat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_not_enough">Boş alan yok</string>
+    <string name="strong_font_dlg_btn_giveup">Şimdi değil</string>
+    <string name="strong_font_dlg_btn_restart">Şimdi yeniden başlat</string>
+    <string name="strong_font_dlg_title">Bu ayarı uygulamak için yeniden başlatma gerekiyor</string>
+    <string name="strong_font_summary">Sistem yazı tipine kalın biçimlendirme uygulama</string>
+    <string name="strong_font_title">Kalın sistem yazı tipi</string>
     <string name="submit">Gönder</string>
     <string name="suspended">Kaldırıldı</string>
     <string name="switch_push_fail_dialog">Anlık Bildirimleri al seçeneğini açık veya kapalı olarak ayarlamadan önce, bir ağa bağlanın, Aksi halde değişiklik etkili olmayacaktır.</string>
+    <string name="sync_timeout">sync get token time out</string>
     <string name="system_keyboard_skin">Klasik</string>
     <string name="system_theme_name">Klasik</string>
+    <string name="task_error_message">your active task go wrong!</string>
+    <string name="task_finished_message">activity task is complete!</string>
     <string name="theme">Temalar</string>
+    <string name="theme_and_wallpaper">Tema &amp; duvar kağıdı</string>
     <string name="theme_comment_description">Gözden geçirmeler</string>
     <string name="theme_description">Tema bilgileri</string>
     <string name="theme_description_more">Ayrıntılar</string>
@@ -677,6 +797,7 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="theme_history_item_prefix">Geçmiş(%s)</string>
     <string name="theme_history_max_free_download">Maksimum cihaz sınırı aşıldığı için indirilemiyor</string>
     <string name="theme_install_title">Tema yükle</string>
+    <string name="theme_label">Tema Etiketi</string>
     <string name="theme_list_downloaded">İndirildi</string>
     <string name="theme_list_free">Ücretsiz</string>
     <string name="theme_list_old">Eski</string>
@@ -706,17 +827,22 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="to_open">Enable</string>
     <string name="toggle">Change</string>
     <string name="toggle_success">Changed</string>
+    <string name="uid_not_match">uid not match package name</string>
     <string name="uncheck_all">Hiçbiri</string>
     <string name="unknown_error">Bilinmeyen bir sistem hatası.</string>
+    <string name="unkown_error">unknown error from sdk</string>
     <string name="unsupport_current_version">Desteklenmiyor</string>
-    <string name="unsupport_the_function_on_media_eval_system">Not supported on the current system version. Please update your system and try again</string>
-    <string name="update">Update</string>
+    <string name="unsupport_operation">requests too frequently</string>
+    <string name="unsupport_the_function_on_media_eval_system">Geçerli sistem sürümünde desteklenmiyor. Lütfen sisteminizi güncelleyin ve tekrar deneyin.</string>
+    <string name="update">Güncelle</string>
     <string name="updateNotify">Tema,duvar kağıdı vb. güncelleme bildirimleri</string>
     <string name="update_incremental_success_content_multiple">\"%1$s\", etc., saved %2$s of data</string>
     <string name="update_incremental_success_content_single">\"%1$s\", saved %2$s of data</string>
     <string name="updating_prefix">Güncelleniyor</string>
     <string name="updating_single_theme">Tema güncelleniyor</string>
     <string name="updating_theme">Temalar güncelleniyor %1$d/%2$d</string>
+    <string name="use_flyme_icon_summary">Uygulama simgesini Flyme stil simgesiyle değiştirir</string>
+    <string name="use_flyme_icon_title">Flyme stil ikonu</string>
     <string name="user_data_manager_message">Wipe all app data including files, settings, accounts, database, etc.</string>
     <string name="user_data_manager_title">Delete app data?</string>
     <string name="usr_install_theme">Users also like the following</string>
@@ -730,16 +856,22 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="wallpaper_blur">Bulanıklık</string>
     <string name="wallpaper_both">Her ikiside</string>
     <string name="wallpaper_come_from">Duvar kağıdı kaynağı</string>
+    <string name="wallpaper_copy_right">©</string>
     <string name="wallpaper_launcher">Ana ekran</string>
     <string name="wallpaper_lock">Kilit ekranı</string>
     <string name="wallpaper_preview">Ön izleme</string>
     <string name="wallpaper_save">Kaydet</string>
     <string name="wallpaper_update_frequency">Duvar kağıdı yenileme sıklığı</string>
+    <string name="web_extra_loading">Yükleniyor</string>
+    <string name="web_extra_need_reload">Service exception, click on reload</string>
+    <string name="web_extra_no_network">No network connection</string>
     <string name="wechat_friends">WeChat Friends</string>
     <string name="wechat_pengyouquan">WeChat Moments</string>
     <string name="wechat_shoucang">WeChat Favorites</string>
     <string name="weekend">Weekend</string>
     <string name="weibo_app">Weibo</string>
+    <string name="weixin">WeChat</string>
+    <string name="weixin_unknown_error">WeChat no response, please retry</string>
     <string name="welcome_loading_text">Loading mini program %s</string>
     <string name="you_have_been_commented">"You've reviewed this version"</string>
     <string name="yuan">￥</string>
@@ -749,136 +881,6 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="zxing_button_ok">Tamam</string>
     <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
     <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
-    <string name="mc_pattern_a_hour_before">1 hour ago</string>
-    <string name="mc_pattern_a_minute_before">1 minute ago</string>
-    <string name="mc_pattern_hour_before">, hours ago</string>
-    <string name="mc_pattern_minute_before">, minutes ago</string>
-    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_today">Today</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
-    <string name="mc_custom_date_time_days_after">%1$d days after</string>
-    <string name="mc_custom_date_time_days_before">%1$d days before</string>
-    <string name="mc_custom_date_time_one_day_after">1 day after</string>
-    <string name="mc_custom_date_time_one_day_before">1 day before</string>
-    <string name="mz_permission_always_allow">Always allow</string>
-    <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
-    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
-    <string name="mz_permissiongroup_name_net">Network connections</string>
-    <string name="WaitTip">Lütfen bekleyin</string>
-    <string name="access_server_error">The system is busy, please try again later</string>
-    <string name="alipay_data_exception">Data format incorrect</string>
-    <string name="alipay_network_request_error">Network Request Error</string>
-    <string name="alipay_server_error">Payment service is updating</string>
-    <string name="alipay_unknown_error">Alipay no response, please try again</string>
-    <string name="app_name">Perf</string>
-    <string name="context_is_null">context is null</string>
-    <string name="download_complete">İndirme tamamlantı</string>
-    <string name="downloading">İndiriliyor</string>
-    <string name="error_is_throwed">error is throwed while get token</string>
-    <string name="float_switcher_title">Float Widget Entrance</string>
-    <string name="flyme_avatar_summary">Kişi avatarını Flyme stili avatar ile değiştirir</string>
-    <string name="flyme_avatar_title">Flyme stil avatar</string>
-    <string name="future_result_is_null">invalid response</string>
-    <string name="get_cancel">get token cancel</string>
-    <string name="illegal_pay_request">Illegal payment request</string>
-    <string name="install_app">Install</string>
-    <string name="install_error">Installation error</string>
-    <string name="installing">Installing</string>
-    <string name="intent_handle">intent need to be handled</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
-    <string name="msg_loading">Loading data</string>
-    <string name="networkRequestError">Network Request Error</string>
-    <string name="network_error_to_refresh">Ağ hatası, tekrar deneyin</string>
-    <string name="no_livepaper_tips">Yerel dinamik duvar kağıdı önerilmez</string>
-    <string name="no_network_to_setting">No network, please check your settings.</string>
-    <string name="open_app">Open</string>
-    <string name="open_pay_auto_pay_permission_title">Payment service authorization</string>
-    <string name="orderInfoIncomplete">Illegal request, order incomplete</string>
-    <string name="origin_livepaper_set_wallpaper">Ana ekran duvar kağıdı olarak ayarla</string>
-    <string name="origin_livepaper_set_wallpaper_and_lockpaper">Kilit ekranı ve ana ekrana ayarla</string>
-    <string name="pay_base_channel_access_server_error">The system is busy, please try again later</string>
-    <string name="pay_base_channel_pay_fail">Payment failed</string>
-    <string name="pay_base_channel_pay_success">Payment made successfully</string>
-    <string name="pay_base_channel_pay_unknown_error">Payment failed, unknown exception</string>
-    <string name="pay_fail">Payment failed</string>
-    <string name="pay_success">Payment made successfully</string>
-    <string name="pay_unknown_error">Payment failed, unknown exception</string>
-    <string name="request_too_fast">Request too fast</string>
-    <string name="scope_null_token">got null auth token for scope: %s</string>
-    <string name="see_more_livepaper_text">Daha fazla dinamik duvar kağıdı görüntüle</string>
-    <string name="setting_bottom_font_button_text">Daha fazla yazı tipi görüntüle</string>
-    <string name="setting_bottom_theme_button_text">Diğer temaları görüntüle</string>
-    <string name="setting_bottom_wallpaper_button_text">Daha fazla duvar kağıdı görüntüle</string>
-    <string name="setting_network">Set</string>
-    <string name="setting_no_net_online_font_title">Çevrimiçi Yazı tipleri</string>
-    <string name="setting_no_net_online_theme_title">Çevrimiçi Temala</string>
-    <string name="setting_no_net_online_wallpaper_title">Çevrimiçi Duvar kağıtları</string>
-    <string name="setting_no_net_tips">Connect to Internet for more</string>
-    <string name="setting_permission_dialog_text">Themes &amp; wallpapers need network access, location, recordings, and contacts to get themes, wallpapers, and other customized resources</string>
-    <string name="setting_show_all_data_title">Hepsini göster</string>
-    <string name="strong_font_dlg_btn_giveup">Şimdi değil</string>
-    <string name="strong_font_dlg_btn_restart">Şimdi yeniden başlat</string>
-    <string name="strong_font_dlg_title">Bu ayarı uygulamak için yeniden başlatma gerekiyor</string>
-    <string name="strong_font_summary">Sistem yazı tipine kalın biçimlendirme uygulama</string>
-    <string name="strong_font_title">Kalın sistem yazı tipi</string>
-    <string name="sync_timeout">sync get token time out</string>
-    <string name="task_error_message">your active task go wrong!</string>
-    <string name="task_finished_message">activity task is complete!</string>
-    <string name="theme_and_wallpaper">Tema &amp; duvar kağıdı</string>
-    <string name="uid_not_match">uid not match package name</string>
-    <string name="unkown_error">unknown error from sdk</string>
-    <string name="unsupport_operation">requests too frequently</string>
-    <string name="use_flyme_icon_summary">Uygulama simgesini Flyme stil simgesiyle değiştirir</string>
-    <string name="use_flyme_icon_title">Flyme stil ikonu</string>
-    <string name="web_extra_loading">Yükleniyor</string>
-    <string name="web_extra_need_reload">Service exception, click on reload</string>
-    <string name="web_extra_no_network">No network connection</string>
-    <string name="weixin">WeChat</string>
-    <string name="weixin_unknown_error">WeChat no response, please retry</string>
-    <string name="account_info_layout_default_color">\#8EA8BE</string>
-    <string name="capture_qrcode_prompt">请将条码置于取景框内扫描</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="colon">:</string>
-    <string name="color_ring_get_rand_code">Şifreyi girin</string>
-    <string name="color_ring_login_token_invalid">Yetkilendirme başarısız oldu. Lütfen tekrar deneyin.</string>
-    <string name="color_ring_next_step">İleri</string>
-    <string name="color_ring_not_enough_duration">Minimum zaman aralığına henüz ulaşılmadı. Lütfen bekle.</string>
-    <string name="color_ring_phone_number_error">Doğru telefon numarasını girin</string>
-    <string name="color_ring_phone_number_hint">Lütfen telefon numarasını girin</string>
-    <string name="color_ring_rand_code_error">Yanlış doğrulama kodu. Lütfen tekrar girin.</string>
-    <string name="color_ring_rand_code_hint">PIN</string>
-    <string name="color_ring_reget_rand_code">Terkar dene</string>
-    <string name="color_ring_second">s</string>
-    <string name="color_ring_set_color_ring">Zil sesi olarak ayarla \"%s\"</string>
-    <string name="default_sans_serif">sans-serif</string>
-    <string name="external_intent_font_online_title">Çevrimiçi Yazı tipleri</string>
-    <string name="external_intent_ringtone_online_title">Çevrimiçi Zil Sesleri</string>
-    <string name="external_intent_theme_online_title">Çevrimiçi Temalar</string>
-    <string name="external_intent_wallpaper_online_title">Çevrimiçi Duvar kağıtları</string>
-    <string name="fit_action_view">fitActionView</string>
-    <string name="font_label">Yazı Tipi Etiketi</string>
-    <string name="hour_minute" formatted="false">%s:%s</string>
-    <string name="mc_action_settings">Ayarlar</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_hello_world">Hello world!</string>
-    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_week">%a</string>
-    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_selectionbutton_all">Hepsi</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
-    <string name="module_count_def">--</string>
-    <string name="online_theme_un_existed">Maalesef tema artık mevcut değil</string>
-    <string name="password_toggle_content_description">Şifre görünürlülüğü</string>
-    <string name="theme_label">Tema Etiketi</string>
-    <string name="wallpaper_copy_right">©</string>
 </resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
