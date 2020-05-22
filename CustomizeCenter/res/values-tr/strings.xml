@@ -389,7 +389,6 @@ Otomatik Duvar Kağıdı Değiştirici"</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_today">Bugün</string>
-    <string name="mc_pattern_today">Today</string>
     <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
