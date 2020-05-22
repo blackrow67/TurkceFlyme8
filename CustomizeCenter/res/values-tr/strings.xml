@@ -1,4 +1,5 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="WaitTip">Lütfen bekleyin</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -882,5 +883,3 @@ Daha fazla seçenek için Meizu Temalarına göz atın."</string>
     <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
     <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
 </resources>
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
