@@ -565,7 +565,7 @@ internet erişimine ihtiyaç duyuyor"</string>
     <string name="operation_help">Operation help</string>
     <string name="percent">%</string>
     <string name="percent_data">0</string>
-    <string name="permission_notify">Yedekleme ve Geri Yükleme'nin İnternet'e erişmesi, konumunuzu izlemesi ve telefon verilerinizi yedeklemek için kişilerinizi, mesajlarınızı ve arama günlüklerinizi okuması gerekir</string>
+    <string name="permission_notify">"Yedekleme ve Geri Yükleme'nin İnternet'e erişmesi, konumunuzu izlemesi ve telefon verilerinizi yedeklemek için kişilerinizi, mesajlarınızı ve arama günlüklerinizi okuması gerekir"</string>
     <string name="photo">Resimler</string>
     <string name="please_select_data">Lütfen dosyaları seçin</string>
     <string name="power_low_backup">"Piliniz %20'den düşükse yedekleme başlayamaz"</string>
