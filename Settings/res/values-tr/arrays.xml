@@ -20,10 +20,10 @@
         <item>Animasyon ölçeği 10x</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP veya CHAP</item>
     </string-array>
     <string-array name="apn_protocol_entries">
         <item>IPv4</item>
@@ -48,138 +48,138 @@
         <item>Cihaz</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call logs</item>
-        <item>Modify call logs</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Dial</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>Media buttons</item>
-        <item>Audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
-        <item>Media volume</item>
-        <item>Alarm volume</item>
-        <item>Notification volume</item>
-        <item>Bluetooth volume</item>
-        <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Get usage stats</item>
-        <item>Mute/unmute microphone</item>
-        <item>Show toast</item>
-        <item>Project media</item>
-        <item>Activate VPN</item>
-        <item>Write wallpaper</item>
-        <item>Assist structure</item>
-        <item>Assist screenshot</item>
-        <item>Read phone state</item>
-        <item>Add voicemail</item>
-        <item>Use SIP</item>
-        <item>Process outgoing call</item>
-        <item>Fingerprint</item>
-        <item>Body sensors</item>
-        <item>Read cell broadcasts</item>
-        <item>Mock location</item>
-        <item>Read storage</item>
-        <item>Write storage</item>
-        <item>Turn on screen</item>
-        <item>Get accounts</item>
-        <item>Run in background</item>
-        <item>Accessibility volume</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Titreşim</item>
+        <item>Kişileri oku</item>
+        <item>Kişileri değiştir</item>
+        <item>Çağrı günlüğünü oku</item>
+        <item>Çağrı günlüğünü değiştir</item>
+        <item>Takvimi oku</item>
+        <item>Takvimi değiştir</item>
+        <item>Konum</item>
+        <item>Bildirim yayınla</item>
+        <item>Konum</item>
+        <item>Telefon et</item>
+        <item>SMS/MMS oku</item>
+        <item>SMS/MMS yaz</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS al</item>
+        <item>SMS/MMS gönder</item>
+        <item>SMS/MMS oku</item>
+        <item>SMS/MMS yaz</item>
+        <item>Ayarları değiştir</item>
+        <item>Üste çiz</item>
+        <item>Bildirimlere eriş</item>
+        <item>Kamera</item>
+        <item>Ses kaydet</item>
+        <item>Sesi çal</item>
+        <item>Panoyu oku</item>
+        <item>Panoyu değiştir</item>
+        <item>Medya düğmeleri</item>
+        <item>Ses odağı</item>
+        <item>Ana ses düzeyi</item>
+        <item>Konuşma ses düzeyi</item>
+        <item>Zil ses düzeyi</item>
+        <item>Medya ses düzeyi</item>
+        <item>Alarm ses düzeyi</item>
+        <item>Bildirim ses düzeyi</item>
+        <item>Bluetooth ses düzeyi</item>
+        <item>Uyanık tut</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Kullanım istatistiklerini al</item>
+        <item>Mikrofonu kapat/aç</item>
+        <item>Kısa ileti göster</item>
+        <item>Proje medyası</item>
+        <item>"VPN'yi etkinleştir"</item>
+        <item>Yazı duvar kağıdı</item>
+        <item>Yardım yapısı</item>
+        <item>Yardım ekran görüntüsü</item>
+        <item>Telefon durumunu oku</item>
+        <item>Sesli mesaj ekle</item>
+        <item>SIP kullan</item>
+        <item>Giden çağrıyı işle</item>
+        <item>Parmak izi</item>
+        <item>Vücut sensörleri</item>
+        <item>Hücre yayınlarını oku</item>
+        <item>Sahte konum</item>
+        <item>Depolama alanını oku</item>
+        <item>Depolama alanına yaz</item>
+        <item>Ekranı aç</item>
+        <item>Hesapları al</item>
+        <item>Arka planda çalıştır</item>
+        <item>Erişilebilirlik ses düzeyi</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>General location</item>
-        <item>fine location</item>
+        <item>yaklaşık konum</item>
+        <item>hassas konum</item>
         <item>GPS</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call logs</item>
-        <item>Modify call logs</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>WLAN scan</item>
-        <item>Notifications</item>
-        <item>Mobile network scan</item>
-        <item>Dial</item>
-        <item>Read SMS</item>
-        <item>Write SMS</item>
-        <item>Receive SMS</item>
-        <item>Receive emergency SMS</item>
-        <item>Receive MMS</item>
-        <item>Receive WAP push</item>
-        <item>Send SMS</item>
-        <item>Read ICC SMS</item>
-        <item>Write ICC SMS</item>
-        <item>Modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
-        <item>get usage stats</item>
-        <item>mute/unmute microphone</item>
-        <item>show toast</item>
-        <item>project media</item>
-        <item>activate VPN</item>
-        <item>write wallpaper</item>
-        <item>assist structure</item>
-        <item>assist screenshot</item>
-        <item>read phone state</item>
-        <item>add voicemail</item>
-        <item>use SIP</item>
-        <item>process outgoing call</item>
-        <item>fingerprint</item>
-        <item>body sensors</item>
-        <item>read cell broadcasts</item>
-        <item>mock location</item>
-        <item>read storage</item>
-        <item>write storage</item>
-        <item>turn on screen</item>
-        <item>get accounts</item>
-        <item>run in background</item>
-        <item>accessibility volume</item>
+        <item>titreşim</item>
+        <item>kişileri oku</item>
+        <item>kişileri değiştir</item>
+        <item>çağrı günlüğünü oku</item>
+        <item>çağrı günlüğünü değiştir</item>
+        <item>takvimi oku</item>
+        <item>takvimi değiştir</item>
+        <item>kablosuz tarama</item>
+        <item>bildirim</item>
+        <item>hücre tarama</item>
+        <item>telefon et</item>
+        <item>SMS oku</item>
+        <item>SMS yaz</item>
+        <item>SMS al</item>
+        <item>acil SMS al</item>
+        <item>MMS al</item>
+        <item>WAP push al</item>
+        <item>SMS gönder</item>
+        <item>ICC SMS oku</item>
+        <item>ICC SMS yaz</item>
+        <item>ayarları değiştir</item>
+        <item>üste çiz</item>
+        <item>bildirimlere eriş</item>
+        <item>kamera</item>
+        <item>ses kaydet</item>
+        <item>sesi çal</item>
+        <item>panoyu oku</item>
+        <item>panoyu değiştir</item>
+        <item>medya düğmeleri</item>
+        <item>ses odağı</item>
+        <item>ana ses düzeyi</item>
+        <item>konuşma sesi düzeyi</item>
+        <item>çalma sesi düzeyi</item>
+        <item>medya sesi düzeyi</item>
+        <item>alarm sesi düzeyi</item>
+        <item>bildirim sesi düzeyi</item>
+        <item>Bluetooth ses düzeyi</item>
+        <item>uyanık tut</item>
+        <item>konumu izle</item>
+        <item>yüksek güç tüketen konum hizmetlerini izle</item>
+        <item>kullanım istatistiklerini al</item>
+        <item>mikrofonu kapat/aç</item>
+        <item>kısa ileti göster</item>
+        <item>proje medyası</item>
+        <item>"VPN'yi etkinleştir"</item>
+        <item>yazı duvar kağıdı</item>
+        <item>yardım yapısı</item>
+        <item>yardım ekran görüntüsü</item>
+        <item>telefon durumunu oku</item>
+        <item>sesli mesaj ekle</item>
+        <item>SIP kullan</item>
+        <item>giden çağrıyı işle</item>
+        <item>parmak izi</item>
+        <item>vücut sensörleri</item>
+        <item>hücre yayınlarını oku</item>
+        <item>sahte konum</item>
+        <item>depolama alanını oku</item>
+        <item>depolama alanına yaz</item>
+        <item>ekranı aç</item>
+        <item>hesapları al</item>
+        <item>arka planda çalıştır</item>
+        <item>erişilebilirlik ses düzeyi</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standart sınır</item>
@@ -331,11 +331,11 @@
         <item>Durgun</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Tiny</item>
-        <item>Small</item>
+        <item>Çok küçük</item>
+        <item>Küçük</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
@@ -352,15 +352,15 @@
         <item>Özel</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
-        <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Varsayılan</item>
+        <item>Sans Serif</item>
+        <item>Sans Serif dar</item>
+        <item>Sans-serif sabit aralıklı</item>
         <item>Serif</item>
-        <item>Serif monospace</item>
-        <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Serif sabit aralıklı</item>
+        <item>Gayriresmî</item>
+        <item>Bitişik el yazısı</item>
+        <item>Küçük boyutlu büyük harfler</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>
@@ -385,9 +385,9 @@
         <item>Kullanım döngüsünü ayarla...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Kapalı</item>
+        <item>Fazla çizilen alanları göster</item>
+        <item>Alanları renk körlüğüne uygun olarak göster</item>
     </string-array>
     <string-array name="desktop_sort_type_entries">
         <item>Yüklenme tarihine göre</item>
@@ -434,16 +434,16 @@
         <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Grafik)</item>
+        <item>"glGetError'da yığın çağır"</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Default</item>
-        <item>Large</item>
-        <item>Largest</item>
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>En büyük</item>
     </string-array>
     <string-array name="entries_meizu_app_font_size">
         <item>Küçük</item>
@@ -587,18 +587,18 @@
         <item>Ana Ekran + Dolaşım</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Yok</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (güvenli)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (güvenli)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (güvenil)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (güvenli)</item>
+        <item>4K (yukarı ölçeklenmiş)</item>
+        <item>4K (yukarı ölçeklenmiş, güvenli)</item>
+        <item>720p, 1080p (çift ekran)</item>
     </string-array>
     <string-array name="power_key_behavior_double_click_entries_intl">
         <item>Yanıt yok</item>
@@ -692,21 +692,21 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Kapalı</item>
+        <item>Günlük arabelleklerin tümü</item>
+        <item>Radyo günlük arabellekleri hariç tümü</item>
+        <item>yalnızca çekirdek günlük arabelleği</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Kapalı</item>
+        <item>Tümü</item>
+        <item>Radyo hariç tümü</item>
+        <item>yaln. çekirdek</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Kapalı</item>
+        <item>Dikdörtgen olm. kırpma bölgesini mavi çiz</item>
+        <item>Test edilmiş çizim komutlarını yeşille vurgula</item>
     </string-array>
     <string-array name="sim_slot">
         <item>(belirtilmemiş)</item>
@@ -757,9 +757,9 @@
         <item>Tümü</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Kapalı</item>
+        <item>Ekranda çubuk şeklinde</item>
+        <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animasyon kapalı</item>
@@ -995,7 +995,7 @@
     <string-array name="power_key_behavior_double_click_entries">
         <item>Yanıt yok</item>
         <item>Kamera</item>
-        <item>Kişisel Asistan</item>
+        <item>Google Arama</item>
         <item>Meizu Pay</item>
     </string-array>
     <string-array name="special_locale_codes">
