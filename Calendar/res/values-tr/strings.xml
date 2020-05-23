@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ZeroDay">Etkinlik gününde (00:00)</string>
-    <string name="ZeroDay_All_Day">Etkinlik günü</string>
-    <string name="ZeroMin">Etkinlik saatinde</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -20,6 +17,11 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="ZeroDay">Etkinlik gününde (00:00)</string>
+    <string name="ZeroDay_All_Day">Etkinlik günü</string>
+    <string name="ZeroMin">Etkinlik saatinde</string>
     <string name="accessibility_all_day">Tüm gün etkinliği</string>
     <string name="accessibility_pick_end_date">Bitiş tarihi</string>
     <string name="accessibility_pick_end_time">Bitiş zamanı</string>
@@ -119,7 +121,6 @@ Abone ol seçeneğine dokunun ve ihtiyacınız olan tüm bilgilere ulaşın."</s
     <string name="change">Yenile</string>
     <string name="change_response_title">Yanıtı değiştir</string>
     <string name="choose_contact_person">Kişi seç</string>
-    <string name="chuxi" />
     <string name="click_refresh">Yükleme başarısız, yeniden yüklemek için dokunun</string>
     <string name="conflict_text">Çakışma</string>
     <string name="count_down_title">gün</string>
@@ -141,9 +142,6 @@ Abone ol seçeneğine dokunun ve ihtiyacınız olan tüm bilgilere ulaşın."</s
     <string name="detail">Ayrıntılar</string>
     <string name="do_not_disturb_in_meeting">Toplantı sırasında Rahatsız Etme</string>
     <string name="does_not_repeat">Asla tekrarlama</string>
-    <string name="double_ninth_festival" />
-    <string name="dragon_festival" />
-    <string name="dumpling_festival" />
     <string name="edit_add_reminder">Anımsatıcı ekle</string>
     <string name="edit_event_all_day_label">Tüm gün</string>
     <string name="edit_event_annvier_date_hint">Doğum Günü Tarihi</string>
@@ -217,7 +215,6 @@ Festival Pedia'ya abone olarak, hemen Takvim anasayfanızda zamanında, ilgi çe
 
 Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün güncellenen bilgilerin yer aldığı burç kanalına abone olmak, istediğiniz zaman şanslı günlerinizi öğrenmenize yardım edecektir."</string>
     <string name="horoscope_item_desc">Yıldız falı tahminiyle iyi şansı yakalayın</string>
-    <string name="hungry_ghost_festival" />
     <string name="import_birthday_item_sub_title">Doğum günü işaretli tüm kişiler için yeni doğum günü anımsatıcısı oluştur</string>
     <string name="import_birthday_item_title">Mevcut kişilerin doğum günleri içe aktarılıyor</string>
     <string name="importing">içe aktarılıyor</string>
@@ -230,18 +227,15 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="inbox_when_fmt">Zaman: %s</string>
     <string name="inbox_where_fmt">Yer: %s</string>
     <string name="item_is_selected">%1$s seçildi</string>
-    <string name="laba" />
     <string name="load_more_list_footer_default_text">Yükleniyor</string>
     <string name="loading">Yükleniyor</string>
     <string name="loading_text">Yükleniyor</string>
-    <string name="loap_day" />
     <string name="local_calendar">Sistem takvimi</string>
     <string name="look_up_import_birthday">Göster</string>
     <string name="lucky_color">Uğurlu renk</string>
     <string name="lucky_number">Uğurlu numara</string>
     <string name="lucky_object">Uğurlu nesne</string>
     <string name="lunar_yearly">Yıllık (Ay takvimi) (%s)</string>
-    <string name="magpie_festival" />
     <string name="match_finished">Son</string>
     <string name="mc_allow">Tamam</string>
     <string name="mc_alway_allow">Her zaman izin ver</string>
@@ -345,7 +339,6 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="mc_working_day">Hafta içi</string>
     <string name="mc_yes">Tamam</string>
     <string name="meizu_calendar">Meizu Calendar</string>
-    <string name="mid_autumn_festival" />
     <string name="min">dk</string>
     <string name="modify_all">Tüm yinelenen etkinlikleri değiştir</string>
     <string name="modify_all_following">Bunu ve gelecekteki tüm etkinlikleri değiştir</string>
@@ -501,7 +494,6 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="pref_notification_summary">Hediyeler, popüler aktiviteler ve daha fazlası için bildirim alın</string>
     <string name="pref_summary_hide_declined">Reddedilen etkinlikleri takvimden çıkar</string>
     <string name="pref_summary_hide_past">Bugünden önceki etkinlikleri takvimden çıkar</string>
-	<string name="pref_summary_show_full_screen">Etkinlik ödüllerini ücretsiz alın</string>
     <string name="pref_title_alerts">Etkinlik Uyarılarına İzin Ver</string>
     <string name="pref_title_alerts_popup">Açılır Pencere Bildirimleri</string>
     <string name="pref_title_all_day_default_reminder">Tüm Gün Etkinlikleri Uyarı Süresi</string>
@@ -521,7 +513,6 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="pref_title_reminder_notification">Etkinlik uyarılarını yalnızca bildirim çubuğunda göster</string>
     <string name="pref_title_reminder_popup">Açılır pencerelerde uyarı görüntüle</string>
     <string name="pref_title_reminder_type">Hatırlatma türü</string>
-	<string name="pref_title_show_full_screen">Açılış ekranında reklama izin ver</string>
     <string name="preferences_contacts_birthday_title">Kişilerin doğum günleri</string>
     <string name="program_detail">Program detayları</string>
     <string name="ptr_go_Refreshing">Yenilemek için bırakın</string>
@@ -550,7 +541,6 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="saving_event">Etkinlik kaydedildi</string>
     <string name="saving_event_with_guest">Güncellemeler gönderilecek</string>
     <string name="schedule_and_event">Zamanlama &amp; etkinlik</string>
-    <string name="search_menu_title">Ara</string>
     <string name="share_info_attendee_title">Katılımcılar ( %d Kişi)</string>
     <string name="share_info_content">İçerik</string>
     <string name="share_info_location">Konum</string>
@@ -571,10 +561,8 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="solar_date" formatted="false">%s/%s/%s</string>
     <string name="span_end_date">Bitiş</string>
     <string name="span_start">Başlama</string>
-    <string name="spring_festival" />
     <string name="square_cates_title">Kategoriler</string>
     <string name="star_speak">Yıldız</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stills">Sabit olanlar</string>
     <string name="sub_action_subscribed">Abone Olundu</string>
     <string name="sub_default_button_string">Görüntüle</string>
@@ -636,4 +624,14 @@ Birden fazla bakış açısından ayrıntılı burç analizlerinin ve her gün g
     <string name="yearly">Her yıl</string>
     <string name="yearly_plain">Her yıl</string>
     <string name="yesterday">Dün</string>
+    <string name="chuxi" />
+    <string name="double_ninth_festival" />
+    <string name="dragon_festival" />
+    <string name="dumpling_festival" />
+    <string name="hungry_ghost_festival" />
+    <string name="laba" />
+    <string name="loap_day" />
+    <string name="magpie_festival" />
+    <string name="mid_autumn_festival" />
+    <string name="spring_festival" />
 </resources>
