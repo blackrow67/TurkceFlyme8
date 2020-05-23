@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="urlspan_tel_dialog_title">
-        <item>Numarayı ara</item>
-        <item>Mesaj gönder</item>
-        <item>Kopyala</item>
-        <item>Kişiye ekle</item>
-    </string-array>
-    <string-array name="urlspan_email_dialog_title">
-        <item>E-posta gönder</item>
-        <item>Kopyala</item>
-        <item>Kişiye ekle</item>
-    </string-array>
-    <string-array name="urlspan_date_dialog_title">
-        <item>Yeni Etkinlik</item>
-        <item>Takvimde aç</item>
-        <item>Kopyala</item>
-    </string-array>
-    <string-array name="urlspan_open_dialog_title">
-        <item>Aç</item>
-        <item>Kopyala</item>
-    </string-array>
-    <string-array name="urlspan_open_dialog_title_chinamobile">
-        <item>Aç</item>
-        <item>Kopyala</item>
-        <item>Yer İmlerine Ekle</item>
-    </string-array>
     <string-array name="calendar_week_title">
         <item>Paz</item>
         <item>Pzt</item>
@@ -36,30 +11,109 @@
     </string-array>
     <string-array name="smartbar_left_right_padding">
         <item>160px</item>
-        <item>170px(varsayılan)</item>
+        <item>170px (varsayılan)</item>
         <item>180px</item>
     </string-array>
-    <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Oca</item>
-        <item>Şub</item>
-        <item>Mar</item>
-        <item>Nis</item>
-        <item>Mayıs</item>
-        <item>Haz</item>
-        <item>Tem</item>
-        <item>Ağu</item>
-        <item>Eyl</item>
-        <item>Eki</item>
-        <item>Kas</item>
-        <item>Ara</item>
+    <string-array name="system_ringtone_name_list1">
+        <item>Beklenen</item>
+        <item>Piyano</item>
+        <item>Dijital</item>
+        <item>Flyme</item>
+        <item>Müzik kutusu</item>
+        <item>Teknik/Bilim</item>
+        <item>Gitar</item>
+        <item>Marimba</item>
+        <item>Yaramaz</item>
+        <item>Kristal</item>
+        <item>İlerleme</item>
+        <item>Yavru kedi</item>
+        <item>Sabah şarkısı</item>
+        <item>Aşk çağrısı</item>
+        <item>Tumbler</item>
+        <item>Yolculuk başlıyor</item>
+        <item>Yeni hayat</item>
+        <item>Kalp atışı</item>
+        <item>Doğu ville bellek</item>
+        <item>Vals</item>
+        <item>Kantor</item>
+        <item>Tutku</item>
+        <item>Seyahat</item>
+        <item>Oyun</item>
+        <item>Yağmur dansı</item>
+        <item>Alacakaranlık dansı</item>
+        <item>Şafak</item>
+        <item>Ana sayfa</item>
+        <item>Maviler</item>
+        <item>Gösterge</item>
+        <item>Mekanik zil sesi</item>
+        <item>Telefon</item>
+        <item>Sesli Uyarı Cihazı</item>
+        <item>Okuldan sonra</item>
+        <item>Mario</item>
+        <item>İyi geceler</item>
+        <item>Yükselen</item>
+        <item>Çocukluk</item>
+        <item>Sabah koşusu</item>
+        <item>Tatlım</item>
+        <item>Perde çağrısı</item>
+        <item>Zil</item>
+        <item>Celesta</item>
+        <item>Başarı</item>
+        <item>Hatırlatıcı</item>
+        <item>Kapı zili</item>
+        <item>Promosyon</item>
+        <item>Küçük kristal</item>
+        <item>Varış</item>
+        <item>Daha akıllı</item>
+        <item>Hızlı</item>
+        <item>Kırmızı şarap mantarı</item>
+        <item>Dokunma</item>
+        <item>Su damlası</item>
+        <item>Bağla</item>
+        <item>Dönme</item>
+        <item>Hediye</item>
+        <item>Bozulma</item>
+        <item>Sade</item>
+        <item>Atış</item>
+        <item>Yaramaz</item>
+        <item>Çikolata</item>
+        <item>Kod sözcüğü</item>
+        <item>Köşe</item>
+        <item>İmparatorluk</item>
+        <item>Atla</item>
+        <item>Laputa</item>
+        <item>Meteor</item>
+        <item>Dalgacıklar</item>
+        <item>Parlayan</item>
+        <item>Sessiz gece</item>
+        <item>Kuzey yıldızı</item>
+        <item>Zaman Tüneli</item>
+        <item></item>
+        <item></item>
     </string-array>
-    <string-array name="mc_custom_weekday">
-        <item>Paz</item>
-        <item>Pzt</item>
-        <item>Sal</item>
-        <item>Çar</item>
-        <item>Per</item>
-        <item>Cum</item>
-        <item>Cmt</item>
+    <string-array name="urlspan_date_dialog_title">
+        <item>Yeni Etkinlik</item>
+        <item>Takvimde aç</item>
+        <item>Kopyala</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>E-posta gönder</item>
+        <item>Kopyala</item>
+        <item>Kişiye ekle</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>Aç</item>
+        <item>Kopyala</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>Aç</item>
+        <item>Kopyala</item>
+        <item>Yer İmlerine Ekle</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>Numarayı ara</item>
+        <item>Mesaj gönder</item>
+        <item>Kopyala</item>
+        <item>Kişiye ekle</item>
     </string-array>
 </resources>
