@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kişi Depolaması</string>
+    <string name="debug_dump_database_message">Şunlar gerekir: 1) tüm kişi bilgilerini ve tüm arama kayıtlarını dahili depolamaya kopyalayın ve 2) bunu e-posta ile gönderin. Cihazdan kopyaladıktan veya e-posta alındıktan hemen sonra kopyayı silmeyi unutmayın.</string>
+    <string name="debug_dump_delete_button">Şimdi sil</string>
+    <string name="debug_dump_email_body">Ekteki dosya, tüm kişi bilgilerimi içeren kişiler veri tabanıdır. Lütfen dikkatli olun!</string>
+    <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için program seçin</string>
+    <string name="debug_dump_email_subject">Kişiler veritabanı eklendi</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_title">Kişiler veritabanını kopyala</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="local_number">Yerel numara</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="read_write_all_voicemail_description">Uygulamaya bu cihazın erişebileceği tüm sesli postaları depolama ve alma izni verir</string>
+    <string name="read_write_all_voicemail_label">Tüm sesli postalara eriş</string>
+    <string name="sharedUserLabel">İlgili kişiler</string>
+    <string name="voicemail_from_column">Sesli posta gönderen:</string>
+</resources>
