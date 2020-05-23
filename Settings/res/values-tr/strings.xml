@@ -5311,6 +5311,8 @@ Kaydedilmiş dijital parmak iziniz de bu profilden kaldırılacak ve profilinizi
     <string name="usb_charge_summary">Tüm USB işlevlerini devre dışı bırakmak USB üzerinden şarj etmeyi hızlandırır ve güç tasarrufu sağlar</string>
     <string name="usb_charge_title">Sadece şarj</string>
     <string name="usb_connect_function">Şunun için USB bağlantısı kullan:</string>
+    <string name="usb_connect_dlg_title">USB Bağlantısı</string>
+    <string name="usb_connect_dlg_transfer_file">Dosya aktarma</string>
     <string name="usb_connection_category">"PC'ye USB bağlantısı"</string>
     <string name="usb_continue_supper_speed">Etkinleştir</string>
     <string name="usb_control_device">Bu cihaz</string>
