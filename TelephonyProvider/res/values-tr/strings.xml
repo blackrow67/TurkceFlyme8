@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Telefon ve Mesaj Depolama Alanı</string>
+    <string name="mzc_debug_dump_database_message">"Şunları yapmanız gerekir: 1) SMS uzak veri tabanınızın dahili depolamada bir kopyasını oluşturun ve 2) bunu e-posta ile gönderin. Kopyaladıktan veya e-postayı aldıktan sonra en kısa süre içerisinde kopyayı cihazdan silmeyi unutmayın. 
+
+ Başlat'a dokunduktan sonra lütfen bir dakika bekleyin."</string>
+    <string name="mzc_debug_dump_delete_button">Şimdi sil</string>
+    <string name="mzc_debug_dump_email_body">SMS uzak veri tabanım ektedir. Lütfen dikkatli olun!</string>
+    <string name="mzc_debug_dump_email_sender_picker">Dosyanızı göndermek için program seçin</string>
+    <string name="mzc_debug_dump_email_subject">SMS uzak veritabanı eklendi</string>
+    <string name="mzc_debug_dump_start_button">Başlat</string>
+    <string name="mzc_debug_dump_title">SMS uzak veri tabanını kopyala</string>
+</resources>
