@@ -2704,6 +2704,7 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="lockscreen_settings_title">Kilit ekranı görüntüsü</string>
     <string name="lockscreen_settings_what_to_show_category">Ne göstermeli?</string>
     <string name="lockscreen_show_music_title">Kilit Ekranı Müziği</string>
+	<string name="lockscreen_show_lunar_calender_title">Kilit Ekranı Ay Takvimi</string>
     <string name="lost_internet_access_cancel">Kablosuz bağlantıda kal</string>
     <string name="lost_internet_access_persist">Bir daha gösterme</string>
     <string name="lost_internet_access_switch">Mobil veriye geç</string>
