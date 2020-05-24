@@ -391,7 +391,6 @@
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
     <string name="productivity_folder">Verimlilik</string>
-	<string name="popular_folder">Popüler</string>
 	<string name="time_left_for_app">Bugün %1$s kaldı</string>
 	<string name="tools_folder">Araçlar</string>
 	<string name="toast_unenable_create_folder1">Tek uygulama klasörle birleştirilemez</string>
@@ -405,9 +404,8 @@
     <string name="uninstall_exist_cloneapp">Orijinal bir uygulamanın kaldırılması klonlarınıda silecektir</string>
     <string name="uninstall_notice">Kaldırma işleminden sonra kalıntıları otomatik Temizle</string>
     <string name="uninstall_ok">Tamam</string>
-    <string name="uninstall_system_app_text">Bir sistem uygulaması kaldırılamaz</string>
     <string name="uninstall_title">Uygulamayı kaldır</string>
-	 <string name="uninstallcache">Kalıntıları temizle</string>
+	<string name="uninstallcache">Kalıntıları temizle</string>
     <string name="uninstall_drop_target_label">Yüklemeyi kaldır</string>
     <string name="uninstall_system_app_text">Bu bir sistem uygulamasıdır ve yüklemesi kaldırılamaz.</string>
     <string name="v7_preference_off">KAPALI</string>
