@@ -499,7 +499,7 @@ Ekranın alt kısmında: Ana ekrana gitmek için yukarı kaydırın; çoklu gör
     <string name="pref_summary_navigation_bar_standard">Gezinti çubuğunda geri, Giriş ve çoklu görev düğmesine dokunun</string>
     <string name="pref_summary_navigation_gesture_side">Gezinti hareketleri her iki tarafta da desteklenir</string>
     <string name="pref_title_mback_gesture_side">Hareket ile geri dön</string>
-	<string name="pref_title_mback_long_press">Ekranı kilitlemek için ana tuşa uzun basın</string>
+	<string name="pref_title_mback_long_press">Basılı tut ve kilitle</string>
     <string name="pref_title_navigation_bar_flyme">mBack</string>
     <string name="pref_title_navigation_bar_hide_gesture">Tüm ekran hareketi</string>
     <string name="pref_title_navigation_bar_hide_gesture_simple">Kolay hareket</string>
