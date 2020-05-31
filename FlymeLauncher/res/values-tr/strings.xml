@@ -72,6 +72,7 @@
     <string name="app_downloading_title">%1$s indiriliyor, %2$s tamamlandı</string>
     <string name="app_info_drop_target_label">Uygulama bilgileri</string>
     <string name="app_name">Launcher3</string>
+	<string name="application_name">Sistem Başlatıcı</string>
     <string name="app_waiting_download_title">%1$s uygulaması yüklenmek için bekliyor</string>
     <string name="auto_add_shortcuts_description">Yeni uygulamalar için</string>
     <string name="auto_add_shortcuts_label">Ana ekrana simge ekle</string>
