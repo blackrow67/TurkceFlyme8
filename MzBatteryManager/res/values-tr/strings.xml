@@ -24,6 +24,7 @@
     <string name="item_is_selected">%1$s seçildi</string>
     <string name="mc_allow">Tamam</string>
     <string name="mc_alway_allow">Her Zaman İzin Ver</string>
+	<string name="mc_action_settings">Ayarlar</string>
     <string name="mc_cancel">İptal</string>
     <string name="mc_cancel_button_text">İptal</string>
     <string name="mc_cancel_collected_message">Sık Kullanılandan iptal edildi</string>
@@ -161,38 +162,38 @@
     <string name="mz_pm_set_wifi_on">"WIFI'yı aç"</string>
     <string name="mz_pm_wlan">WIFI</string>
     <string name="mz_reject">Çıkış</string>
-    <string name="mz_wif_setting_dialog_message">No network connection. Please check your network settings.</string>
-    <string name="mz_wif_setting_dialog_set">Network Settings</string>
-    <string name="mzuc_cancel">Cancel</string>
-    <string name="mzuc_cancel_download">Cancel download</string>
-    <string name="mzuc_cancel_install">Cancel installation</string>
-    <string name="mzuc_delete">Delete</string>
-    <string name="mzuc_download">Download</string>
-    <string name="mzuc_download_fail">Download failed</string>
-    <string name="mzuc_download_finish_install">Download completed, tap to install</string>
-    <string name="mzuc_download_finish_s" formatted="false">%s %s download completed</string>
-    <string name="mzuc_download_progress_desc_s" formatted="false">Downloading %s %s</string>
-    <string name="mzuc_downloading">Downloading</string>
-    <string name="mzuc_file_size_s">Size: %s</string>
-    <string name="mzuc_found_update_s">Update available: %s</string>
-    <string name="mzuc_install_cancel_tip">Download canceled</string>
-    <string name="mzuc_install_fail">Installation failed</string>
-    <string name="mzuc_install_immediately">Install now</string>
-    <string name="mzuc_install_later">Install later</string>
-    <string name="mzuc_installing">Installing</string>
+    <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
+    <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
+    <string name="mzuc_cancel">İptal et</string>
+    <string name="mzuc_cancel_download">İndirmeyi iptal et</string>
+    <string name="mzuc_cancel_install">Kurulumu iptal et</string>
+    <string name="mzuc_delete">Sil</string>
+    <string name="mzuc_download">İndir</string>
+    <string name="mzuc_download_fail">İndirme başarısız</string>
+    <string name="mzuc_download_finish_install">İndirme tamamlandı, kurmak için dokunun</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s V%s indirme tamamlandı</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">İndiriliyor %s %s</string>
+    <string name="mzuc_downloading">İndiriliyor</string>
+    <string name="mzuc_file_size_s">Boyut: %s</string>
+    <string name="mzuc_found_update_s">Güncelleme mevcut: %s</string>
+    <string name="mzuc_install_cancel_tip">İndirme iptal edildi</string>
+    <string name="mzuc_install_fail">Kurulum başarısız</string>
+    <string name="mzuc_install_immediately">Şimdi kur</string>
+    <string name="mzuc_install_later">Daha sonra kur</string>
+    <string name="mzuc_installing">Kuruluyor</string>
     <string name="mzuc_ok">Tamam</string>
-    <string name="mzuc_reboot_update_now">Restart &amp; Update</string>
-    <string name="mzuc_retry">Retry</string>
-    <string name="mzuc_skip_version">Ignore</string>
-    <string name="mzuc_skip_warn_tip">If you skip this version, you will not be prompted to install it</string>
-    <string name="mzuc_update_finish">Update completed</string>
-    <string name="mzuc_update_immediately">Update now</string>
-    <string name="mzuc_update_later">Remind Later</string>
-    <string name="mzuc_update_mobile_network">Download using cellular data?</string>
-    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
-    <string name="mzuc_update_title_s" formatted="false">%s %s release</string>
-    <string name="mzuc_wait_tip">Please wait</string>
-    <string name="mzuc_warn_later">Remind Later</string>
+    <string name="mzuc_reboot_update_now">Yeniden başlat &amp; Güncelle</string>
+    <string name="mzuc_retry">Tekrar dene</string>
+    <string name="mzuc_skip_version">Bu sürümü yoksay</string>
+    <string name="mzuc_skip_warn_tip">Bu sürümü atlarsanız, kurulumuna yönlendirilmeyeceksiniz.</string>
+    <string name="mzuc_update_finish">Güncelleme tamamlandı</string>
+    <string name="mzuc_update_immediately">Şimdi güncelle</string>
+    <string name="mzuc_update_later">Daha sonra hatırlat</string>
+    <string name="mzuc_update_mobile_network">Hücresel verileri kullanarak indir?</string>
+    <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
+    <string name="mzuc_update_title_s" formatted="false">%s V%s yayınla</string>
+    <string name="mzuc_wait_tip">Lütfen bekleyin</string>
+    <string name="mzuc_warn_later">Daha sonra hatırlat</string>
     <string name="mc_pattern_a_hour_before">1 hour ago</string>
     <string name="mc_pattern_a_minute_before">1 minute ago</string>
     <string name="mc_pattern_hour_before">, hours ago</string>
@@ -561,4 +562,5 @@
     <string name="wifi_on_time">WLAN açık kalma süresi</string>
     <string name="wifi_power_ratio">WLAN tarafından kullanılan güç:</string>
     <string name="wifi_power_save_notie_msg">"Güç tasarrufu ipucu: Ağ kullanılmıyorken WLAN'ı kapatın"</string>
+	<string name="title_battery_ranking">Pil istatistikleri</string>
 </resources>
