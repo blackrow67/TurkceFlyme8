@@ -256,7 +256,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="BG_Description">Arka plan resmi</string>
     <string name="Day">Gün</string>
-    <string name="DayUsed">Günlük kullanılan</string>
+    <string name="DayUsed">Günlük kul.</string>
     <string name="FreeUsed">Ücretsiz veri kullanıldı</string>
     <string name="MouthUsed">Bu ay kullanılan</string>
     <string name="PERM_ID_DELETE_CALLLOG">Arama Kayıtlarını Sil</string>
@@ -579,8 +579,8 @@
     <string name="clear_sdk_thumbnail">Galeri küçük resmi</string>
     <string name="clear_sdk_thumbnail_invalid">Geçersiz Galeri küçük resmi</string>
     <string name="click_get_description">Ayrıntıları görüntülemek için dokunun</string>
-    <string name="compress">Compress</string>
-    <string name="compress_example_dialog_button_title">Got it</string>
+    <string name="compress">Sıkıştır</string>
+    <string name="compress_example_dialog_button_title">Anladım</string>
     <string name="compress_example_dialog_title">Example</string>
     <string name="compress_failed_num">%1$s photo(s) failed to compress</string>
     <string name="confirm">Tamam</string>
