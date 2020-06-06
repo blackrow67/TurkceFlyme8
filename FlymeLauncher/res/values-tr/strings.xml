@@ -86,6 +86,7 @@
     <string name="create_folder_with">Şu öğeyle klasör oluştur: %1$s</string>
     <string name="custom_actions">Özel işlemler</string>
 	<string name="crop_wallpaper">Duvar kağıdını kırp</string>
+	<string name="default_folder_name">Klasör</string>
     <string name="date_time_set">Ayarla</string>
     <string name="default_scroll_format">Sayfa %1$d / %2$d</string>
     <string name="disabled_app_label">%1$s devre dışı</string>
