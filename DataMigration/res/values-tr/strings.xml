@@ -119,7 +119,7 @@
     <string name="backup_folder_occupied_title">Yedeklenemiyor</string>
     <string name="backup_item">Yedek öğeler</string>
     <string name="backup_loction">Yerel %s</string>
-    <string name="backup_path_notify">Path of backed up files</string>
+    <string name="backup_path_notify">Yedeklenen dosyaların yolu</string>
     <string name="backup_record">Yedek kayıt</string>
     <string name="backup_record_item_separtor">,</string>
     <string name="backup_record_num">%sitems</string>
