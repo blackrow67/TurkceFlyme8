@@ -531,10 +531,8 @@ Open Family Guard > Family guard me > Ask family to scan"</string>
     <string name="fg_un_confirm_header_call_sub_title">Request sent. Please notify the other party</string>
     <string name="fg_un_confirm_header_call_title">Awaiting acceptance</string>
     <string name="fg_uninstall_message">If you uninstall this app, the Cyber Safety may not work</string>
-    <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="guide_view__text_skip">跳过</string>
     <string name="guide_view_btn_cancel_text">立即开启</string>
-    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="mc_action_settings">Ayarlar</string>
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
@@ -563,9 +561,9 @@ Open Family Guard > Family guard me > Ask family to scan"</string>
     <string name="us_admin_info">You have delegated management permissions to %1$s, please contact %2$s to set</string>
     <string name="us_anti_addiction_salve_updated_message">Can set anti-addiction for a type of apps or a single app. Please reset and try more features</string>
     <string name="us_anti_addiction_salve_updated_title">"%1$s's version is upgraded"</string>
-    <string name="us_anti_addiction_updated_message">Older version settings cannot be migrated, please reset</string>
-    <string name="us_anti_addiction_updated_title">Anti-addiction upgraded</string>
-    <string name="us_anti_updated_des">Anti-addiction upgraded. You can use new feature after the other party upgrade system to Flyme 8</string>
+    <string name="us_anti_addiction_updated_message">Eski sürüm ayarları taşınamıyor, lütfen sıfırlayın</string>
+    <string name="us_anti_addiction_updated_title">Bağımlılık önleme yükseltildi</string>
+    <string name="us_anti_updated_des">"Bağımlılık önleme yükseltildi. Diğer özelliği Flyme 8'e yükselttikten sonra kullanabilirsiniz"</string>
     <string name="us_app_cant_use">Uygulama kullanılamıyor</string>
     <string name="us_app_count">%1$d</string>
     <string name="us_app_overtime_limit_dialog_message">%1$s kullanım süresi sınırına ulaşıldı. Lütfen yarın kullanmaya devam ediniz.</string>
@@ -646,7 +644,7 @@ Karşı taraf yükseltme işleminden sonra yeni özelliği kullanabilirsiniz"</s
     <string name="us_today">Bugün</string>
     <string name="us_total_limit">tamamen devre dışı</string>
     <string name="us_tues">Sal</string>
-    <string name="us_until">Until %s</string>
+    <string name="us_until">%s</string>
     <string name="us_usage_day_average">Günde yaklaşık %1$s</string>
     <string name="us_usage_hour_average">Saatte yaklaşık %1$s</string>
     <string name="us_usage_statistics">Siber güvenlik</string>
@@ -655,5 +653,4 @@ Karşı taraf yükseltme işleminden sonra yeni özelliği kullanabilirsiniz"</s
     <string name="us_week">Hafta</string>
     <string name="us_week_total">%1$s</string>
     <string name="us_work_day">Hafta içi</string>
-    <string name="us_work_day_limit_key">work_day_limit_key</string>
 </resources>
