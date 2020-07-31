@@ -50,6 +50,7 @@
     <string name="accelerometer_summary_on">Telefonu döndürürken yönü otomatik değiştir</string>
     <string name="accelerometer_title">Otomatik Döndür</string>
     <string name="access_point_names">Erişim noktası adları</string>
+	<string name="accessibility_alarm_title">Saati göster</string>
     <string name="accessibility_autoclick_delay_preference_title">Tıklamadan önce gecikme süresi</string>
     <string name="accessibility_autoclick_description">Fare kullanıyorsanız cihazınızı, imleci belirli bir süre hareket etmediğinde otomatik olarak işlem yapacak şekilde ayarlayabilirsiniz.</string>
     <string name="accessibility_autoclick_preference_title">Bekleme süresi</string>
@@ -77,6 +78,8 @@ Bu ayar tüm uygulamalar tarafından desteklenmez."</string>
     <string name="accessibility_feature_state_off">Kapalı</string>
     <string name="accessibility_feature_state_on">Açık</string>
     <string name="accessibility_global_gesture_preference_title">Erişilebilirlik kısayolu</string>
+	<string name="accessibility_hd_title">"VoLTE'yi göster"</string>
+    <string name="accessibility_headset_title">Kulaklığı göster</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s etkin</string>
     <string name="accessibility_hearingaid_adding_summary">İşitme cihazı ekle</string>
     <string name="accessibility_hearingaid_instruction_continue_button">Devam</string>
@@ -195,6 +198,7 @@ Hizmetler arasında geçiş yapmak için iki parmağınızla yukarı kaydırıp 
     <string name="accessibility_vibration_summary_low">Zil ve titreşim düşük olarak ayarlandı</string>
     <string name="accessibility_vibration_summary_medium">Zil ve titreşim orta düzeye ayarlandı</string>
     <string name="accessibility_vibration_summary_off">Zil ve titreşim kapatıldı</string>
+	<string name="accessibility_volume_title">Titreşimi/Sessizi göster</string>
     <string name="accessibility_wifi_off">Kablosuz kapalı.</string>
     <string name="accessibility_wifi_one_bar">Kablosuz sinyal gücü tek çubuk.</string>
     <string name="accessibility_wifi_security_type_none">Açık ağ</string>
@@ -1168,6 +1172,8 @@ Seçimi"</string>
     <string name="clear_user_data_text">Verileri temizle</string>
     <string name="close_secrets_mode_warning">Gizlilik modunun kapatılması buraya erişiminizi devre dışı bırakacaktır. Özel verileriniz silinecek veya dışarı aktarılacaktır.</string>
     <string name="closed">Devre dışı</string>
+	<string name="cn_gms_core_summary">Gmail gibi Google uygulamaları kullanılırken etkinleştirilmesi gerekir, ancak güç tüketimini artırabilir.</string>
+    <string name="cn_gms_core_title">Google Temel Hizmetler</string>
     <string name="colon">": "</string>
     <string name="color_adjust_reset">Sıfırla</string>
     <string name="color_black">Siyah</string>
