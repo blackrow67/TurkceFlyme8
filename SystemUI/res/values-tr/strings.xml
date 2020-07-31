@@ -1793,7 +1793,7 @@ olabilir"</string>
     <string name="status_bar_settings_mute">Sesize Al</string>
     <string name="status_bar_settings_mute_label">KAPAT</string>
     <string name="status_bar_settings_nfc">NFC</string>
-    <string name="status_bar_settings_nightmode">Gece Modu</string>
+    <string name="status_bar_settings_nightmode">Koyu Mod</string>
     <string name="status_bar_settings_notifications">Bildirimler</string>
     <string name="status_bar_settings_powersave">Düşük Güç Modu</string>
     <string name="status_bar_settings_rotation">Otomatik Döndür</string>
