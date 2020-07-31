@@ -1555,7 +1555,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
     <string name="decline_remote_bugreport_action">Reddet</string>
     <string name="decryption_settings_summary">Telefon şifrelenmedi</string>
-    <string name="deep_color_mode">Gece Modu</string>
+    <string name="deep_color_mode">Koyu Mod</string>
     <string name="default_admin_support_msg">Sorularınız olursa BT yöneticinizle iletişime geçin</string>
     <string name="default_app">(Varsayılan)</string>
     <string name="default_apps_title">Varsayılan</string>
