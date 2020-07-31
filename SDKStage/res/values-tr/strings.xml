@@ -197,13 +197,13 @@
     <string name="night_mode_on_off_light">Varsayılan</string>
     <string name="night_mode_on_off_night">Gece</string>
     <string name="night_mode_switch_anim_close">Gece modu kapatılıyor....</string>
-    <string name="night_mode_switch_anim_close_dark">Karanlık mod kapatılıyor....</string>
+    <string name="night_mode_switch_anim_close_dark">Koyu mod kapatılıyor....</string>
     <string name="night_mode_switch_anim_open">Gece modu etkinleştiriliyor...</string>
     <string name="night_mode_switch_anim_open_dark">Koyu mod etkinleştiriliyor...</string>
     <string name="night_mode_time_config_close">Kapat</string>
     <string name="night_mode_time_config_dialog_title">Belirlenen saate gelince etkinleştirilir</string>
     <string name="night_mode_time_config_title">Zamanlı gece modu</string>
-    <string name="night_mode_time_config_title_dark">Karanlık modu düzenli olarak etkinleştir</string>
+    <string name="night_mode_time_config_title_dark">Zamanlanmış Koyu mod</string>
     <string name="night_mode_time_config_twilight">Gün batımından gün doğumuna</string>
     <string name="night_mode_time_config_user">Özel zaman dilimi</string>
 	<string name="no_data">Veri Yok</string>
@@ -212,7 +212,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_no_network">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin</string>
-	<string name="title_activity_dark_mode_settings">Karanlık Mod</string>
+	<string name="title_activity_dark_mode_settings">Koyu Mod</string>
     <string name="title_activity_night_mode_settings">Gece Modu</string>
     <string name="translation">Çevir</string>
     <string name="translation_baidu_language_ara">Arapça</string>
