@@ -998,6 +998,13 @@
         <item>Google Arama</item>
         <item>Meizu Pay</item>
     </string-array>
+	<string-array name="powerkey_behavior_double_click_entries">
+        <item>Yanıt yok</item>
+        <item>Kamera</item>
+        <item>Kişisel asistan</item>
+        <item>Meizu Pay</item>
+        <item>Akıllı ses</item>
+    </string-array>
     <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>

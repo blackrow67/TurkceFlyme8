@@ -233,6 +233,7 @@ Hizmetler arasında geçiş yapmak için iki parmağınızla yukarı kaydırıp 
     <string name="activity_not_found">Uygulama, telefonunuzda yüklü değil.</string>
     <string name="activity_picker_label">Etkinlik seçin</string>
     <string name="adaptive_sleep_contextual_slice_summary">Telefona baktığınız sürece ekran açık kalır</string>
+	<string name="adaptive_keep_bright_screen_title">Akıllı ekran parlaklığı</string>
     <string name="adaptive_sleep_description">Baktığınız sürece ekranın kapanmasını engeller</string>
     <string name="adaptive_sleep_privacy">"Ekrana dikkat verme seçeneğinde, ekrana bakan birisi olup olmadığını görmek için ön kamera kullanılır. Tüm işlemler cihazda gerçekleşir ve görüntüler hiçbir zaman saklanmaz ya da Google'a gönderilmez."</string>
     <string name="adaptive_sleep_summary_no_permission">Cihaz Kişiselleştirme Hizmetleri izinlerini yönetmek için dokunun</string>
@@ -428,7 +429,7 @@ Cihazları bir araya getirmeniz (genellikle sırt sırta) ve ekranınıza dokunm
     <string name="app_sees_restricted_accounts">Bu uygulama hesaplarınıza erişebilir</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Bu uygulama, hesaplarınıza erişebilir. %1$s tarafından kontrol edilmektedir</string>
     <string name="app_settings_link">Uygulamadaki ek ayarlar</string>
-    <string name="app_small_window">Uygulama Hızlı Bak</string>
+    <string name="app_small_window">Uygulamaya Hızlı Bak</string>
     <string name="app_usage_cycle">Uygulama veri kullanım döngüsü</string>
     <string name="app_usage_preference">Uygulama kullanım tercihleri</string>
     <string name="application_info_label">Uygulama bilgileri</string>
@@ -1866,6 +1867,7 @@ mükemmelliğe adandı"</string>
     <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
     <string name="enable_quick_setting">"Hızlı Ayarlar'da göster"</string>
     <string name="enable_receiving_mms_notification_title">Gelen MMS mesajı</string>
+	<string name="enable_safe_pay_title">Finansal ödeme güvenliği</string>
     <string name="enable_sending_mms_notification_title">MMS mesajı gönderilemiyor</string>
     <string name="enable_service_encryption_warning">%1$s hizmetini açarsanız cihazınız veri şifrelemeyi geliştirmek için ekran kilidinizi kullanmaz.</string>
     <string name="enable_service_password_reason">%1$s hizmetini etkinleştirmek veri şifrelemesini etkileyeceğinden şifrenizi doğrulamanız gerekmektedir.</string>
@@ -4307,6 +4309,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="sdcard_unmount">USB belleğin bağln kes</string>
     <string name="sdcard_unmounting">Kaldırılıyor…</string>
     <string name="search_bar_account_avatar_content_description" />
+	<string name="search_all_app">Tüm uygulamalarda ara</string>
     <string name="search_button">Ara</string>
     <string name="search_clear_history">Geçmişi temizle</string>
     <string name="search_menu">Ayarlarda arayın</string>
@@ -4314,6 +4317,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler."</string>
     <string name="search_networks">Ağ ara</string>
     <string name="search_result_empty">Sonuç Bulunamadı</string>
     <string name="search_results_title">Ayarlar</string>
+	<string name="search_no_result">Sonuç Yok</string>
     <string name="search_settings">Ara</string>
     <string name="search_settings_title">Ara</string>
     <string name="second_confirm_factory_reset_dlg_msg">Tüm veriler silinecektr ve tamamlanamaz</string>
@@ -4697,6 +4701,7 @@ PIN yanlış olabilir."</string>
     <string name="smart_battery_summary">Sık kullanmadığınız uygulamalar için pil tüketimini sınırlar</string>
     <string name="smart_battery_title">Uygulamaları otomatik olarak yönet</string>
     <string name="smart_notifications_title">Akıllı bildirim engelleme</string>
+	<string name="smart_switch_enabled">MainCard Akıllı Anahtar</string>
     <string name="smart_touch_behavior_click_title">Dokunma</string>
     <string name="smart_touch_behavior_doubleclick_title">Çift dokunma</string>
     <string name="smart_touch_behavior_down_title">Aşağı kaydırma</string>
