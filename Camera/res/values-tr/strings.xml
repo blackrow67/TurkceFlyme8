@@ -11,4 +11,10 @@
 	<string name="mz_permission_agree">Kabul et</string>
     <string name="mz_permission_allow">İzin ver</string>
 	<string name="mz_permission_disagree">Reddet</string>
+	<string name="mz_funny_cam_guide_desc">Video kaydetmek için uzunca basın</string>
+	<string name="mz_filter_classic">Klasik Filtre</string>
+	<string name="mz_filter_lut">Filtrelerim</string>
+	<string name="mz_filter_mgr">Yönet</string>
+	<string name="mz_filter_none_key">Filtre Yok</string>
+	<string name="text_input_hint_text">İçeriği girin</string>
 </resources>
