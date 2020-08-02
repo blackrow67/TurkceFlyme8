@@ -91,6 +91,10 @@
     <string name="date_time_set">Ayarla</string>
     <string name="default_scroll_format">Sayfa %1$d / %2$d</string>
     <string name="disabled_app_label">%1$s devre dışı</string>
+	<string name="first_double_click_name">Güç ipuçları için çift tıklayın</string>
+    <string name="first_double_click_tips_1">Uygulamaları hızlı başlat</string>
+    <string name="first_double_click_tv_left_tips">Çift Tıklama</string>
+    <string name="first_double_click_tv_right_tips">Güç</string>
     <string name="expand_button_title">Gelişmiş</string>
 	<string name="education_folder">Eğitim</string>
 	<string name="featured_plug">Öne çıkan uygulamalar</string>
