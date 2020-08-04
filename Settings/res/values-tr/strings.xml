@@ -2106,6 +2106,8 @@ Flyme hesabının parolasını girin\"%s\""</string>
     <string name="flyme_cloud_service_title">Bulut Hizmeti</string>
     <string name="flyme_infor_versionid">Dahili sürüm</string>
     <string name="flyme_lab">Flyme laboratuvarı</string>
+	<string name="flyme_navigation_summary">mBack gezinmesini etkinleştir</string>
+	<string name="flyme_navigation_title">Klasik gezinme</string>
     <string name="flyme_push_title">Push</string>
     <string name="flyme_version_infor">Sürüm Bilgisi</string>
     <string name="font_size_make_larger_desc">Büyüt</string>
@@ -3348,6 +3350,19 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
     <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
     <string name="n_cacrts">%d CA sertifikası</string>
+	<string name="navigation_bar_detail_demo_text">Ayrıntılı tanıtım</string>
+    <string name="navigation_bar_detail_simple_subtitle_back">Yandan içeri doğru hızlıca kaydırın</string>
+    <string name="navigation_bar_detail_simple_subtitle_home">Aşağıdan yukarıya doğru hızlıca kaydırın</string>
+    <string name="navigation_bar_detail_simple_subtitle_recent">Aşağıdan yukarı kaydırın ve tutun</string>
+    <string name="navigation_bar_detail_simple_subtitle_switch">Aşağıdan yukarıya ve sola doğru hızlıca kaydırın</string>
+    <string name="navigation_bar_detail_simple_subtitle_total">"Ekranın yanlarında: geri dönmek için yatay olarak hızlıca kaydırın.
+Ekranın alt kısmında: Ana Ekran'a gitmek için yukarı kaydırın; çoklu göreve gitmek için hızlıca kaydırın ve basılı tutun"</string>
+    <string name="navigation_bar_detail_simple_tile">Kolay hareket rehberi</string>
+    <string name="navigation_bar_detail_title_back">Geri</string>
+    <string name="navigation_bar_detail_title_home">Ana ekrana dön</string>
+    <string name="navigation_bar_detail_title_recent">Çoklu göreve git</string>
+    <string name="navigation_bar_detail_title_switch">Son görevlere hızlıca kaydırın</string>
+    <string name="navigation_bar_detail_title_total">Kolay gezinme hareketleri</string>
     <string name="navigation_and_recents_title">Gezinme ve çoklu görev</string>
     <string name="navigation_bar_title">Gezinme çubuğu</string>
 	<string name="navigation_category_title">Navigasyon</string>
@@ -3764,7 +3779,18 @@ Bu izin, uygulamaya, Rahatsız Etmeyin ayarını açma veya kapatma ve ilgili ay
     <string name="pppoe_save_password">Parolayı hatırla</string>
     <string name="pppoe_setting_title">PPPoE çevirmeli</string>
     <string name="pppoe_username">Kullanıcı Adı</string>
+    <string name="pref_summary_mback_gesture_side">"mBack gezinme'deyken geri dönmek için yatay olarak hızlıca kaydırın."</string>
+    <string name="pref_summary_mback_long_press">"mBack gezinme'deyken ekranı kilitlemek için ana ekran tuşuna uzun basın."</string>
+    <string name="pref_summary_navigation_bar_flyme">"Geri dönmek için dokunun. Ana Ekran'a gitmek için basın. Çoklu göreve gitmek için aşağıdan yukarıya kaydırın"</string>
+    <string name="pref_summary_navigation_bar_flyme_pressure">"Geri dönmek için dokunun. Ana Ekran'a gitmek için basın. Çoklu göreve gitmek için aşağıdan yukarıya kaydırın"</string>
+	<string name="pref_summary_navigation_bar_hide_gesture_simple">"Ekranın yanlarında: geri dönmek için yatay olarak hızlıca kaydırın. Ekranın alt kısmında: Ana Ekran'a gitmek için yukarı kaydırın; çoklu göreve gitmek için hızlıca kaydırın ve basılı tutun"</string>
+    <string name="pref_summary_navigation_bar_standard">Gezinti çubuğunda geri, Giriş ve çıklu görev düğmesine dokunun</string>
     <string name="pref_title_manage_white_list">Gelen arama beyaz listesi</string>
+	<string name="pref_title_mback_gesture_side">Ekranın yanlarında: geri dönmek için yatay olarak hızlıca kaydırın</string>
+    <string name="pref_title_mback_long_press">Ekranı kilitlemek için ana ekran tuşuna uzunca basın</string>
+    <string name="pref_title_navigation_bar_flyme">mBack gezinmesini etkinleştir</string>
+    <string name="pref_title_navigation_bar_hide_gesture_simple">Gezinti çubuğu</string>
+    <string name="pref_title_navigation_bar_standard">Android gezinme çubuğu</string>
     <string name="pref_title_network_details">Ağ ayrıntıları</string>
     <string name="preference_change_password_title">Şifreyi değiştir</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
