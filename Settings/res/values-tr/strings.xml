@@ -233,6 +233,13 @@ Hizmetler arasında geçiş yapmak için iki parmağınızla yukarı kaydırıp 
     <string name="activity_not_found">Uygulama, telefonunuzda yüklü değil.</string>
     <string name="activity_picker_label">Etkinlik seçin</string>
     <string name="adaptive_sleep_contextual_slice_summary">Telefona baktığınız sürece ekran açık kalır</string>
+	<string name="adaptive_keep_bright_screen_hint">"Akıllı ekran parlaklığı, ekranı kilitleyip ön kamerayı geçici olarak çalıştırmaya başlar. Kamera önceden belirlenmiş yüzü tanıdığında ekranın parlaklığını belli bir zaman daha açık bırakır.
+
+Aşağıdaki örnek olaylar akıllı ekran parlaklığının düzgün çalışmasına engel olabilir:
+Ön kameraya yüzün çok yakın, çok uzak veya görülmeyecek kadar küçük veya büyük açıda kalması
+Yüzde büyük bir nesnenin olması (maske ve gözlük gibi)
+environment too strong or too dim light
+Ön kameranın farklı bir uygulama tarafından kullanılıyor olması"</string>
 	<string name="adaptive_keep_bright_screen_title">Akıllı ekran parlaklığı</string>
     <string name="adaptive_sleep_description">Baktığınız sürece ekranın kapanmasını engeller</string>
     <string name="adaptive_sleep_privacy">"Ekrana dikkat verme seçeneğinde, ekrana bakan birisi olup olmadığını görmek için ön kamera kullanılır. Tüm işlemler cihazda gerçekleşir ve görüntüler hiçbir zaman saklanmaz ya da Google'a gönderilmez."</string>
