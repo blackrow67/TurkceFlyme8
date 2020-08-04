@@ -238,7 +238,7 @@ Hizmetler arasında geçiş yapmak için iki parmağınızla yukarı kaydırıp 
 Aşağıdaki örnek olaylar akıllı ekran parlaklığının düzgün çalışmasına engel olabilir:
 Ön kameraya yüzün çok yakın, çok uzak veya görülmeyecek kadar küçük veya büyük açıda kalması
 Yüzde büyük bir nesnenin olması (maske ve gözlük gibi)
-environment too strong or too dim light
+Ortamda çok güçlü veya çok loş ışık olması
 Ön kameranın farklı bir uygulama tarafından kullanılıyor olması"</string>
 	<string name="adaptive_keep_bright_screen_title">Akıllı ekran parlaklığı</string>
     <string name="adaptive_sleep_description">Baktığınız sürece ekranın kapanmasını engeller</string>
