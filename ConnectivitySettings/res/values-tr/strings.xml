@@ -504,6 +504,7 @@ Seçimi"</string>
     <string name="enable_gpu_debug_layers_summary">Hata ayıklama uygulamaları için GPU hata ayıklama katmanlarının yüklenmesine izin ver</string>
     <string name="enable_not_wakeup_screen_str">Bildirimde Ekran Açmayı Devre Dışı Bırak</string>
     <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
+	<string name="enable_safe_pay_title">Financial payment security</string>
     <string name="enable_terminal_summary">Yerel kabuk erişimi sunan terminal uygulamasını etkinleştir</string>
     <string name="enable_terminal_title">Yerel terminal</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
@@ -1244,6 +1245,7 @@ Seçimi"</string>
     <string name="simulate_color_space">Renk uzayını simüle et</string>
     <string name="smart_touch_tips">Geri, ekranı aşağı çekme ve diğer özel eylemleri destekler</string>
     <string name="smart_touch_title">SmartTouch</string>
+	<string name="smart_switch_enabled">AnaKart Akıllı Anahtar</string>
     <string name="smart_voice_wakeup">Akıllı Ses uyandırma</string>
     <string name="smart_voice_wakeup_tips">Ekran kapalıyken Akıllı Sesi aktive etmek için sesli komutları kullan</string>
     <string name="smart_wifi_selection_sum">Otomatik olarak daha iyi bir WLAN ağına geçilmesine izin ver</string>
