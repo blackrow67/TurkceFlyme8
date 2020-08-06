@@ -85,7 +85,7 @@
     <string name="couldnt_launch">İşlem başlatılamadı</string>
     <string name="create_folder_with">Şu öğeyle klasör oluştur: %1$s</string>
     <string name="custom_actions">Özel işlemler</string>
-	<string name="create_folder_button">Klasöre birleştir</string>
+	<string name="create_folder_button">Birleştir</string>
 	<string name="crop_wallpaper">Duvar kağıdını kırp</string>
 	<string name="default_folder_name">Klasör</string>
     <string name="date_time_set">Ayarla</string>
