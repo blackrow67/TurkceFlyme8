@@ -1614,6 +1614,8 @@ Seçimi"</string>
     <string name="wifi_proxy_settings_title">Proxy ayarları</string>
     <string name="wifi_proxy_switch">Ara sunucu</string>
     <string name="wifi_quick_toggle_summary">"WLAN'ı aç"</string>
+	<string name="wifi_random_mac_option">Rastgele Mac adresi kullan</string>
+	<string name="wifi_random_mac_option_summary">Bu etkinleştirilse mac adresi işlevi gizliliği daha iyi koruyabilir</string>
     <string name="wifi_remembered">Hatırlanan</string>
     <string name="wifi_sap_no_channel_error">5 GHz bant genişliği bu ülkede kullanılamıyor</string>
     <string name="wifi_save">Kaydet</string>
