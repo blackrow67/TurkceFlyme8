@@ -1962,6 +1962,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="volume_dialog_ringer_guidance_ring">Çağrılar ve bildirimler telefonun zilini çaldıracak (%1$s)</string>
     <string name="volume_dialog_title">%s ses denetimleri</string>
     <string name="volume_dnd_silent">Ses düğmeleri kısayolu</string>
+	<string name="volume_panel_title">Ses düzeyleri</string>
     <string name="volume_icon_description_call">Çağrı Yap</string>
     <string name="volume_icon_description_media">Medya ve videolar</string>
     <string name="volume_icon_description_notification">Bildirimler</string>
