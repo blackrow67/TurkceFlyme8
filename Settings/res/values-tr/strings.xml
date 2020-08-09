@@ -3176,11 +3176,14 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
     <string name="mz_fp_verify_failed">Parmak izleri eşleşmiyor</string>
     <string name="mz_install_unknown_applications">Bilinmeyen kaynaklar</string>
     <string name="mz_network_unavailable_hint">Ağ kullanılamıyor. Lütfen ağ ayarlarınızı kontrol edin.</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
     <string name="mz_permission_allow">İzin ver</string>
     <string name="mz_permission_almost_deny">Reddedildikten sonra bir daha sorma</string>
     <string name="mz_permission_always_allow">Her zaman izin ver</string>
     <string name="mz_permission_apply">İzin talebi</string>
     <string name="mz_permission_deny">Reddet</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mz_permission_message_content">%1$s, %2$s için %3$d izin istiyor</string>
     <string name="mz_permission_message_supplement">%1$s için %2$s %3$d izinleri gerekli</string>
     <string name="mz_permission_policy_description">Yukarıdaki fonksiyonlara ve hizmetlere ulaşmak için,%1$s (on dört yaşına ulaşmamış bir çocuğun vasisi tarafından onaylanmalıdır) kabul etmeniz gerekir.</string>
