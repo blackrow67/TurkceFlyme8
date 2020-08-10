@@ -466,7 +466,7 @@ Dağlarına bahar gelmiş memleketimin
     <string name="mc_weekend">Hafta Sonu</string>
     <string name="mc_working_day">Hafta içi</string>
     <string name="mc_yes">Tamam</string>
-    <string name="meizu_taotiao">Meizu Headlines</string>
+    <string name="meizu_taotiao">Meizu Manşetleri</string>
     <string name="menu_add_comment">Bir inceleme yazın</string>
     <string name="menu_add_reply_comment">Cevap ekle</string>
     <string name="menu_clear_history">Geçmişi temizle</string>
@@ -520,6 +520,9 @@ Dağlarına bahar gelmiş memleketimin
     <string name="mz_permission_title_supplement"> Aşağıdaki izinleri talep ediyor</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantısı</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
     <string name="mz_pm_allow_dialog_push">anlık bildirimlere izin ver</string>
     <string name="mz_pm_bluetooth">"Bluetooth'u kontrol edin"</string>
@@ -718,7 +721,7 @@ Dağlarına bahar gelmiş memleketimin
     <string name="pref_set_text_degree">Font boyutu</string>
     <string name="pref_silent_upgrade_switch">Otomatik güncelle</string>
     <string name="pref_toolbar_style">Araç çubuğu stili</string>
-    <string name="pref_topic_news_setting">Meizu Headlines ayarları</string>
+    <string name="pref_topic_news_setting">Meizu Manşetleri ayarları</string>
     <string name="preference_ad_block_empty_bg_text">Reklamlar görünüyor. Uzun basın ve engelleyin</string>
     <string name="preference_ad_block_empty_bg_title">Engellenen reklam yok</string>
     <string name="preference_ad_block_hit_count">%1$s reklam engellendi</string>
@@ -843,7 +846,7 @@ Dağlarına bahar gelmiş memleketimin
     <string name="show_url_input_guide">Hızlı URL girmek için Geri tuşunu basılı tutun</string>
     <string name="sign_in_to" formatted="false">Şurada oturum aç: %s1 \"%s2\"</string>
     <string name="slide_right_to_home_page">Özelleştirmek için kaydır</string>
-    <string name="smart_reader">SmartReader</string>
+    <string name="smart_reader">Akıllı okuma</string>
     <string name="smart_reader_info">"Web sayfasını SmartReader'da birleştir"</string>
     <string name="so_crash_download_tip">Tarayıcının en son sürümünün indirilmesi gerekiyor. Hücresel ağ ile devam etmek istiyor musunuz?</string>
     <string name="so_crash_empty_list_tip">"Tarayıcı hatası

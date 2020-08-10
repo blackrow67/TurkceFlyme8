@@ -133,6 +133,9 @@
     <string name="mz_network_unavailable_hint">Ağ kullanılamıyor. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_permission_allow">İzin ver</string>
     <string name="mz_permission_message_content">%1$s, %3$d %2$s için izin(leri) istiyor.</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
     <string name="mz_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
     <string name="mz_pm_bluetooth">"Bluetooth'u kontrol edin"</string>

@@ -629,6 +629,9 @@ Your Parking Will be Marked"</string>
     <string name="mz_permission_message_content">%1$s, %2$s için %3$d izin istiyor</string>
     <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
     <string name="mz_permission_title_supplement">aşağıdaki izinleri talep ediyor</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WIFI</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantısı</string>

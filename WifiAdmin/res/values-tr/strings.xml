@@ -86,6 +86,9 @@
     <string name="mc_pattern_yesterday">Dün</string>
     <string name="mc_permission_apply">İzin talebi</string>
     <string name="mc_permission_message_content">%1$s, %2$s dahil olmak üzere %3$d izin istiyor</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mc_pm_allow_check_app">Tamam</string>
     <string name="mc_pm_allow_dialog_push">Anlık bildirimlere izin ver</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>

@@ -4737,7 +4737,7 @@ PIN yanlış olabilir."</string>
     <string name="smart_battery_summary">Sık kullanmadığınız uygulamalar için pil tüketimini sınırlar</string>
     <string name="smart_battery_title">Uygulamaları otomatik olarak yönet</string>
     <string name="smart_notifications_title">Akıllı bildirim engelleme</string>
-	<string name="smart_switch_enabled">MainCard Akıllı Anahtar</string>
+	<string name="smart_switch_enabled">Akıllı 4G geçişi</string>
     <string name="smart_touch_behavior_click_title">Dokunma</string>
     <string name="smart_touch_behavior_doubleclick_title">Çift dokunma</string>
     <string name="smart_touch_behavior_down_title">Aşağı kaydırma</string>

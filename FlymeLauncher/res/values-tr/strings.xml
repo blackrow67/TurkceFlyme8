@@ -87,6 +87,7 @@
     <string name="custom_actions">Özel işlemler</string>
 	<string name="create_folder_button">Birleştir</string>
 	<string name="crop_wallpaper">Duvar kağıdını kırp</string>
+	<string name="default_folder">Klasör</string>
 	<string name="default_folder_name">Klasör</string>
     <string name="date_time_set">Ayarla</string>
     <string name="default_scroll_format">Sayfa %1$d / %2$d</string>
@@ -303,6 +304,9 @@
     <string name="mz_user_agreement">Kullanıcı Sözleşmesi</string>
     <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
+	<string name="mz_permission_agree">Kabul ediyorum</string>
+	<string name="mz_permission_disagree">Kabul etmiyorum</string>
+	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mzuc_cancel">İptal</string>
     <string name="mzuc_cancel_download">İndirmeyi iptal et</string>
     <string name="mzuc_cancel_install">Yüklemeyi iptal et</string>
@@ -375,6 +379,10 @@
     <string name="recent_task_option_split_screen">Bölünmüş ekran</string>
     <string name="recents_clear_all">Tümünü temizle</string>
     <string name="recents_empty_message">Yeni öğe yok</string>
+	<string name="recents_extend_blur">Bulanıklaştır</string>
+    <string name="recents_extend_lock">Kilitle</string>
+    <string name="recents_extend_un_blur">Bulanıklığı İptal Et</string>
+    <string name="recents_extend_un_lock">Kilidi İptal Et</string>
     <string name="remote_action_failed">Başarısız: %1$s</string>
     <string name="remove_drop_target_label">Kaldır</string>
 	<string name="rename_action">TAMAM</string>
@@ -419,6 +427,8 @@
     <string name="v7_preference_on">AÇIK</string>
     <string name="wallpaper_button_text">Duvar Kağıtları</string>
     <string name="widget_accessible_dims_format">genişlik: %1$d, yükseklik: %2$d</string>
+	<string name="widget_add_tips">Widget ekle</string>
+    <string name="widget_adder">"Widget'lar"</string>
     <string name="widget_button_text">"Widget'lar"</string>
     <string name="widget_dims_format">%1$d × %2$d</string>
     <string name="widget_resized">Widget, %1$s genişlik ve %2$s yükseklik değerine yeniden boyutlandırıldı</string>
