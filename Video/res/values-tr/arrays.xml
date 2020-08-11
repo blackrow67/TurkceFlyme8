@@ -129,4 +129,9 @@
         <item>Tam ekran</item>
         <item>Özgün boyut</item>
     </string-array>
+	    <string-array name="t">
+        <item>Ekranı otomatik ayarla</item>
+        <item>Tam ekran</item>
+        <item>Özgün boyut</item>
+    </string-array>
 </resources>
