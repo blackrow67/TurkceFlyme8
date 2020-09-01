@@ -299,7 +299,7 @@ Meizu, bu uygulamayı yüklemenizle ilgili olarak hiçbir sorumluluk kabul etmey
     <string name="mz_permission_message_content">%1$s, %2$s için %3$d izin istiyor</string>
     <string name="mz_permission_message_supplement">%1$s için %2$s %3$d izinleri gerekli</string>
     <string name="mz_permission_policy_description">Yukarıdaki fonksiyonlara ve hizmetlere ulaşmak için,%1$s (on dört yaşına ulaşmamış bir çocuğun vasisi tarafından onaylanmalıdır) kabul etmeniz gerekir.</string>
-    <string name="mz_permission_title_supplement">Aşağıdaki izinleri iste</string>
+    <string name="mz_permission_title_supplement"> aşağıdaki izinleri talep ediyor</string>
     <string name="mz_permission_title_terms">İzinler ve açıklamalar</string>
 	<string name="mz_permission_agree">Kabul ediyorum</string>
 	<string name="mz_permission_disagree">Kabul etmiyorum</string>
@@ -398,15 +398,15 @@ Meizu, bu uygulamayı yüklemenizle ilgili olarak hiçbir sorumluluk kabul etmey
     <string name="ok">Tamam</string>
     <string name="only_one">Sadece bir kez</string>
     <string name="op_camera">Kamera</string>
-    <string name="op_camera_des">fotoğraf &amp; video</string>
+    <string name="op_camera_des">Fotoğraf &amp; video</string>
     <string name="op_getinstallpkg">Uygulama Listesi</string>
     <string name="op_getinstallpkg_des">Telefonunuzdaki yüklü uygulamaların okuma listesi</string>
     <string name="op_imei">Telefon kimliğine erişim</string>
     <string name="op_imei_des">Telefonun IMEI, SN ve diğer bilgilerini oku</string>
-    <string name="op_record_audio">ses kaydet</string>
-    <string name="op_record_audio_des">ses kaydet</string>
+    <string name="op_record_audio">Ses kaydet</string>
+    <string name="op_record_audio_des">Ses kaydet</string>
     <string name="op_setting">Sistem ayarları</string>
-    <string name="op_setting_des">sistemin ayar verilerini değiştir</string>
+    <string name="op_setting_des">Sistemin ayar verilerini değiştir</string>
     <string name="op_shortcut">Masaüstü kısayolu</string>
     <string name="op_shortcut_des">Ana Ekrana Ekle</string>
     <string name="op_show_activity_on_locked_screen">Görüntüleri kilit ekranında göster</string>
@@ -414,7 +414,7 @@ Meizu, bu uygulamayı yüklemenizle ilgili olarak hiçbir sorumluluk kabul etmey
     <string name="other">Diğer</string>
     <string name="out_of_space_dlg_text">%1$s yüklenemedi. Boş alan açın ve yeniden deneyin.</string>
     <string name="out_of_space_dlg_title">Yer kalmadı</string>
-    <string name="perm_activity_on_locked_screen">Kilid ekranı göster</string>
+    <string name="perm_activity_on_locked_screen">Kilit ekranında göster</string>
     <string name="perm_activity_on_locked_screen_des">Kilit ekranında göster</string>
     <string name="perm_alert">Açılır pencere</string>
     <string name="perm_alert_des">Diğer uygulamaların üstünde görüntüle</string>
@@ -425,7 +425,7 @@ Meizu, bu uygulamayı yüklemenizle ilgili olarak hiçbir sorumluluk kabul etmey
     <string name="perm_notification">Bildirimler</string>
     <string name="perm_notity">Bildirimler</string>
     <string name="perm_other">Diğer izinler</string>
-    <string name="permission_configure">İzni yönet</string>
+    <string name="permission_configure">İzinleri yönet</string>
     <string name="permission_configure_title">İzin yönetimi</string>
     <string name="permission_confirm_statement">Bu uygulama yüklemesi şunlara erişim gerektirebilir:</string>
     <string name="permission_count">izin</string>
