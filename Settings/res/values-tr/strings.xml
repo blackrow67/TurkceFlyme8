@@ -5372,7 +5372,7 @@ Kaydedilmiş dijital parmak iziniz de bu profilden kaldırılacak ve profilinizi
     <string name="usb_midi_title">Müzik Alet Dijital Arabirimi (MIDI)</string>
     <string name="usb_mtp_summary">"Ortam dosyalarını PC'ye aktar"</string>
     <string name="usb_mtp_tip_file_transfer_fragment_title">Kullanım ipuçları</string>
-    <string name="usb_mtp_tip_normal_one">"Mac kullanıcıları filetransfer.dmg'yi CD-ROM yükleyebilirler y ada bakınız %s"</string>
+    <string name="usb_mtp_tip_normal_one">"Mac kullanıcıları filetransfer.dmg'yi CD-ROM yükleyebilirler yada bakınız %s"</string>
     <string name="usb_mtp_tip_normal_title">Kullanım önerileri:</string>
     <string name="usb_mtp_tip_normal_two"><font color="#198ded">Ekran arızalandığında dosyaları aktarma yöntemi</font></string>
     <string name="usb_mtp_tip_normal_two_content_title1">Dokunmatiği devre dışı bir telefondan (ekranı kapanmış veya kırılmış) nasıl veri aktarılır?</string>
