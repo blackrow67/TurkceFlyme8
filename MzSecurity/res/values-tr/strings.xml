@@ -277,7 +277,8 @@
     <string name="TrafficDialogPositiveButton">Tamam</string>
     <string name="acceleration_summary">Telefonunuzu hızlandırmak için belleği boşaltın</string>
     <string name="acceleration_title">Hızlandırıcı</string>
-    <string name="ad_download_desc_text">Learn your preferences and recommend secure apps</string>
+    <string name="ad_download_desc_text">Tercihlerinizi öğrenip güvenilir uygulamaları önerir</string>
+	<string name="ad_download_settings_title">Tavsiye edilen uygulamalar</string>
     <string name="add_black">Numara ekle</string>
     <string name="add_phone_num_tag">Mark</string>
     <string name="add_sms_key_word">Anahtar kelime ekle</string>
@@ -447,6 +448,7 @@
     <string name="cleaner_auto_clean_notify_clean_title">%1$s gereksiz dosya temizlendi</string>
     <string name="cleaner_auto_clean_notify_content_text">Ayrıntıları görüntülemek için dokunun</string>
     <string name="cleaner_auto_clean_notify_scan_title">%1$s gereksiz dosya bulundu</string>
+	<string name="cleaner_auto_clean_notify_to_clean_content_text">Temizlemek için dokunun</string>
     <string name="cleaner_big_file">Büyük dosyalar</string>
     <string name="cleaner_big_file_frequent">Yeni</string>
     <string name="cleaner_big_file_not_frequent">Nadir</string>
@@ -1035,6 +1037,7 @@ Daha fazla boş alan açın"</string>
     <string name="set_wifi_on_c">"WLAN'ı aç"</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_category_title">Ayrık işlev ayarları</string>
+	<string name="settings_content_recommend_title">Önerilen içerikler</string>
     <string name="setupEntrance_textView">Verileri ayarlamak için dokun</string>
     <string name="setupTraffic">Ayarlar</string>
     <string name="setupTrafficDialogTitle">Toplam aylık veri</string>
