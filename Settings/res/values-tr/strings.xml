@@ -3190,7 +3190,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
     <string name="mz_permission_title_supplement">Aşağıdaki izinleri iste</string>
     <string name="mz_permission_title_terms">İzinler ve açıklamalar</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">Kablosuz</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantıları</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
@@ -3220,7 +3220,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
     <string name="mz_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mz_pm_set_gprs_on">Hücresel veriyi aç</string>
     <string name="mz_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mz_pm_wlan">WLAN</string>
+    <string name="mz_pm_wlan">Kablosuz</string>
     <string name="mz_privacy_policy">Meizu Gizlilik Politikası</string>
     <string name="mz_reject">Çıkış</string>
     <string name="mz_settings_regulation_title">Yönetmelik</string>
@@ -4125,12 +4125,12 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
 "<li>Kablosuz ağ</li>"
 "<li>Mobil veri</li>"
 "<li>Bluetooth</li></string>
-    <string name="reset_network_dlg_msg">Kaydedilmiş WLAN, eşleştirilmiş Bluetooth cihazları vb. dahil olmak üzere WLAN, mobil ağ ve Bluetooth ayarlarınızı sıfırlar.</string>
+    <string name="reset_network_dlg_msg">Kaydedilmiş Kablosuz, eşleştirilmiş Bluetooth cihazları vb. dahil olmak üzere WLAN, mobil ağ ve Bluetooth ayarlarınızı sıfırlar.</string>
     <string name="reset_network_final_button_text">Ayarları sıfırla</string>
     <string name="reset_network_final_desc">Tüm ağ ayarları sıfırlansın mı? Bu işlemi geri alamazsınız.</string>
     <string name="reset_network_final_desc_esim">"Tüm ağ ayarları sıfırlansın ve indirilen SIM'ler silinsin mi? Bu işlemi geri alamazsınız."</string>
     <string name="reset_network_success_msg">Ağ Ayarlarını Sıfırla</string>
-    <string name="reset_network_summary">WLAN, mobil ağ &amp; Bluetooth sıfırla</string>
+    <string name="reset_network_summary">Kablosuz, mobil ağ &amp; Bluetooth sıfırla</string>
     <string name="reset_network_title">Ağ ayarlarını sıfırlama</string>
     <string name="reset_password">Sıfırla</string>
     <string name="reset_phone">Telefon verilerini temizle</string>
@@ -5737,7 +5737,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin."</string>
     <string name="wifi_avoid_poor_network_detection_summary">Yalnızca iyi internet bağlantısı olan ağları kullanın</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="wifi_bridge_title">WLAN paylaşımı</string>
+    <string name="wifi_bridge_title">WI-FI paylaşımı</string>
     <string name="wifi_calling_mode_cellular_preferred_summary">Mobil ağ kullanılamıyorsa kablosuz ağı kullan</string>
     <string name="wifi_calling_mode_dialog_title">Çağrı tercihi</string>
     <string name="wifi_calling_mode_title">Çağrı tercihi</string>
@@ -5771,7 +5771,7 @@ Lütfen servis sağlayıcınızın gizlilik politikasını inceleyin."</string>
     <string name="wifi_connected_no_internet">Bağlı, internet yok</string>
     <string name="wifi_connecting">Bağlanıyor…</string>
     <string name="wifi_data_template">^1 kablosuz bağlantı verisi</string>
-    <string name="wifi_data_usage">WLAN verisi kullan</string>
+    <string name="wifi_data_usage">Kablosuz verisi kullan</string>
     <string name="wifi_details_dns">DNS</string>
     <string name="wifi_details_ipv6_address_header">IPv6 adresleri</string>
     <string name="wifi_details_subnet_mask">Alt ağ maskesi</string>
@@ -5971,13 +5971,13 @@ Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyo
     <string name="wifi_security">Güvenlik</string>
     <string name="wifi_security_none">Aç</string>
     <string name="wifi_security_wapi_cert">WAPI SERTFK.</string>
-    <string name="wifi_select_network">WLAN seçin</string>
+    <string name="wifi_select_network">Kalbosuz seçin</string>
     <string name="wifi_setting_on_during_sleep_title">Uykudayken Kablosuz açık</string>
     <string name="wifi_setting_sleep_policy_error">Ayarı değiştirirken bir sorun oluştu</string>
     <string name="wifi_setting_sleep_policy_sum">Güç tüketimini azaltmak için</string>
     <string name="wifi_setting_sleep_policy_title">Kilit ekranı devre dışı</string>
-    <string name="wifi_settings">WLAN</string>
-    <string name="wifi_settings_category">WLAN ayarları</string>
+    <string name="wifi_settings">Kablosuz</string>
+    <string name="wifi_settings_category">Kablosuz ayarları</string>
     <string name="wifi_settings_master_switch_title">Kablosuz bağlantıyı kullan</string>
     <string name="wifi_settings_scanning_required_enabled">Kablosuz ağ taraması açık</string>
     <string name="wifi_settings_scanning_required_info">Kablosuz ağ taraması uygulamaların ve hizmetlerin kablosuz ağları Kablosuz özelliği kapalıyken bile her zaman taramasına izin verir. Bu özellik, örneğin, konuma dayalı özellikleri ve hizmetleri iyileştirmek için kullanılabilir.</string>
@@ -5985,7 +5985,7 @@ Tarama yapmak isteyen tüm uygulamaların bu işlevi kullanmalarına izin veriyo
     <string name="wifi_settings_scanning_required_title">Kablosuz ağ taraması açılsın mı?</string>
     <string name="wifi_settings_scanning_required_turn_on">Aç</string>
     <string name="wifi_settings_summary">Kablosuz erişim noktalarını kur ve yönet</string>
-    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_settings_title">Kablosuz</string>
     <string name="wifi_setup_detail">Ağ ayrıntıları</string>
     <string name="wifi_setup_wps">Otomatik kurulum (WPS)</string>
     <string name="wifi_share_network_title">QR kodu ile ağı paylaş</string>
