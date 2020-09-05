@@ -449,6 +449,7 @@
     <string name="cleaner_auto_clean_notify_content_text">Ayrıntıları görüntülemek için dokunun</string>
     <string name="cleaner_auto_clean_notify_scan_title">%1$s gereksiz dosya bulundu</string>
 	<string name="cleaner_auto_clean_notify_to_clean_content_text">Temizlemek için dokunun</string>
+	<string name="cleaner_auto_clean_notify_to_cleaner_title">%1$s gereksiz dosya bulundu. Temizlemeniz önerilir.</string>
     <string name="cleaner_big_file">Büyük dosyalar</string>
     <string name="cleaner_big_file_frequent">Yeni</string>
     <string name="cleaner_big_file_not_frequent">Nadir</string>
@@ -465,6 +466,9 @@
     <string name="cleaner_cache_trash">Çöp kutusu önbelleği</string>
     <string name="cleaner_cache_uninstall_remain">Kalıntıları sil</string>
     <string name="cleaner_can_be_deleted">Silinebilir</string>
+	<string name="cleaner_category_select_all">Hepsi %1$s</string>
+    <string name="cleaner_category_select_part">Seçildi %1$s</string>
+    <string name="cleaner_category_total">%1$s toplam</string>
     <string name="cleaner_check_all">Tümü</string>
     <string name="cleaner_check_none">Hiçbiri</string>
     <string name="cleaner_checked_size">%1$s kontrol edildi</string>
