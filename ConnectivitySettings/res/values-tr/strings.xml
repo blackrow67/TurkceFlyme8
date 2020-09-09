@@ -8,7 +8,7 @@
     <string name="Network_Roaming_dialog_content">Dolaşım ağında A-GPS kullanımı ekstra dolaşım ücretlerine neden olabilir.</string>
     <string name="Network_Roaming_dialog_title">Dikkat</string>
     <string name="Network_Used">Kullanılan Ağ</string>
-    <string name="Wifi_network_diagnostics_summary">WLAN ağlarını incele</string>
+    <string name="Wifi_network_diagnostics_summary">Kablosuz ağları incele</string>
     <string name="Wifi_network_diagnostics_title">WLAN Doctor</string>
     <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -855,7 +855,7 @@ Seçimi"</string>
 	<string name="mz_permission_disagree">Kabul etmiyorum</string>
 	<string name="mz_permission_inform">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere erişmesi gerekiyor</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">Kablosuz</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantıları</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
@@ -985,10 +985,10 @@ Seçimi"</string>
     <string name="nfc_write_tag_sleep_model">Uyku Modu</string>
     <string name="nfc_write_tag_soundless_str">Sessiz</string>
     <string name="nfc_write_tag_vpn_str">VPN</string>
-    <string name="nfc_write_tag_wifi_ap_model">WLAN</string>
+    <string name="nfc_write_tag_wifi_ap_model">Kablosuz</string>
     <string name="nfc_write_tag_wlan_ap_pic_summury">Veriyi yazmak için, NFC etiketini telefonun arkasına tutun</string>
     <string name="nfc_write_tag_wlan_ap_title">WLAN Bağlantısı</string>
-    <string name="nfc_write_tag_wlan_str">WLAN</string>
+    <string name="nfc_write_tag_wlan_str">Kablosuz</string>
     <string name="nfc_writing_content_msg">Yazıyor, lütfen bekleyin…</string>
     <string name="no">İptal</string>
     <string name="no_application">Hiçbiri</string>
@@ -1644,9 +1644,9 @@ Seçimi"</string>
     <string name="wifi_setting_sleep_policy_error">Ayarı değiştirirken bir sorun oluştu</string>
     <string name="wifi_setting_sleep_policy_sum">Güç tüketimini azaltmak için</string>
     <string name="wifi_setting_sleep_policy_title">Kilit ekranı devre dışı</string>
-    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings">Kablosuz</string>
     <string name="wifi_settings_access_point_free_wifi_tips">Doğrula</string>
-    <string name="wifi_settings_category">WLAN ayarları</string>
+    <string name="wifi_settings_category">Kablosuz ayarları</string>
     <string name="wifi_settings_free_wifi_dialog_checkbox_agree">"Kabul ediyorum "</string>
     <string name="wifi_settings_free_wifi_dialog_checkbox_protocol">Ücretsiz Güvenli WLAN Kullanıcı Sözleşmesi</string>
     <string name="wifi_settings_free_wifi_dialog_message">Herkese açık çeşitli alanlarda erişilebilen, Meizu tarafından kimliği doğrulanmış bu WLAN ağları parolasız bağlantılara izin verir ve ücretsizdir.</string>
