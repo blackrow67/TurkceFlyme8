@@ -2477,7 +2477,7 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="language_keyboard_settings_title">Diller ve giriş</string>
     <string name="language_picker_title">Diller</string>
     <string name="language_settings">Diller ve giriş</string>
-    <string name="language_time">Dil &amp; saat</string>
+    <string name="language_time">Dil ve saat</string>
     <string name="last_synced">Son senkronizasyon: %1$s</string>
     <string name="last_time_used_label">Son kullanıldığı tarih</string>
     <string name="launch_by_default">Varsayılan olarak aç</string>
@@ -2714,14 +2714,14 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="lockscreen_bypass_summary">Yüz tanıma kilidinden sonra, doğrudan son kullanılan ekrana git</string>
     <string name="lockscreen_bypass_title">Kilit ekranını atla</string>
     <string name="lockscreen_category_title">Ekranı kilitle</string>
-    <string name="lockscreen_notification_title">Kilit ekran bildirimi</string>
+    <string name="lockscreen_notification_title">Kilit ekranı bildirimi</string>
     <string name="lockscreen_pull_down_notificationbar">Bildirim çubuğuna eriş</string>
     <string name="lockscreen_pull_down_notificationbar_summary">Kilitli ekranında bildirim çubuğunu aşağı çekmeye izin ver</string>
     <string name="lockscreen_remote_input">Cihaz kilitliyse, bildirimlerde yanıt yazmayı veya diğer metin girişlerini önle</string>
     <string name="lockscreen_settings_title">Kilit ekranı görüntüsü</string>
     <string name="lockscreen_settings_what_to_show_category">Ne göstermeli?</string>
-    <string name="lockscreen_show_music_title">Kilit Ekranı Müziği</string>
-	<string name="lockscreen_show_lunar_calender_title">Kilit Ekranı Ay Takvimi</string>
+    <string name="lockscreen_show_music_title">Kilit ekranı müziği</string>
+	<string name="lockscreen_show_lunar_calender_title">Kilit ekranında ay takvimi</string>
     <string name="lost_internet_access_cancel">Kablosuz bağlantıda kal</string>
     <string name="lost_internet_access_persist">Bir daha gösterme</string>
     <string name="lost_internet_access_switch">Mobil veriye geç</string>
