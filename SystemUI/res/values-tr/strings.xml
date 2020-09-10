@@ -534,6 +534,7 @@ Devam ettirirseniz veri kullanımı için sizden ödeme alınabilir."</string>
     <string name="demo_device">Demo cihaz</string>
     <string name="demo_lock_enter_password">Lütfen kilidi parmak izi ile açın veya parola girin</string>
     <string name="demo_mode">Sistem kullanıcı arayüzü demo modu</string>
+	<string name="deny">Reddet</string>
     <string name="description_direction_left">%s için sola kaydırın.</string>
     <string name="description_direction_up">%s için yukarı kaydırın.</string>
     <string name="description_target_search">Ara</string>
@@ -662,7 +663,7 @@ Devam ettirirseniz veri kullanımı için sizden ödeme alınabilir."</string>
     <string name="find_phone_tips_unknown_flyme">Flyme Hesabı</string>
     <string name="find_phone_unlock">Kilidi Aç</string>
     <string name="find_phone_wifi_back_button">Geri</string>
-    <string name="find_phone_wifi_button">WLAN</string>
+    <string name="find_phone_wifi_button">Wi-Fi</string>
     <string name="fingerprint_dialog_touch_sensor">Parmak izi sensörüne dokunun</string>
     <string name="flash_light_disabled">Lütfen önce kamerayı ya da el fenerini kapatın</string>
     <string name="force_allow_on_external">Harici birimdeki uygulamalara izin vermeye zorla</string>
@@ -1081,7 +1082,7 @@ sessiz"</string>
     <string name="mc_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mc_pm_set_gprs_on">Mobil ağı aç</string>
     <string name="mc_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_wlan">Kablosuz</string>
     <string name="mc_praised_message">Beğen</string>
     <string name="mc_pull_refresh">Yenilemek için aşağı çekin</string>
     <string name="mc_reject">Çıkış</string>
@@ -1244,7 +1245,7 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="mz_permission_title_supplement">Aşağıdaki izinleri iste</string>
     <string name="mz_permission_title_terms">İzinler ve açıklamalar</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">Kablosuz</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantıları</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
@@ -1274,7 +1275,7 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="mz_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mz_pm_set_gprs_on">Hücresel veriyi aç</string>
     <string name="mz_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mz_pm_wlan">WLAN</string>
+    <string name="mz_pm_wlan">Kablosuz</string>
     <string name="mz_power_consumption_details">Ayrıntılar</string>
     <string name="mz_privacy_policy">Meizu Gizlilik Politikası</string>
     <string name="mz_reject">Çıkış</string>
@@ -1804,7 +1805,7 @@ olabilir"</string>
     <string name="status_bar_settings_vibrate">Titreşim</string>
     <string name="status_bar_settings_vpn">VPN</string>
     <string name="status_bar_settings_wifi_button">Kablosuz</string>
-    <string name="status_bar_settings_wlan">WLAN</string>
+    <string name="status_bar_settings_wlan">Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">Fiziksel klavye</string>
     <string name="status_bar_work">İş profili</string>
     <string name="status_unavailable">Kullanılamıyor</string>
