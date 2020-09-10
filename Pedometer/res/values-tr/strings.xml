@@ -256,7 +256,7 @@
     <string name="mz_specific_permission_deny">İzin vermeyi reddet</string>
     <string name="mz_wif_setting_dialog_message">Ağ bağlantısı yok. Lütfen ağ ayarlarınızı kontrol edin.</string>
     <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
-    <string name="notifications_summary_exceed_target">%d hedefin ötesinde adımlar. Aferin!</string>
+    <string name="notifications_summary_exceed_target">%d hedeflediğinizden daha fazlası. Tebrikler!</string>
     <string name="notifications_summary_target">Hedefinize ulaştınız!</string>
     <string name="notifications_summary_within_target">%d hedefinize ulaşamadınız!</string>
     <string name="notifications_title">%d Bugün attığınız adımlar</string>
