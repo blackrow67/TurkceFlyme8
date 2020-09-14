@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="child_mode_chart_weeks">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Ctes</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="child_mode_limit_time_array">
+        <item>Tümüyle yasaklı</item>
+        <item>1 sa</item>
+        <item>2 sa</item>
+        <item>3 sa</item>
+        <item>Sınırsız</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
         <item>Oca</item>
         <item>Şub</item>
@@ -15,44 +63,12 @@
         <item>Ara</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Pzr</item>
-        <item>Ptes</item>
-        <item>Per</item>
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
         <item>Çar</item>
         <item>Per</item>
         <item>Cum</item>
-        <item>Ctes</item>
-    </string-array>
-    <string-array name="luckymoney_sound_name">
-        <item>Lucky money</item>
-        <item>Good luck</item>
-        <item>Coins dropping</item>
-        <item>Stars shining</item>
-        <item>Mute</item>
-    </string-array>
-    <string-array name="layout_entires">
-        <item>Horizontal layout</item>
-        <item>Vertical layout</item>
-    </string-array>
-    <string-array name="pref_list_background_color_entries">
-        <item>Auto</item>
-        <item>Light</item>
-        <item>Dark</item>
-    </string-array>
-    <string-array name="child_mode_chart_weeks">
-        <item>Pzr</item>
-        <item>Ptes</item>
-        <item>Per</item>
-        <item>Çar</item>
-        <item>Per</item>
-        <item>Cum</item>
-        <item>Ctes</item>
-    </string-array>
-    <string-array name="child_mode_limit_time_array">
-        <item>Totally banned</item>
-        <item>1 hr</item>
-        <item>2 hr</item>
-        <item>3 hr</item>
-        <item>Unlimited</item>
+        <item>Cmt</item>
     </string-array>
 </resources>
