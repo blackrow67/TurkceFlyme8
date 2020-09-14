@@ -129,6 +129,8 @@ Kilit ekranı ayarlarını otomatik olarak geri yüklemek için sürüş modunda
     <string name="future_result_is_null">Yetkilendirme başarısız, lütfen daha sonra yeniden deneyin.</string>
     <string name="game_mode_barrage_notifications">Bildirimleri engelle</string>
     <string name="game_mode_barrage_summary">WeChat ve QQ bildirimlerini oyun oynarken baraj biçiminde göster</string>
+	<string name="game_mode_block_heads_up">Açılır pencere bildirimlerini engelle</string>
+    <string name="game_mode_block_heads_up_summary">Oyun oynarken açılır pencere bildirimlerini engelle</string>
     <string name="game_mode_category">Optimizasyon seçenekleri</string>
     <string name="game_mode_dnd_summary">Tüm uyarıları devre dışı bırakın</string>
     <string name="game_mode_dnd_title">Oyun oynarken tüm uyarıları devre dışı bırak</string>
@@ -161,12 +163,23 @@ Kilit ekranı ayarlarını otomatik olarak geri yüklemek için sürüş modunda
     <string name="game_mode_inadvertent_pressure_summary">Navigasyon çubuğu gizli olduğu zaman \"Bas &amp; Ana ekrana geri dön\" kullanılamaz</string>
     <string name="game_mode_inadvertent_pressure_title">Yanlış dokunma önlemeye basın</string>
     <string name="game_mode_inadvertent_touch_title">Hatalı dokuma önleme</string>
+	<string name="game_mode_inadvertent_statusbar_title">Açılır bildirim çubuğu hareketlerini engelleyin</string>
     <string name="game_mode_keyboard_summary">Manzara modunda oyun oynarken küçük bir yüzen klavye kullanın</string>
     <string name="game_mode_lock_brightness_summary">Oyundayken parlaklığı sabit tut</string>
     <string name="game_mode_lock_brightness_title">Parlaklık sabitlendi</string>
+	<string name="game_mode_lock_rotation_summary">Oyunda ekran yönünü sabitleyin</string>
+    <string name="game_mode_lock_rotation_title">Ekran yönünü sabitle</string>
+	<string name="game_mode_game_list_management_enabled">Etkin</string>
+    <string name="game_mode_game_list_management_hint">Oyun modu için seçtiğiniz uygulamalar yüksek performansta çalıştırılacak.</string>
+    <string name="game_mode_game_list_management_summary">Oyun modunu etkinleştirecek uygulamaları yönetin</string>
+    <string name="game_mode_game_list_management_title">Oyun listesini yönet</string>
+    <string name="game_mode_game_list_management_to_enable">Etkinleştirmek için seçin</string>
     <string name="game_mode_net_summary">Ağ durumunu kontrol edin</string>
+	<string name="game_mode_new_notifications_prompt">Bildirimler</string>
+    <string name="game_mode_new_notifications_prompt_summary">Yeni bildirim gelirse göster</string>
     <string name="game_mode_net_title">WLAN Doktoru</string>
     <string name="game_mode_notifications">Bildirimler</string>
+	<string name="game_mode_notify_tips_title">Bildirim ayarları</string>
     <string name="game_mode_pro_no_game_sdk">Ödülü almak için mGame motorunu yükleyin</string>
     <string name="game_mode_pro_no_noti">Bildirim yok</string>
     <string name="game_mode_screenrecord">Ekran Kaydı</string>
@@ -599,5 +612,10 @@ yeterlidir."</string>
 İletişim kurmayı, eğlendirmeyi ve korumayı çok kolaylaştırın"</string>
     <string name="welcomepage_two_title">Tam özellikli</string>
     <string name="window_mode_settings_recents_title">Ayarlar</string>
-    <string name="window_mode_settings_title">Uygulama Hızlı Bak</string>
+    <string name="window_mode_settings_title">Uygulamaya Hızlı Bak</string>
+	 <string name="window_mode_double_tap_to_back_summary">Hızlı bakıştan çıkmak için boş alana çift dokunun.</string>
+    <string name="window_mode_double_tap_to_back_title">Hızlı bakıştan çıkış</string>
+    <string name="window_mode_keyboard_summary">Yatay ekranda sistem klavyesini kullan</string>
+    <string name="window_mode_keyboard_title">Sistem klavyesi</string>
+	
 </resources>
