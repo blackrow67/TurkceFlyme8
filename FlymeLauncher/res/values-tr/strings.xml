@@ -54,6 +54,7 @@
     <string name="add_to_folder">Klasöre ekle: %1$s</string>
     <string name="add_to_folder_with_app">%1$s öğesini içeren klasöre ekle</string>
     <string name="added_to_folder">Öğe, klasöre eklendi</string>
+	<string name="align">Hizala</string>
     <string name="all_apps_button_label">Uygulamalar listesi</string>
     <string name="all_apps_button_personal_label">Kişisel uygulamalar listesi</string>
     <string name="all_apps_button_work_label">İş uygulamaları listesi</string>
@@ -83,6 +84,8 @@
     <string name="cab_menu_delete_app">Uygulamayı Kaldır</string>
 	<string name="copy">Kopyala</string>
     <string name="couldnt_launch">İşlem başlatılamadı</string>
+	<string name="create_folder">Grup</string>
+    <string name="create_folder_button">GRUP</string>
     <string name="create_folder_with">Şu öğeyle klasör oluştur: %1$s</string>
     <string name="custom_actions">Özel işlemler</string>
 	<string name="create_folder_button">Birleştir</string>
@@ -96,6 +99,7 @@
     <string name="first_double_click_tips_1">Uygulamaları hızlı başlat</string>
     <string name="first_double_click_tv_left_tips">Çift Tıklama</string>
     <string name="first_double_click_tv_right_tips">Güç</string>
+	<string name="edit_button_text">Masaüstü Ayarları</string>
     <string name="expand_button_title">Gelişmiş</string>
 	<string name="education_folder">Eğitim</string>
 	<string name="featured_plug">Öne çıkan uygulamalar</string>
@@ -131,6 +135,22 @@
     <string name="item_removed">Öğe kaldırıldı</string>
     <string name="label_application">Uygulama</string>
 	<string name="life_folder">Yaşam</string>
+    <string name="launcher_change_wallpaper">Duvarkağıdı değiştir</string>
+    <string name="launcher_edit_panel_4_6_grid">4 x 6</string>
+    <string name="launcher_edit_panel_5_6_grid">5 x 6</string>
+    <string name="launcher_edit_panel_completed">Uygula</string>
+    <string name="launcher_edit_panel_default_size">Varsayılana döndür</string>
+    <string name="launcher_edit_panel_flyme_style_icon">Flyme</string>
+    <string name="launcher_edit_panel_grid_title">Simge ızgarası</string>
+    <string name="launcher_edit_panel_more_setting">Daha</string>
+    <string name="launcher_edit_panel_round_rect_style_icon">Yuvarlak rekt</string>
+    <string name="launcher_edit_panel_size_title">Simge boyutu</string>
+    <string name="launcher_edit_panel_style_explain">Yalnızca varsayılan temada yürürlüktedir</string>
+    <string name="launcher_edit_panel_style_title">Simge stili</string>
+    <string name="launcher_edit_panel_title">Başlatıcı ayarı</string>
+    <string name="launcher_setting">Başlatıcı ayarı</string>
+    <string name="layout_is_locked">Düzeni kilitli</string>
+    <string name="layout_lock">Düzeni kilitle</string>
     <string name="long_accessible_way_to_add">"Bir widget'ı seçmek veya özel işlemleri kullanmak için iki kez dokunun ve basılı tutun."</string>
     <string name="long_accessible_way_to_add_shortcut">Bir kısayolu seçmek veya özel işlemleri kullanmak için iki kez dokunun ve basılı tutun.</string>
     <string name="long_press_shortcut_to_add">Kısayol seçmek için dokunun ve basılı tutun.</string>
