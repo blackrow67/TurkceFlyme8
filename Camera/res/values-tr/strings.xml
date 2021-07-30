@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="descp_countdown_close">Kapalı</string>
     <string name="mz_mode_guide_enter">Şimdi deneyin</string>
     <string name="mz_mode_move_btn_edit">Düzenle</string>
     <string name="mz_mode_move_btn_finish">Bitti</string>
@@ -7,6 +8,13 @@
     <string name="mz_mode_move_show_in_slide_menu_hint">Ana sayfada göstermek için simgeyi buraya sürükleyin</string>
 	<string name="mz_setting_barcode_auto_label">Kamera kadrajdaki QR kodunu/barkodunu otomatik olarak tanır</string>
     <string name="mz_setting_barcode_auto_switch_title">Tara</string>
+	<string name="mz_setting_picture_size_full_size">TamEkran</string>
+    <string name="mz_setting_picture_size_hint">Oran</string>
+	<string name="mz_setting_scan">Otomatik tarama kodu</string>
+	<string name="mz_setting_click_video_suppord_eis_hint">Seçilen spesifikasyon, Sarsıntı Önlemeyi destekler</string>
+	<string name="mz_setting_video_size_hint">Video özellikleri</string>
+	<string name="mz_hint_exit_immersion_mode">Daldırma Önizlemesinden Çift Tıkla Çık</string>
+	<string name="mz_immersion_mode_switch_title">Daldırma Önizlemesi</string>
 	<string name="mz_permission_inform">Temel hizmetleri sağlamak için, bu uygulamanın aşağıdaki izinlere erişmesi gerekir</string>
 	<string name="mz_permission_agree">Kabul et</string>
     <string name="mz_permission_allow">İzin ver</string>
@@ -16,5 +24,10 @@
 	<string name="mz_filter_lut">Filtrelerim</string>
 	<string name="mz_filter_mgr">Yönet</string>
 	<string name="mz_filter_none_key">Filtre Yok</string>
+	<string name="mz_setting_watermark">Filigran</string>
+    <string name="mz_setting_watermark_device">Telefon</string>
+    <string name="mz_setting_watermark_time">Zaman</string>
+	<string name="mz_toggle_hint_live_photo_close">CanlıFoto kapalı</string>
+    <string name="mz_toggle_hint_live_photo_open">CanlıFoto etkin</string>
 	<string name="text_input_hint_text">İçeriği girin</string>
 </resources>

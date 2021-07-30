@@ -473,6 +473,13 @@
         <item>Orta</item>
         <item>Güçlü</item>
     </string-array>
+	    <string-array name="fp_animation_name">
+        <item>Hiçbiri</item>
+        <item>Su dalgası</item>
+        <item>Işık huzmesi</item>
+        <item>Mikrodalga</item>
+        <item>Havai fişek</item>
+    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP denetimini hiçbir zaman kullanma</item>
         <item>HDCP denetimini yalnızca DRM içeriği için kullan</item>

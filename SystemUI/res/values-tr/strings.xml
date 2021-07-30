@@ -696,6 +696,14 @@ Devam ettirirseniz veri kullanımı için sizden ödeme alınabilir."</string>
     <string name="guest_wipe_session_message">Oturumunuza devam etmek istiyor musunuz?</string>
     <string name="guest_wipe_session_title">Tekrar hoş geldiniz sayın misafir!</string>
     <string name="guest_wipe_session_wipe">Baştan başla</string>
+	<string name="gut_action_summary_block">"Uyarma ve bildirim çubuğunda gösterme"</string>
+    <string name="gut_action_summary_filter">"Bildirim ve titreşim yok fakat yığınla"</string>
+    <string name="gut_action_summary_remind">"Uyar veya titret; bildirim çubuğunda göster"</string>
+    <string name="gut_action_summary_silent">Zil veya titreşim yok, ancak bildirim çubuğunun sonunda göster</string>
+    <string name="gut_setting_text_block">Engelle</string>
+    <string name="gut_setting_text_filter">Yığınla</string>
+    <string name="gut_setting_text_remind">Uyarı</string>
+    <string name="gut_setting_text_silent">Sessiz</string>
     <string name="hdcp_checking_dialog_title">HDCP denetimini ayarla</string>
     <string name="hdcp_checking_title">HDCP denetimi</string>
     <string name="headset">Mikrofonlu kulaklık</string>
