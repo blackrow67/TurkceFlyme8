@@ -88,8 +88,7 @@
 	<string name="copy">Kopyala</string>
 	<string name="corner_mark">Simge köşe işareti</string>
     <string name="couldnt_launch">İşlem başlatılamadı</string>
-	<string name="create_folder">Grup</string>
-    <string name="create_folder_button">GRUP</string>
+	<string name="create_folder">Grupla</string>
     <string name="create_folder_with">Şu öğeyle klasör oluştur: %1$s</string>
     <string name="custom_actions">Özel işlemler</string>
 	<string name="create_folder_button">Birleştir</string>
@@ -120,7 +119,6 @@
     <string name="folder_opened">Klasör açıldı, %1$d x %2$d</string>
 	<string name="folder_other">Diğer</string>
     <string name="folder_read">Okumak</string>
-    <string name="folder_renamed">Folder renamed to %1$s</string>
     <string name="folder_shopping">Alışveriş</string>
     <string name="folder_social_im">Sosyal Medya</string>
     <string name="folder_sports_health">Sağlık</string>
@@ -448,7 +446,6 @@
     <string name="styles_wallpaper_button_text">Stiller ve duvar kağıtları</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="task_contents_description_with_remaining_time">%1$s, %2$s</string>
-    <string name="productivity_folder">Verimlilik</string>
 	<string name="time_left_for_app">Bugün %1$s kaldı</string>
 	<string name="tools_folder">Araçlar</string>
 	<string name="toast_unenable_create_folder1">Tek uygulama klasörle birleştirilemez</string>
