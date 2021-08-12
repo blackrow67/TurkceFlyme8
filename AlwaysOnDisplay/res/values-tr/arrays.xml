@@ -57,7 +57,7 @@
     </string-array>
 	    <string-array name="noti_anim">
         <item>hiçbiri</item>
-        <item>ekranı aç</item>
+        <item>ekranı uyandır</item>
         <item>daire</item>
         <item>kenar ışığı</item>
     </string-array>
