@@ -30,7 +30,7 @@
     <string name="alwaysUse">Bu seçeneği varsayılan olarak kullan</string>
 	<string name="aod_calendar_txt">Miladi takvim</string>
     <string name="aod_choose_style">AOD stilini seçin</string>
-    <string name="aod_confirm_btn_txt">Uygulamalar</string>
+    <string name="aod_confirm_btn_txt">Uygula</string>
     <string name="aod_delete">sil</string>
     <string name="aod_delete_records">kayıtları %s sil</string>
     <string name="aod_incoming_noti_anim">aod bildirim alma efekti</string>
@@ -42,15 +42,15 @@
     <string name="aod_notification_txt">Bildirimler</string>
     <string name="aod_personal_signature_four">"STAY
 TRUE"</string>
-    <string name="aod_personal_signature_one">"追求
-源于
-热爱"</string>
-    <string name="aod_personal_signature_three">"追求极致
-轻易不说完美"</string>
-    <string name="aod_personal_signature_two">梦想</string>
+    <string name="aod_personal_signature_one">"FLYME
+BIR
+SEVDADIR"</string>
+    <string name="aod_personal_signature_three">"İnandığın gibi
+Yaşa"</string>
+    <string name="aod_personal_signature_two">Rüya</string>
     <string name="aod_res_not_ready">Kaynak hazırlanıyor. Lütfen daha sonra tekrar deneyiniz.</string>
     <string name="aod_style_select_title">AOD Stili</string>
-    <string name="aod_style_settings_success">Başarılı uygulama</string>
+    <string name="aod_style_settings_success">Başarıyla uygulandı</string>
     <string name="aod_time_txt">Zaman</string>
     <string name="aod_type_animals">Alive</string>
     <string name="aod_type_classic_clock">Klasik Sadelik</string>

@@ -338,7 +338,7 @@ Cihazları bir araya getirmeniz (genellikle sırt sırta) ve ekranınıza dokunm
     <string name="another_migration_already_in_progress">Başka bir taşıma işlemi zaten çalışıyor.</string>
     <string name="aod_and_lockscreen_title">AOD ve Kilit Ekranı</string>
     <string name="aod_notification_switch">Bildirimleri göster</string>
-	<string name="aod_coming_notification_style">Aod bildirim animasyonu</string>
+	<string name="aod_coming_notification_style">AOD bildirim animasyonu</string>
     <string name="aod_switch">Ekranı her zaman açık tut</string>
     <string name="aod_text">Beklemedeyken anımsatıcı göster</string>
 	<string name="aod_display_mode_always">Her zaman göster</string>
