@@ -73,6 +73,7 @@
     <string name="allow_rotation_title">Ana ekranı döndürmeye izin ver</string>
     <string name="alwaysUse">Bu seçeneği varsayılan olarak kullan</string>
     <string name="app_downloading_title">%1$s indiriliyor, %2$s tamamlandı</string>
+	<string name="app_info">Uygulama hakkında</string>
     <string name="app_info_drop_target_label">Uygulama bilgileri</string>
     <string name="app_name">Launcher3</string>
 	<string name="application_name">Sistem Başlatıcı</string>
