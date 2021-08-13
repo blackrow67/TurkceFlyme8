@@ -1,5 +1,5 @@
-
-	<string name="ad_download_settings_title">Tavsiye edilen uygulamalar</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 	<string name="cleaner_auto_clean_notify_to_clean_content_text">Temizlemek için dokunun</string>
 	<string name="cleaner_auto_clean_notify_to_cleaner_title">%1$s gereksiz dosya bulundu. Temizlemeniz önerilir.</string>
 	<string name="cleaner_category_select_all">Hepsi %1$s</string>
@@ -976,11 +976,23 @@ Daha fazla boş alan açın"</string>
     <string name="notify_title_unread_blocked_message">"SMS engellendi: &lt;font color='#ff6c00'>%1$s&lt;/font>"</string>
     <string name="notify_title_web_push_message">"New &lt;font color='#ff6c00'>WAP pushed message&lt;/font> blocked"</string>
     <string name="now_slimming">Temizle</string>
+	<string name="oaid_f9_access_head">İzlenmesine izin verilen uygulamalar</string>
+    <string name="oaid_f9_access_summary">Uygulamalar ve platformlar arasında ilgi ve tercih bilgilerinizi senkronize etmek için uygulamaların anonim cihaz kimliği almasına izin verin</string>
+    <string name="oaid_f9_access_title">Uygulama izlemeye izin ver</string>
+    <string name="oaid_f9_grant_dialog_allow_forever">İzin ver</string>
+    <string name="oaid_f9_grant_dialog_denied">Reddet</string>
+    <string name="oaid_f9_grant_dialog_message">The application will obtain an anonymous device identification, which can synchronize your interest and preference information across applications and platforms</string>
+    <string name="oaid_f9_grant_dialog_title">%1$s request tracking to provide personalized advertising and other recommendation services</string>
+    <string name="oaid_f9_menu_all_allow">Hepsine izin ver</string>
+    <string name="oaid_f9_menu_all_denied">Hepsini reddet</string>
+    <string name="oaid_f9_no_app">Uygulama yok</string>
+    <string name="oaid_f9_settings">Uygulama izleme kontrolü</string>
+    <string name="oaid_f9_tip">Sistem, üçüncü şahıs uygulamaları için hiçbir kişisel bilginizle ilişkilendirilmeyecek bir anonim cihaz kimliği (OAID) sağlayacaktır. Anonim cihaz kimliği aracılığıyla uygulama, kişiselleştirilmiş reklamcılık ve diğer öneri hizmetleri sağlamak için ilgi ve tercih bilgilerinizi uygulamalar ve platformlar arasında senkronize edebilir.</string>
     <string name="oaid_access_dialog_cancel">İptal et</string>
     <string name="oaid_access_dialog_message">"İzin verilmediğinde, aynı miktarda reklam yine de sağlanır, ancak kişiselleştirilmez. Bazı uygulamaların kişiselleştirmesi de etkilenir"</string>
     <string name="oaid_access_dialog_ok">Tamam</string>
-    <string name="oaid_access_dialog_title">Disallow to read device identifier?</string>
-    <string name="oaid_access_title">Allow to read device identifier</string>
+    <string name="oaid_access_dialog_title">Cihaz tanımlayıcısını okumaya izin ver?</string>
+    <string name="oaid_access_title">Cihaz tanımlayıcısını okumaya izin ver</string>
     <string name="oaid_reset_dialog_cancel">İptal et</string>
     <string name="oaid_reset_dialog_message">"After reset, ads and some apps' personalization need to learn your interests again"</string>
     <string name="oaid_reset_dialog_ok">Sıfırla</string>
@@ -1264,7 +1276,7 @@ Daha fazla boş alan açın"</string>
     <string name="shortcut_settings_key">Hızlandırıcı kısayolu</string>
     <string name="similar_photo">Benzer fotoğraflar</string>
     <string name="similar_pic_desc_text">Şarj olurken otomatik tarama yapar ve benzer resimleri filtreler, telefonunuzun yönetimini daha kolay ve daha hızlı hale getirir</string>
-    <string name="smart_bg_introduction">Akıllı Arka Plan; uygulamaların otomatik başlama ve çalışma zamanlarını izler, arka plan işlemleri için belirli izinleri kısıtlayabilir ve güçten ve bellekten tasarruf etmek için belirli uygulamaları donurabilir veya kapatabilir</string>
+    <string name="smart_bg_introduction">Akıllı Arka Plan; uygulamaların otomatik başlama ve çalışma zamanlarını izler, arka plan işlemleri için belirli izinleri kısıtlayabilir ve güçten ve bellekten tasarruf etmek için belirli uygulamaları dondurabilir veya kapatabilir</string>
     <string name="smart_bg_mode0">Akıllı Arka Plan (önerilir)</string>
     <string name="smart_bg_mode0_group">Akıllı Arka plan tarafından izlenen uygulamalar: %1$d</string>
     <string name="smart_bg_mode1">Arka planda çalıştırmaya izin ver</string>
@@ -1758,5 +1770,3 @@ En son kullanım: %2$s"</string>
     <string name="x_minute">%1$s dak</string>
     <string name="x_second">%1$s saniye</string>
 </resources>
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
