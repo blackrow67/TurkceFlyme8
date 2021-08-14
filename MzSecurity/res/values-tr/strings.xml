@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="ad_download_settings_title">Tavsiye edilen uygulamalar</string>
 	<string name="cleaner_auto_clean_notify_to_clean_content_text">Temizlemek için dokunun</string>
 	<string name="cleaner_auto_clean_notify_to_cleaner_title">%1$s gereksiz dosya bulundu. Temizlemeniz önerilir.</string>
 	<string name="cleaner_category_select_all">Hepsi %1$s</string>
@@ -828,9 +829,11 @@ Daha fazla boş alan açın"</string>
     <string name="mz_permission_always_allow">Herzaman izin ver</string>
     <string name="mz_permission_apply">İzin talebi</string>
     <string name="mz_permission_deny">Reddet</string>
+	<string name="mz_permission_inform_f9">Temel hizmetleri sağlamak için bu uygulamanın aşağıdaki izinlere başvurması gerekir</string>
     <string name="mz_permission_message_content">%1$s, %2$s için %3$d izin istiyor</string>
     <string name="mz_permission_message_supplement">%1$s için %2$s %3$d izinleri gerekli</string>
     <string name="mz_permission_policy_description">Yukarıdaki fonksiyonlara ve hizmetlere ulaşmak için,%1$s (on dört yaşına ulaşmamış bir çocuğun vasisi tarafından onaylanmalıdır) kabul etmeniz gerekir.</string>
+	<string name="mz_permission_policy_description_f9">Uygulamayı kullanmadan önce with %1$s (ile anlaşmanız gerekmektedir (on dört yaşını doldurmamış bir çocuk için velisi tarafından onay alınması gerekir)</string>
     <string name="mz_permission_title_supplement"> aşağıdaki izinleri talep ediyor</string>
     <string name="mz_permission_title_terms">İzinler ve açıklamalar</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
@@ -865,7 +868,7 @@ Daha fazla boş alan açın"</string>
     <string name="mz_pm_set_gprs_on">Hücresel veriyi aç</string>
     <string name="mz_pm_set_wifi_on">"WLAN'ı aç"</string>
     <string name="mz_pm_wlan">WLAN</string>
-    <string name="mz_privacy_policy">Meizu Privacy Policy</string>
+    <string name="mz_privacy_policy">Meizu Gizlilik Politikası</string>
     <string name="mz_reject">Çıkış</string>
     <string name="mz_share_view_checkbox_text">Paylaştıktan sonra sil</string>
     <string name="mz_share_view_title">Paylaş</string>
