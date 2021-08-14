@@ -4615,6 +4615,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="set_secrets_mode_pwd_guide_title3">Gizlilik modu parola ayarına devam et</string>
     <string name="setting_dialog_delete">Sil</string>
     <string name="setting_progress_message_clean">Temizleniyor, lütfen bekleyin</string>
+    <string name="settings_app_name">Ayarlar</string>
     <string name="settings_backup">Yedekleme ayarları</string>
     <string name="settings_backup_summary">Ayarlarımı yedekle</string>
     <string name="settings_button">Ayarlar</string>
