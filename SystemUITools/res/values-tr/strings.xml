@@ -137,8 +137,6 @@ Kilit ekranı ayarlarını otomatik olarak geri yüklemek için sürüş modunda
     <string name="game_mode_end_call">Son</string>
 	<string name="game_mode_felt_summary">Oyun içi işlemler için dokunsal geri bildirim sağlayın</string>
     <string name="game_mode_felt_title">Oyun İçi Titreşim</string>
-    <string name="game_mode_felt_summary">Oyun için işlemler için dokunsal geri bildirim sağla</string>
-    <string name="game_mode_felt_title">Dokunsal oyun</string>
     <string name="game_mode_game_accelerate_detail">"Etkinleştirildiğinde, Oyun Hızlandırıcı şunları yapacaktır:
 
  1. CPU ve GPU FM stratejisini optimize eder ve oyunun akıcı ve tutarlı olmasına en yüksek önceliği verir. 
@@ -275,7 +273,7 @@ Kilit ekranı ayarlarını otomatik olarak geri yüklemek için sürüş modunda
     <string name="lightweight_open_item_title_application_change">Üst üste uygulama</string>
     <string name="lightweight_open_item_title_horizontal_open_notification">Bildirimleri Yatay Aç</string>
     <string name="lightweight_open_item_title_long_click_quick_setting">Uzun Basma Anahtarı</string>
-    <string name="lightweight_open_item_title_notification">Hızlı Açık Bildirimler</string>
+    <string name="lightweight_open_item_title_notification">Uygulamaya Hızlı Bakış</string>
     <string name="lightweight_open_item_title_setting">Ayarlara Geçiş</string>
     <string name="lightweight_open_item_title_share">Şununla Paylaş</string>
     <string name="lightweight_open_item_title_text">Yazı Faliyeti</string>
