@@ -1192,6 +1192,7 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="monitoring_title_device_owned">Cihaz yönetimi</string>
     <string name="monitoring_title_profile_owned">Profil izleme</string>
     <string name="more_item_label">Daha fazla</string>
+	<string name="more_setting">Ayarlar</string>
     <string name="mouth">Ay</string>
     <string name="mr_button_content_description">Yayınla düğmesi</string>
     <string name="mr_cast_button_connected">Yayınla düğmesi. Bağlandı</string>
@@ -1379,6 +1380,17 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
     <string name="overview">Genel Bakış</string>
     <string name="percentage">%</string>
+	<string name="permission_type_edit_contact">Kişileri düzenler</string>
+    <string name="permission_type_etc">vb.</string>
+    <string name="permission_type_just">Şu anda</string>
+    <string name="permission_type_location">Konum</string>
+    <string name="permission_type_photo">Kamera kullanımda</string>
+    <string name="permission_type_read_contact">Rehberi okuyor</string>
+    <string name="permission_type_read_message">Mesajları okuyor</string>
+    <string name="permission_type_read_share_plate">Panoyu okuyor</string>
+    <string name="permission_type_record">Kayıt</string>
+    <string name="permission_type_using">Devam etmekte</string>
+    <string name="permission_type_write_share_plate">Panoya yazıyor</string>
     <string name="phone_hint">Telefon için, simgeden hızlıca kaydırın</string>
     <string name="phone_label">telefonu aç</string>
     <string name="picture_color_mode">Resim renk modu</string>
@@ -1464,6 +1476,12 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcının ana makine adını girin</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Profil izlenebilir</string>
+	<string name="qs_bluetooth_bonded">Eşleşmiş cihazlar</string>
+    <string name="qs_bluetooth_usable">Kullanılabilir Cihazlar</string>
+    <string name="qs_control_center">Kontrol Merkezi</string>
+    <string name="qs_customize">"Hızlı Ayarlar'da uzun basma özelleştirmesine izin ver"</string>
+    <string name="qs_customize_info">Bilgi</string>
+    <string name="qs_customize_remove">Sil</string>
     <string name="qs_dnd_keep">Koru</string>
     <string name="qs_dnd_prompt_app">Rahatsız Etmeyin ayarı bir uygulama (%s) tarafından açıldı.</string>
     <string name="qs_dnd_prompt_auto_rule">Rahatsız Etmeyin ayarı bir otomatik kural (%s) tarafından açıldı.</string>
@@ -1569,6 +1587,7 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="quick_settings_ui_mode_night_label">Koyu tema</string>
     <string name="quick_settings_ui_mode_night_label_battery_saver">"Koyu tema
 Pil tasarrufu"</string>
+    <string name="quick_settings_unconnected_label">Bağlı değil...</string>
     <string name="quick_settings_user_label">Ben</string>
     <string name="quick_settings_user_new_user">Yeni kullanıcı</string>
     <string name="quick_settings_user_title">Kullanıcı</string>
@@ -1915,6 +1934,7 @@ Telefon şu koşullarda çok ısınabilir:
     <string name="tuner_toast">"Tebrikler! Sistem Kullanıcı Arayüzü Ayarlayıcı Ayarlar'a eklendi"</string>
     <string name="tuner_warning">Sistem Kullanıcı Arayüzü Ayarlayıcı, Android kullanıcı arayüzünde değişiklikler yapmanız ve arayüzü özelleştirmeniz için ekstra yollar sağlar. Bu deneysel özellikler değişebilir, bozulabilir veya gelecekteki sürümlerde yer almayabilir. Dikkatli bir şekilde devam edin.</string>
     <string name="tuner_warning_title">Bazıları için eğlenceliyken diğerleri için olmayabilir</string>
+    <string name="unimportant_notification">Önemsizler</string>
     <string name="unknown">Bilinmiyor</string>
     <string name="unknown_albumTitle">Bilinmeyen albüm</string>
     <string name="unknown_artist">Bilinmeyen sanatçı</string>
