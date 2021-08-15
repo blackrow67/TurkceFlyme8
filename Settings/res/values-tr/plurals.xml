@@ -141,8 +141,8 @@
         <item quantity="one">Kapalı %d kategori</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d günlük bildirimler</item>
-        <item quantity="one">~%d günlük bildirim</item>
+        <item quantity="other">günlük bildirimler ~%d</item>
+        <item quantity="one">günlük bildirim ~%d</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
         <item quantity="other"> haftalık bildirimler ~%d</item>
