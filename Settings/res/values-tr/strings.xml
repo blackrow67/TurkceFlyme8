@@ -804,6 +804,7 @@ Uygulamalar:
     <string name="billing_cycle_less_than_one_day_left">1 günden az kaldı</string>
     <string name="billing_cycle_none_left">Zaman kalmadı</string>
     <string name="ble_scan_notify_text">Sistem uygulamaları ve hizmetleri, konum doğruluğunu iyileştirmek için Bluetooth cihazları yine de algılayabilir. Bu ayarı, LINK_BEGINtarama ayarlarındanLINK_END değiştirebilirsiniz.</string>
+    <string name="block_preference_title">Bildirimlere izin ver</string>
     <string name="blue_light_end_time">Bitiş Zamanı</string>
     <string name="blue_light_immediately_invoke_title">Göz dostu modunu etkinleştir</string>
     <string name="blue_light_reduction_summary">Gözlerinizi korur 1ve daha rahat uyumanıza yardımcı olur.</string>
@@ -1168,6 +1169,7 @@ Seçimi"</string>
     <string name="change_wifi_state_app_detail_switch">Uygulamanın Kablosuz bağlantıyı kontrol etmesine izin ver</string>
     <string name="change_wifi_state_title">Wi-Fi kontrolü</string>
 	<string name="channel_group_notifications_off_desc">İsteğiniz üzerine Android, bu bildirim grubunun bu cihazda görünmesini engelliyor</string>
+    <string name="channel_group_switch_label">Bildirimlere izin ver</string>
     <string name="channel_notifications_off_desc">İsteğiniz üzerine Android, bu kategorideki bildirimlerin bu cihazda görünmesini engelliyor</string>
     <string name="channel_remind_option_lights">Yanıp sönen ışık</string>
     <string name="channel_remind_option_sound">Ses</string>
