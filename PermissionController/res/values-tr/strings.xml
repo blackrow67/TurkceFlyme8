@@ -150,7 +150,7 @@
     <string name="flyme_auto_revoke_summary">Uygulamayı birkaç ay kullanmadığınızda tüm izinleri otomatik olarak kaldır</string>
     <string name="flyme_detail_mes_include">Include</string>
     <string name="flyme_grant_app_message_title">%1$s %2$s İzin ver ?</string>
-    <string name="flyme_grant_background_location_title">Arka planda konum bilgilerini al</string>
+    <string name="flyme_grant_background_location_title">Arka planda konum bilgilerine erişir</string>
     <string name="flyme_grant_calendar_title">Takviminize erişin</string>
     <string name="flyme_grant_calllog_title">Çağrı geçmişinize erişin</string>
     <string name="flyme_grant_camera_title">Kamerayı kullan</string>
@@ -159,9 +159,9 @@
     <string name="flyme_grant_dialog_button_allow_one_time">Bir kez izin verildi</string>
     <string name="flyme_grant_dialog_button_no_upgrade">Yalnızca kullanımdayken izinli tutun</string>
     <string name="flyme_grant_dialog_button_no_upgrade_one_time">Bir kez izin vermeye devam et</string>
-    <string name="flyme_grant_location_title">Konum bilgilerini al</string>
+    <string name="flyme_grant_location_title">Konum bilgilerine erişir</string>
     <string name="flyme_grant_microphone_title">Ses kaydet</string>
-    <string name="flyme_grant_phone_title">Arama yap ve aramaları yönetmesine</string>
+    <string name="flyme_grant_phone_title">Arama yapmasına ve aramaları yönetmesine</string>
     <string name="flyme_grant_sensor_title">Hayati belirtilerinizle ilgili sensör verilerine erişin</string>
     <string name="flyme_grant_sms_title">Bilgileri gönder ve görüntüle</string>
     <string name="flyme_grant_storage_title">Telefonunuzdaki fotoğraflara, medya içeriğine ve dosyalara erişir</string>
@@ -410,8 +410,8 @@
 	<string name="mtrl_picker_cancel">İptal</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
     <string name="never_ask_again">Tekrar sorma</string>
-	<string name="net_permission_message">Kablosuz ağ ve mobil ağ bağlantısı içerebilir</string>
-	<string name="net_permission_title">%1$s ile internet bağlantısına izin ver?</string>
+	<string name="net_permission_message">Kablosuz ağ ve mobil ağ bağlantısına erişebilir</string>
+	<string name="net_permission_title">%1$s için internet bağlantısına izin ver?</string>
     <string name="new_permissions_category">Yeni izinler</string>
     <string name="no_apps">Uygulama yok</string>
     <string name="no_apps_allowed">Hiçbir uygulamaya izin verilmedi</string>
@@ -423,7 +423,7 @@
     <string name="no_permissions_denied">Hiçbir izin reddedilmedi</string>
     <string name="no_special_app_access">Özel uygulama erişimi yok</string>
     <string name="not_set">Ayarlanmadı</string>
-	<string name="notification_permission_message">Bip, titreşim ve kırmızı nokta hatırlatıcı içerebilir</string>
+	<string name="notification_permission_message">Bip, titreşim ve bildirim rozetlerine erişebilir</string>
     <string name="notification_permission_title">%1$s bildirim göndermesine izin ver?</string>
     <string name="notify_msg">Bildirimler</string>
     <string name="ok">Tamam</string>
@@ -621,7 +621,7 @@ Son olarak uygulama kullanılırken erişildi"</string>
 	<string name="title_activity_app_sec">Uygulamalar</string>
 	<string name="unknown_apps_dlg_text">Güvenlik nedeniyle, telefonunuz bilinmeyen kaynaklardan gelen uygulamaları engelleyecek şekilde ayarlanmıştır..</string>
     <string name="use_camera">Fotoğraf veya video çekin</string>
-    <string name="use_location">Konum bilgilerini al</string>
+    <string name="use_location">Konum bilgilerine erişir</string>
     <string name="use_microphone">Ses kaydet</string>
     <string name="use_storage">Telefon hafızası</string>
     <string name="use_storage_des">Fotoğrafları, medya içeriklerini ve dosyaları oku veya değiştir</string>
