@@ -1039,4 +1039,10 @@
         <item>Simgenin içinde göster</item>
         <item>Gösterme</item>
     </string-array>
+	<string-array name="apps_filter_spinner_items_text">
+        <item>En son gönderen</item>
+        <item>En sık gönderen</item>
+        <item>Kapalı</item>
+        <item>Bütün uygulamalar</item>
+    </string-array>
 </resources>

@@ -477,6 +477,15 @@ Cihazları bir araya getirmeniz (genellikle sırt sırta) ve ekranınıza dokunm
     <string name="applock">Uygulama kilidi</string>
     <string name="applock_category">Kilitlenen uygulamalar</string>
     <string name="apply">Uygula</string>
+	<string name="apps_allow_badge_notification">Bildirim rozetlerine izin verilir</string>
+    <string name="apps_allow_heads_up_notification">Kayan bildirimlere izin verilir</string>
+    <string name="apps_allow_lock_screen_notification">Kilit ekranı bildirimlerine izin verilir</string>
+    <string name="apps_allow_ongoing_notification">Yapışkan bildirimlere izin verilir</string>
+    <string name="apps_disallow_badge_notification">Bildirim rozetleri kapalı</string>
+    <string name="apps_disallow_heads_up_notification">Kayan bildirimler devre dışı bırakıldı</string>
+    <string name="apps_disallow_lock_screen_notification">Kilit ekranındaki bildirimler devre dışı bırakıldı</string>
+    <string name="apps_disallow_notify">İzin bildirimleri devre dışı bırakıldı</string>
+    <string name="apps_disallow_ongoing_notification">Yapışkan bildirimler devre dışı bırakıldı</string>
     <string name="apps_storage">Uygulama depolaması</string>
     <string name="apps_summary">%1$d uygulama yüklü</string>
     <string name="apps_summary_example">24 uygulama yüklendi</string>
@@ -1158,9 +1167,15 @@ Seçimi"</string>
     <string name="change_wifi_state_app_detail_summary">Bu uygulamanın kablosuz bağlantıyı açmasına veya kapatmasına, kablosuz ağları taramasına, eklemesine veya kaldırmasına, kablosuz ağlara bağlanmasına ya da yalnızca yerel hotspot bağlantısı başlatmasına izin verin</string>
     <string name="change_wifi_state_app_detail_switch">Uygulamanın Kablosuz bağlantıyı kontrol etmesine izin ver</string>
     <string name="change_wifi_state_title">Wi-Fi kontrolü</string>
-    <string name="channel_group_notifications_off_desc">İsteğiniz üzerine Android, bu bildirim grubunun bu cihazda görünmesini engelliyor</string>
+	<string name="channel_group_notifications_off_desc">İsteğiniz üzerine Android, bu bildirim grubunun bu cihazda görünmesini engelliyor</string>
     <string name="channel_notifications_off_desc">İsteğiniz üzerine Android, bu kategorideki bildirimlerin bu cihazda görünmesini engelliyor</string>
-    <string name="charge_length_format">%1$s önce</string>
+    <string name="channel_remind_option_lights">Yanıp sönen ışık</string>
+    <string name="channel_remind_option_sound">Ses</string>
+    <string name="channel_remind_option_title">Uyarı seçenekleri</string>
+    <string name="channel_remind_option_vibration">Titreşim</string>
+    <string name="channel_summary_not_sent_recently">Yakınlarda yok</string>
+    <string name="channel_title">Bildirim türleri</string>
+	<string name="charge_length_format">%1$s önce</string>
     <string name="charging">Şarj oluyor</string>
     <string name="charging_sounds_title">Şarj olma sesi ve titreşim</string>
     <string name="check_supported_links">Desteklenen bağlantıları görüntüle</string>
@@ -2262,6 +2277,7 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="hbm_dialog_warnings">Yüksek Parlaklık Modu, ekran yaşlanmasını hızlandırır, uzun süre izin vermek ekrana onarılamaz bir hasara neden olabilir</string>
     <string name="hbm_guide_and_warnings">"Yüksek Parlaklık Modu daha yüksek ışıklı ortamlarda ekran içeriğini görmek için yardımcı olur. Yükseklik Parlaklık Modunu uzun süre etkinleştirmek, ekranın onarılamaz bir hasara neden olabilir 
 İpuçları: Yüksek Parlaklık Modu, yalnızca otomatik parlaklık etkinleştirildiğinde etkilidir"</string>
+    <string name="hbm_summary">Yüksek ışık ortamında ekran parlaklığını daha da artırır.</string>
     <string name="hbm_switch_text">Yüksek ışık ortamında HBM etkinleştir</string>
     <string name="hbm_title">Yüksek Parlaklık Modu</string>
     <string name="hdcp_checking_dialog_title">HDCP denetimini ayarla</string>
@@ -2284,6 +2300,7 @@ Otomatik yedeklemeyi açtığınızda, cihaz ve uygulama verileri periyodik olar
     <string name="hide_fringe_title">Ekran çentiğini gizle</string>
     <string name="hide_silent_icons_summary">Sessiz bildirimlerdeki simgeler durum çubuğunda gösterilmez</string>
     <string name="hide_silent_icons_title">Sessiz bildirimlerdeki simgeleri gizle</string>
+    <string name="hide_system_apps">Sistem hizmet uygulamalarını gizle</string>
     <string name="hide_system_server_app">Sistem hizmetini gizle</string>
     <string name="hifi_auto">Otomatik</string>
     <string name="hifi_auto_summary">Akıllı eşleşme</string>
@@ -2944,6 +2961,7 @@ Bu cihazda başka kullanıcılar da var.
     <string name="meid_multi_sim">MEID (SIM yuvası %1$d)</string>
     <string name="meizu_card">mLiteSIM</string>
     <string name="meizu_device_dal_title">Cihaz adı</string>
+	<string name="meizu_info_summary">Yasal beyanlar, sözleşmeler vb.</string>
     <string name="mem_details_title">Bellek ayrıntıları</string>
     <string name="memory">RAM</string>
     <string name="memory_app">Uygulamalar</string>
@@ -4590,6 +4608,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="service_evaluation">Yorum</string>
     <string name="service_foreground_processes">%1$s kull.</string>
     <string name="service_info">Hizmet geçmişi</string>
+	<string name="service_info_summary">Onarım merkezleri, özel mağazalar vb..</string>
     <string name="service_loading">Bilgiler yükleniyor</string>
     <string name="service_manage">Ayarlar</string>
     <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlar'a dokunun."</string>
@@ -4683,6 +4702,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="show_screen_updates">Yüzey güncellemelerini göster</string>
     <string name="show_screen_updates_summary">Güncellenirken tüm pencere yüzeylerini yakıp söndür</string>
     <string name="show_style">Stil</string>
+	<string name="show_system_apps">Sistem hizmeti uygulamalarını göster</string>
     <string name="show_system_server_app">Sistemi göster</string>
     <string name="show_touches">Dokunmayı göster</string>
     <string name="show_touches_summary">Dokunmalarda görsel geri bildirim göster</string>
@@ -4847,6 +4867,10 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
     <string name="standby_bucket_summary">"Uygulamayı beklemeye alma durumu:  %s"</string>
     <string name="start_adjust">Kalibre Et</string>
     <string name="starting_android">Android başlatılıyor...</string>
+	<string name="state_title_all">Bütün uygulamalar</string>
+    <string name="state_title_blocked">Kapalı</string>
+    <string name="state_title_frequency">En sık gönderen</string>
+    <string name="state_title_recency">En son gönderilen</string
     <string name="status_awake_time">Uyanık geçen süre</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">Bluetooth adresi</string>
@@ -5077,7 +5101,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine bu ^4 birimini taşın
     <string name="style_suggestion_summary">Farklı stiller, duvar kağıtları ve daha fazlasını deneyin</string>
     <string name="style_suggestion_title">Pixel cihazınızı özelleştirin</string>
 	<string name="style_title">Bildirim modları</string>
-    <string name="style_title_badge">Kırmızı nokta uyarıları</string>
+    <string name="style_title_badge">Bildirim rozetleri</string>
     <string name="style_title_heads_up">Kayan bildirimler</string>
     <string name="style_title_lock_screen">Kilit ekranı Bildirimleri</string>
     <string name="style_title_ongoing">Yapışkan bildirimler</string>
@@ -5539,6 +5563,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
     <string name="user_exit_guest_dialog_remove">Kaldır</string>
     <string name="user_exit_guest_title">Misafir oturumunu kaldır</string>
     <string name="user_guest">Misafir</string>
+	<string name="user_help_summary">Becerileri, geri bildirimleri vb. kullanın.</string>
     <string name="user_image_choose_photo">Resim seç</string>
     <string name="user_image_photo_selector">Fotoğraf seçin</string>
     <string name="user_image_take_photo">Fotoğraf çek</string>
