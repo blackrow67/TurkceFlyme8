@@ -4870,8 +4870,8 @@ Cihazınızda yüklü durumdaki güvenilen bir kimlik bilgisi bunu mümkün kıl
 	<string name="state_title_all">Bütün uygulamalar</string>
     <string name="state_title_blocked">Kapalı</string>
     <string name="state_title_frequency">En sık gönderen</string>
-    <string name="state_title_recency">En son gönderilen</string
-    <string name="status_awake_time">Uyanık geçen süre</string>
+    <string name="state_title_recency">En son gönderilen</string>
+	<string name="status_awake_time">Uyanık geçen süre</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">Bluetooth adresi</string>
     <string name="status_data_network_type">Mobil veri ağı türü</string>
