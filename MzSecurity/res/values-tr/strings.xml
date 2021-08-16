@@ -49,6 +49,7 @@
     <string name="action_settings">Ayarlar</string>
     <string name="active_block_mode">Current mode</string>
     <string name="ad_download_desc_text">Tercihlerinizi öğrenip güvenilir uygulamaları önerir</string>
+	<string name="ad_download_settings_title">Önerilen uygulamalar</string>
     <string name="add_black">Numara ekle</string>
     <string name="add_phone_num_tag">Mark</string>
     <string name="add_sms_key_word">Anahtar kelime ekle</string>
@@ -76,7 +77,7 @@
     <string name="app_control_category_permission">Hassas izinleri kötüye kullanabilir</string>
     <string name="app_control_compatibility">Uyumluluk sorunları olabilir</string>
     <string name="app_control_empty_data">Şu anda önerilen yönetim uygulaması yok</string>
-    <string name="app_control_install_by_x">Install through %1$s</string>
+    <string name="app_control_install_by_x">%1$s aracılığı ile yüklendi</string>
     <string name="app_control_install_time_mm_dd">%1$s-%2$s</string>
     <string name="app_control_installer_unknown">Bilinmeyen yükleme kaynağı</string>
     <string name="app_control_instruction_button">Bunu biliyorum</string>
@@ -94,15 +95,15 @@
     <string name="app_control_not_frequent">Yaygın olarak kullanılmayan uygulamalar</string>
     <string name="app_control_permission">Hassas izni kötüye kullanabilir</string>
     <string name="app_control_permission_detail_call_x">Son 7 gün: %1$s kez</string>
-    <string name="app_control_permission_location">Arka planda konumlandırma</string>
+    <string name="app_control_permission_location">Arka planda konumu kullandı</string>
     <string name="app_control_permission_preview_call_x_y">Son 7 gün %1$s %2$s kez</string>
-    <string name="app_control_permission_read_call_log">Arka planda okuma arama kaydı</string>
-    <string name="app_control_permission_read_clipboard">Arka plan okuma panosu</string>
-    <string name="app_control_permission_read_contacts">Kişileri arka planda oku</string>
-    <string name="app_control_permission_read_sms">Arka planda SMS okuma</string>
+    <string name="app_control_permission_read_call_log">Arka planda arama kaydını okudu</string>
+    <string name="app_control_permission_read_clipboard">Arka planda panoyu okudu</string>
+    <string name="app_control_permission_read_contacts">Kişileri arka planda okudu</string>
+    <string name="app_control_permission_read_sms">Arka planda SMS okuyor</string>
     <string name="app_control_permission_read_write_external_storage">Dosyaları arkaplanda okuma ve yazma</string>
     <string name="app_control_permission_record_audio">Arka planda ses kaydı</string>
-    <string name="app_control_permission_write_clipboard">Write clipboard in the background</string>
+    <string name="app_control_permission_write_clipboard">Arka planda panoya yazıyor</string>
     <string name="anonymous_number">Anonymous numbers</string>
     <string name="apk_type_backup">Yedekle</string>
     <string name="apk_type_damged">Hasarlı</string>
@@ -112,6 +113,7 @@
     <string name="app_count">uygulama</string>
     <string name="app_desc_text">Şarj olurken otomatik tarama yapar ve nadiren kullanılan uygulamaları filtreler, telefonunuzun yönetimini daha kolay ve daha hızlı hale getirir</string>
     <string name="app_name">Güvenlik</string>
+	<string name="app_name_permission_dialog">Güvenlik</string>
     <string name="app_permission_manager">Uygulama izinleri</string>
     <string name="app_waken_allowed_from_cnt">%1$s uygulaması ile bağlantı kuruldu</string>
     <string name="app_waken_details_empty_txt">Bağlantılı başlatma geçmişi yok</string>
@@ -1292,6 +1294,7 @@ Daha fazla boş alan açın"</string>
     <string name="smart_card_detail_quick_app_title">"Çabuk uygulama sürümüyle değiştir
 Yer kazanmak için tam sürümü sil"</string>
     <string name="smart_card_key">Akıllı kart</string>
+	<string name="smart_card_summary_app_control">Cep telefonunuzu sorunsuz bir şekilde kullanmak için uygulamaları kolayca yönetin.</string>
     <string name="smart_card_summary_file">Temizlenen veriler kurtarılamaz</string>
     <string name="smart_card_summary_find_phone">Telefonunuzun yerini bulun, gizliliğinizi koruyun ve telefonunuzu bulun</string>
     <string name="smart_card_summary_multi_app">Uygulama klonlayıcı, hayatınızı ve işinizi dengeleyin</string>
@@ -1301,6 +1304,7 @@ Yer kazanmak için tam sürümü sil"</string>
     <string name="smart_card_summary_virus">Virüs saldırı riskleri olabilir</string>
     <string name="smart_card_summarye_se_family">Keep you away from spam calls/SMS</string>
     <string name="smart_card_title_app">Nadiren kullanılan uygulamalar</string>
+    <string name="smart_card_title_app_control">Uygulama yönetimi önerileri</string>
     <string name="smart_card_title_file">Seyrek görüntülenen büyük dosyalar</string>
     <string name="smart_card_title_find_phone">Telefon bulucu</string>
     <string name="smart_card_title_multi_app">Uygulama klonlayıcı</string>
