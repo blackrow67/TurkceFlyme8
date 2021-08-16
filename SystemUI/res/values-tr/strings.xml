@@ -997,6 +997,11 @@ sessiz"</string>
     <string name="location_is_in_using">Arka planda GPS kullanımı</string>
     <string name="location_kill_process">Uygulamayı kapat</string>
     <string name="lock_password_left_times">Parola girmek için %s deneme hakkınız kaldı!</string>
+    <string name="lock_screen_set_standard_clock">Kilit ekranı düzeni</string>
+    <string name="lock_screen_set_sub_style">Saat stili</string>
+    <string name="lock_screen_setting_to_display_lunar_date">Çin takvimini göster</string>
+    <string name="lock_screen_settings_lock_screen_pictorial">Poster Değiştir</string>
+    <string name="lock_screen_settings_to_change_wallpaper">Duvar Kağıdını Değiştir</string> 
     <string name="lock_tips_dialing">Çevriliyor</string>
     <string name="lockscreen_flyme_unlock_progress_dialog_message">Flyme hesabı doğrulanıyor</string>
     <string name="lockscreen_none">Yok</string>
@@ -1356,6 +1361,7 @@ Ayrıca, ağ etkinliğinizi izleyebilen bir VPN'ye de bağlısınız."</string>
     <string name="oem_unlock_enable">OEM kilit açma</string>
     <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
     <string name="okay">Tamam</string>
+	<string name="only_works_under_the_default_theme">Yalnızca varsayılan tema altında çalışır</string>
     <string name="ongoing_privacy_chip_content_multiple_apps">Uygulamalar şunları kullanıyor: %s.</string>
     <string name="ongoing_privacy_chip_content_single_app">%1$s şunları kullanıyor: %2$s.</string>
     <string name="ongoing_privacy_dialog_last_separator">" ve "</string>
