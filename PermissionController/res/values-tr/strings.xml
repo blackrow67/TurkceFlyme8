@@ -139,6 +139,13 @@
     <string name="deny_permission_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
     <string name="detailed_usage_link">Ayrıntılı kullanımı göster</string>
     <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
+    <string name="dlg_app_replacement_statement">"Yüklediğiniz uygulama başka bir uygulamanın yerini alacak.
+
+Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
+    <string name="dlg_check_app_message_on">%1$s, %2$s için izin istiyor.</string>
+    <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır.
+
+Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="encryption_unaware_confirmation_message">Not: Cihazınızı yeniden başlatırsanız ve ekran kilidi kullanıyorsanız, cihazınızın kilidini açmadan bu uygulama başlayamaz.</string>
     <string name="expand_button_title">Gelişmiş</string>
@@ -639,6 +646,47 @@ Son olarak uygulama kullanılırken erişildi"</string>
     <string name="system_warning">Bu izni reddederseniz cihazınızın temel özellikleri artık beklendiği gibi çalışmayabilir.</string>
 	<string name="status_bar_notification_info_overflow">999+</string>
 	<string name="title_activity_app_sec">Uygulamalar</string>
+	<string name="tab_all">Hepsi</string>
+    <string name="tab_other">Diğer</string>
+    <string name="tab_sensitive_permission">Hassas izinler</string>
+    <string name="tab_start_behavior">Başlangıc davranışı</string>
+    <string name="tag_current">Şimdi</string>
+    <string name="tag_nearest">En yakın</string>
+    <string name="ten">on</string>
+    <string name="ten_thousand">on bin</string>
+    <string name="text_accept">İzin ver</string>
+    <string name="text_btn_del">Sil</string>
+    <string name="text_btn_replace">Değiştir</string>
+    <string name="text_btn_still_install">Yinede yükle</string>
+    <string name="text_install_done">Yüklendi</string>
+    <string name="text_installing">Yükleniyor</string>
+    <string name="text_loading">Yükleniyor</string>
+    <string name="text_no_app">Yönetilecek uygulama yok</string>
+    <string name="text_prompt">Sor</string>
+    <string name="text_reject">Reddet</string>
+    <string name="text_safe">Yüklemeye devam edilsin?</string>
+    <string name="text_scan_done_fake_replace">Korsan uygulama</string>
+    <string name="text_scan_done_safe">Güvenli</string>
+    <string name="text_scan_done_virus">Virus</string>
+    <string name="text_scan_done_virus_replace">Virus</string>
+    <string name="text_version">"Sürüm: "</string>
+    <string name="text_virus">Virus</string>
+    <string name="text_virus_install_confirm">Uygulamada virüs algılandı, kuruluma devam edilsin mi?</string>
+    <string name="text_virus_install_confirm_tips">İpuçları</string>
+    <string name="thousand">bin</string>
+    <string name="title_activity_app_sec">Uygulamalar</string>
+    <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
+    <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
+    <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
+    <string name="title_sensitive_permission">Hassas izinleri kullanır</string>
+    <string name="title_sensitive_permission_notify">Hassas izin hatırlatıcısı</string>
+    <string name="title_use_allow_item">Apps allowed for %1$s only when using this app: %2$s</string>
+    <string name="unexpected_exception">Bilinmeyen istisna. Lütfen yeniden yüklemeyi deneyin.</string>
+    <string name="uninstall">Kaldır</string>
+    <string name="uninstall_app_sub">Bunu kaldır</string>
+    <string name="uninstall_application_title_sub">Uninstall the app and its clone</string>
+    <string name="uninstall_notice">Kaldırma işleminden sonra kalıntıları temizle</string>
+    <string name="uninstall_notice_sub">Clean remnants for both apps</string>
 	<string name="unknown_apps_dlg_text">Güvenlik nedeniyle, telefonunuz bilinmeyen kaynaklardan gelen uygulamaları engelleyecek şekilde ayarlanmıştır..</string>
     <string name="use_camera">Fotoğraf veya video çekin</string>
     <string name="use_location">Konum bilgilerine erişir</string>
