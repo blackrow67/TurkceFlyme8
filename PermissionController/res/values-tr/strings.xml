@@ -462,7 +462,7 @@
     <string name="op_record_audio">Ses kaydı</string>
     <string name="op_record_audio_des">Ses kaydı</string>
     <string name="op_setting">Sistem ayarları</string>
-    <string name="op_setting_des">Sistem ayarların erişim sağlar</string>
+    <string name="op_setting_des">Sistem ayarlarına erişim sağlar</string>
     <string name="op_shortcut">Masaüstü kısayolu</string>
     <string name="op_shortcut_des">Ana ekrana ekle</string>
     <string name="op_show_activity_on_locked_screen">Kilit ekranında görünümleri göster</string>
