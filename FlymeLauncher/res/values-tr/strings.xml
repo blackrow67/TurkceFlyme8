@@ -85,6 +85,7 @@
     <string name="bottom_work_tab_user_education_closed">Kapalı</string>
     <string name="bottom_work_tab_user_education_title">İş uygulamalarını burada bulabilirsiniz</string>
     <string name="cab_menu_delete_app">Uygulamayı Kaldır</string>
+	<string name="cancel_action">İptal</string>
 	<string name="cloned">klonlanmış</string>
 	<string name="copy">Kopyala</string>
 	<string name="corner_mark">Simge köşe işareti</string>
@@ -424,7 +425,14 @@
     <string name="recents_extend_un_blur">Bulanıklığı İptal Et</string>
     <string name="recents_extend_un_lock">Kilidi İptal Et</string>
     <string name="remote_action_failed">Başarısız: %1$s</string>
+	<string name="remove">Kaldır</string>
+    <string name="remove_cloned_app_message">Klonlanmış uygulamayı kaldırır, verilerini siler</string>
     <string name="remove_drop_target_label">Kaldır</string>
+	<string name="remove_drop_target_label">Remove</string>
+    <string name="remove_system_app_message_1">Kurtarma için Ayarlar'da arama yapabilirsiniz</string>
+    <string name="remove_system_app_message_2" />
+	<string name="restor_text">"Simgeler şimdi taşınamıyor"</string>
+    <string name="restore_button_text">TM</string>
 	<string name="rename_action">TAMAM</string>
     <string name="rename_folder_label">Klasör adı</string>
     <string name="rename_folder_title">Klasörü yeniden adlandır</string>
