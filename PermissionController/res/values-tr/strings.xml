@@ -31,6 +31,8 @@
     <string name="accessibility_service_dialog_bottom_text_single">%s ekranınızı, işlemlerinizi ve girişlerinizi görebilir, işlemler gerçekleştirebilir ve ekranı kontrol edebilir.</string>
     <string name="accessibility_service_dialog_title_multiple">%s erişilebilirlik uygulamalarının, cihazınıza tam erişimi var</string>
     <string name="accessibility_service_dialog_title_single">%s hizmetinin cihazınıza tam erişimi var</string>
+    <string name="account">Uygulama hesap bilgilerini oku</string>
+    <string name="account_des">Yüklü uygulamanın kullanıcı hesabını oku</string>
 	<string name="activity_recognition_des">Fiziksel aktivite verilerinizi erişir</string>
     <string name="activity_recognition_title">Fiziksel aktivite</string>
     <string name="additional_permissions">Ek izinler</string>
@@ -111,8 +113,8 @@
 	<string name="calendar_g_des">Takvimi oku veya değiştir</string>
     <string name="call">Rehbere Erişim</string>
     <string name="call_des">Tarifenizden ücretlendirilebilirsiniz</string>
-    <string name="call_log">Çağrı günlüklerini okur</string>
-    <string name="call_log_des">Çağrı geçmişini okur</string>
+    <string name="call_log">Çağrı günlüklerini oku</string>
+    <string name="call_log_des">Çağrı geçmişini oku</string>
     <string name="call_phone">Arama yapabilir</string>
     <string name="calllog_des">Çağrı geçmişini oku veya değiştir</string>
     <string name="calllog_title">Çağrı kayıtları</string>
@@ -120,9 +122,18 @@
     <string name="car_default_app_selected">Seçili</string>
     <string name="car_default_app_selected_with_info">Seçildi - %1$s</string>
     <string name="car_permission_selected">Seçili</string>
+	<string name="continue_confirm">Devam et</string>
     <string name="copy">Kopyala</string>
 	<string name="clipboard">Pano</string>
     <string name="clipboard_des">Panoyu oku ve yaz</string>
+	<string name="communication">İletişim</string>
+    <string name="confirm">TM</string>
+    <string name="confirm_net_permission_message">"Daha sonra Mobil Yönetici-Gizlilik ve İzinler-İzin Yönetimi'nde uygulamanın ağ izinlerini ayarlayabilirsiniz."</string>
+    <string name="confirm_net_permission_title">Are you sure to refuse %1$s to connect to the network?</string>
+    <string name="connection">Bağlan</string>
+    <string name="contacts">Rehberi oku</string>
+    <string name="contacts_des">İletişim bilgilerini oku</string>
+    <string name="contacts_g_des">Rehberi oku veya değiştir</string>
     <string name="current_permission_template">%1$s / %2$s</string>
     <string name="current_permissions_category">Geçerli izinler</string>
     <string name="date_time_set">Ayarla</string>
@@ -146,6 +157,7 @@
     <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır.
 
 Önceki tüm kullanıcı verileriniz kaydedilecek."</string>
+    <string name="done">Bitti</string>
     <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
     <string name="encryption_unaware_confirmation_message">Not: Cihazınızı yeniden başlatırsanız ve ekran kilidi kullanıyorsanız, cihazınızın kilidini açmadan bu uygulama başlayamaz.</string>
     <string name="expand_button_title">Gelişmiş</string>
@@ -187,7 +199,7 @@
     <string name="fuzzy_location_switch_off">Kapalı</string>
     <string name="fuzzy_location_switch_on">Açık</string>
     <string name="fuzzy_location_switch_tip">Tam konumlandırma :</string>
-    <string name="get_use_history">Cihaz kullanımını okur</string>
+    <string name="get_use_history">Cihaz kullanımını oku</string>
     <string name="grant_dialog_button_allow">İzin ver</string>
     <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
     <string name="grant_dialog_button_allow_background">Her zaman izin ver</string>
@@ -335,8 +347,8 @@
     <string name="mc_pm_s_sms">SMS gönder</string>
     <string name="mc_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mc_pm_set_gprs_on">Mobil ağı aç</string>
-    <string name="mc_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">"WIFI'ı aç"</string>
+    <string name="mc_pm_wlan">WIFI</string>
     <string name="mc_praised_message">Beğen</string>
     <string name="mc_pull_refresh">Yenilemek için aşağı çekin</string>
     <string name="mc_reject">Çıkış</string>
@@ -364,6 +376,7 @@
     <string name="menu_hide_system">Sisteme ait olanları gizle</string>
     <string name="menu_show_system">Sisteme ait olanları göster</string>
     <string name="message_staging">Uygulama hazırlanıyor…</string>
+	<string name="mobile_network">Mobil Veri</string>
     <string name="more_item_label">Daha fazla</string>
     <string name="mz_action_bar_multi_choice_cancel">İptal</string>
     <string name="mz_action_bar_multi_choice_select_all">Tümü</string>
@@ -389,7 +402,7 @@
     <string name="mz_permission_title_supplement">Aşağıdaki izinleri iste</string>
     <string name="mz_permission_title_terms">İzinler ve açıklamalar</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">WIFI</string>
     <string name="mz_permissiongroup_name_net">Ağ bağlantıları</string>
     <string name="mz_permissiongroup_name_other">Diğer</string>
     <string name="mz_pm_allow_check_app">Tamam</string>
@@ -418,8 +431,8 @@
     <string name="mz_pm_s_sms">SMS gönder</string>
     <string name="mz_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
     <string name="mz_pm_set_gprs_on">Hücresel veriyi aç</string>
-    <string name="mz_pm_set_wifi_on">"WLAN'ı aç"</string>
-    <string name="mz_pm_wlan">WLAN</string>
+    <string name="mz_pm_set_wifi_on">"WIFI'ı aç"</string>
+    <string name="mz_pm_wlan">WIFI</string>
     <string name="mz_privacy_policy">Meizu Gizlilik Politikası</string>
     <string name="mz_reject">Çıkış</string>
     <string name="mz_specific_permission_allow">Yine de izin ver</string>
@@ -499,7 +512,7 @@
     <string name="permission_description_summary_sensors">Bu izne sahip uygulamalar hayati belirtilerinizle ilgili sensör verilerine erişebilir</string>
     <string name="permission_description_summary_sms">Bu izne sahip uygulamalar SMS mesajları gönderebilir ve görüntüleyebilir</string>
     <string name="permission_description_summary_storage">Bu izne sahip uygulamalar, cihazınızdaki fotoğraflara, medyalara ve dosyalara erişebilir.</string>
-    <string name="permission_empty">Boş bilgi sağlayın</string>
+    <string name="permission_empty">Boş bilgi sağla</string>
     <string name="permission_list">İstenen izni kontrol edin</string>
     <string name="permission_list_title">İzin İstendi</string>
     <string name="permission_manager">İzin Yönetimi</string>
@@ -564,6 +577,11 @@ Son olarak uygulama kullanılırken erişildi"</string>
 	<string name="precise_positioning">Doğru konumlandırma</string>
     <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
 	<string name="privacy">Gizlilik</string>
+	<string name="r_calendar">Takvimi oku</string>
+    <string name="r_mms">MMS oku</string>
+    <string name="r_sms">SMS oku</string>
+    <string name="r_sms_mms">SMS ve MMS kayıtlarını oku</string>
+    <string name="r_sms_mms_des">SMS &amp; MMS Oku</string>
 	<string name="phone_g_des">Arama yapın, cep telefonu durumunu ve kimliğini oku</string>
 	<string name="read_account">Hesabı oku</string>
     <string name="read_calendar">Takvimi oku</string>
@@ -580,8 +598,9 @@ Son olarak uygulama kullanılırken erişildi"</string>
     <string name="request_role_current_default">Mevcut varsayılan</string>
     <string name="request_role_dont_ask_again">Tekrar sorma</string>
     <string name="request_role_set_as_default">Varsayılan olarak ayarla</string>
+	<string name="restore_dialog_text">%1$s kaldırıldı, yüklemek mi istiyorsunuz?</string>
     <string name="review_button_cancel">İptal</string>
-    <string name="review_button_continue">Devam</string>
+    <string name="review_button_continue">Devam et</string>
     <string name="role_assistant_description">Asistan uygulamaları, görüntülemekte olduğunuz ekrandaki bilgilere dayalı olarak size yardım edebilir. Bazı uygulamalar, entegre yardım sağlamak için hem başlatıcıyı hem de ses girişi hizmetlerini destekler.</string>
     <string name="role_assistant_label">Varsayılan asistan uygulaması</string>
     <string name="role_assistant_request_description">SMS, arama kaydına erişim sağlar</string>
@@ -622,6 +641,10 @@ Son olarak uygulama kullanılırken erişildi"</string>
     <string name="role_sms_request_description">"Kişilere, SMS'e, telefona erişim sağlar"</string>
     <string name="role_sms_request_title">%1$s varsayılan SMS uygulamanız olarak ayarlansın mı?</string>
     <string name="role_sms_short_label">SMS uygulaması</string>
+	<string name="s_mms">MMS gönder</string>
+    <string name="s_mms_des">ücretlendirmeye tabi olabilir</string>
+    <string name="s_sms">SMS gönder</string>
+    <string name="s_sms_des">ücretlendirmeye tabi olabilir</string>
 	<string name="security_privacy">İzinler</string>
     <string name="screen_overlay_button">Ayarları aç</string>
     <string name="screen_overlay_message">"Bu izin ayarını değiştirmek için ilk olarak Ayarlar > Uygulamalar'dan ekran yer paylaşımını kapatmanız gerekir"</string>
@@ -646,6 +669,10 @@ Son olarak uygulama kullanılırken erişildi"</string>
     <string name="system_warning">Bu izni reddederseniz cihazınızın temel özellikleri artık beklendiği gibi çalışmayabilir.</string>
 	<string name="status_bar_notification_info_overflow">999+</string>
 	<string name="title_activity_app_sec">Uygulamalar</string>
+    <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
+    <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
+    <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
+    <string name="title_use_allow_item">Apps allowed for %1$s only when using this app: %2$s</string>
 	<string name="tab_all">Hepsi</string>
     <string name="tab_other">Diğer</string>
     <string name="tab_sensitive_permission">Hassas izinler</string>
@@ -674,13 +701,8 @@ Son olarak uygulama kullanılırken erişildi"</string>
     <string name="text_virus_install_confirm">Uygulamada virüs algılandı, kuruluma devam edilsin mi?</string>
     <string name="text_virus_install_confirm_tips">İpuçları</string>
     <string name="thousand">bin</string>
-    <string name="title_activity_app_sec">Uygulamalar</string>
-    <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
-    <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
-    <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
     <string name="title_sensitive_permission">Hassas izinleri kullanır</string>
     <string name="title_sensitive_permission_notify">Hassas izin hatırlatıcısı</string>
-    <string name="title_use_allow_item">Apps allowed for %1$s only when using this app: %2$s</string>
     <string name="unexpected_exception">Bilinmeyen istisna. Lütfen yeniden yüklemeyi deneyin.</string>
     <string name="uninstall">Kaldır</string>
     <string name="uninstall_app_sub">Bunu kaldır</string>
