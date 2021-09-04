@@ -100,6 +100,7 @@
     <string name="date_time_set">Ayarla</string>
     <string name="default_scroll_format">Sayfa %1$d / %2$d</string>
     <string name="disabled_app_label">%1$s devre dışı</string>
+	<string name="derived_app_name">Sistem başlatıcı</string>
 	<string name="first_double_click_name">Güç ipuçları için çift tıklayın</string>
     <string name="first_double_click_tips_1">Uygulamaları hızlı başlat</string>
     <string name="first_double_click_tv_left_tips">Çift Tıklama</string>
@@ -112,6 +113,7 @@
 	<string name="folder_business">İş</string>
     <string name="folder_closed">Klasör kapatıldı</string>
     <string name="folder_created">Klasör oluşturuldu</string>
+	<string name="folder_default">Klasör</string>
 	<string name="folder_financial_planning">Planlama</string>
     <string name="folder_game">Oyun</string>
     <string name="folder_hint_text">Adsız Klasör</string>
@@ -120,7 +122,7 @@
     <string name="folder_name_format">Klasör: %1$s</string>
     <string name="folder_opened">Klasör açıldı, %1$d x %2$d</string>
 	<string name="folder_other">Diğer</string>
-    <string name="folder_read">Okumak</string>
+    <string name="folder_read">Okuma</string>
     <string name="folder_shopping">Alışveriş</string>
     <string name="folder_social_im">Sosyal Medya</string>
     <string name="folder_sports_health">Sağlık</string>
