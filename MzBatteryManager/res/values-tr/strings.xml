@@ -322,7 +322,7 @@
     <string name="normal_screen_on_time">Normal ekran açık kalma süresi</string>
     <string name="not_use_powerxtend">Devre dışı bırak</string>
     <string name="performance_mode">Performans modu</string>
-    <string name="permission_title">Permissions</string>
+    <string name="permission_title">İzinler</string>
     <string name="phone_active">Çalışırken</string>
     <string name="phone_call">Sesli arama</string>
     <string name="phone_call_power_ratio">Sesli aramalarda kullanılan güç:</string>
@@ -395,6 +395,7 @@
     <string name="screen_on_msg">Harita navigasyonu, video gözatma, oyun botları vb dahildir.</string>
     <string name="screen_on_time">Ekran açık kalma süresi</string>
     <string name="screen_usage">Ekran ve arkaplan tarafından kullanılan güç:</string>
+	<string name="screen_use_time">Ekran kullanım süresi</string>
     <string name="senior_power_save">Yüksek tasarruf</string>
     <string name="senior_power_save_subtitle">%30 çalışan uygulamaların güç kullanımını kes</string>
     <string name="settings">Ayarlar</string>
