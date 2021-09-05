@@ -630,7 +630,7 @@ yeterlidir."</string>
 İletişim kurmayı, eğlendirmeyi ve korumayı çok kolaylaştırın"</string>
     <string name="welcomepage_two_title">Tam özellikli</string>
     <string name="window_mode_settings_recents_title">Ayarlar</string>
-    <string name="window_mode_settings_title">Uygulamaya Hızlı Bak</string>
+    <string name="window_mode_settings_title">Uygulamaya Hızlı Bakış</string>
 	<string name="window_mode_double_tap_to_back_summary">Hızlı bakıştan çıkmak için boş alana çift dokunun.</string>
     <string name="window_mode_double_tap_to_back_title">Hızlı bakıştan çıkış</string>
     <string name="window_mode_keyboard_summary">Yatay ekranda sistem klavyesini kullan</string>
