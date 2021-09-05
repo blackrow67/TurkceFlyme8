@@ -560,9 +560,11 @@ Ekranın alt kısmında: Ana ekrana gitmek için yukarı kaydırın; çoklu gör
     <string name="slide_gesture_tips">Hızlı Bakışla Açma her zaman kullanılabilir</string>
     <string name="slide_gesture_turn_on">Etkin kıl</string>
     <string name="slide_gesture_turn_on_ignore">Şimdi Değil</string>
+	<string name="slide_launch_app_has_selected">Seçildi</string>
     <string name="slide_launch_app_preference_title">Hızlı Bakış Menüsü</string>
     <string name="slide_launch_app_selected">Seçilen uygulamalar</string>
     <string name="slide_launch_app_settings_summary">Menüde uygulamaları özelleştir</string>
+	<string name="slide_launch_app_tap_icon_to_add">Uygulama eklemek için simgeye dokunun</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_timeout">İstek zaman aşımı. Yeniden deneyin.</string>
     <string name="theme_loading">Flyme sizin için hazırlanıyor</string>
