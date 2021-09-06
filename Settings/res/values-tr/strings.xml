@@ -807,7 +807,7 @@ Uygulamalar:
     <string name="block_preference_title">Bildirimlere izin ver</string>
     <string name="blue_light_end_time">Bitiş Zamanı</string>
     <string name="blue_light_immediately_invoke_title">Göz dostu modunu etkinleştir</string>
-    <string name="blue_light_reduction_summary">Gözlerinizi korur 1ve daha rahat uyumanıza yardımcı olur.</string>
+    <string name="blue_light_reduction_summary">Gözlerinizi korur ve daha rahat uyumanıza yardımcı olur.</string>
     <string name="blue_light_reduction_title">Göze dost mod</string>
     <string name="blue_light_start_time">Başlangıç Zamanı</string>
     <string name="blue_light_stength">Mavi ışığı azaltma gücü</string>
