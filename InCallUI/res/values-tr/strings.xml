@@ -46,6 +46,7 @@
     <string name="back_to_incall">Arama arayüzüne dönmek için dokunun</string>
     <string name="bluetooth_auto_slot_countdown">(%s)</string>
     <string name="bt_ok">Tamam</string>
+	<string name="buttons_contact_description">Rehber</string>
     <string name="callForwardedText">Arama yönlendiriliyor</string>
     <string name="call_duration_time">Arama süresi %s</string>
     <string name="call_lost">Arama kesildi</string>
