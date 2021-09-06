@@ -83,4 +83,14 @@
         <item>Engellendi</item>
         <item>Zayıf bağlantıdan geçici olarak kaçın</item>
     </string-array>
+	    <string-array name="wifi_signal">
+        <item>Zayıf</item>
+        <item>Ortalama</item>
+        <item>İyi</item>
+    </string-array>
+	    <string-array name="wifi_proxy_settings">
+        <item>Hiçbiri</item>
+        <item>Manuel</item>
+        <item>Proxy Otomatik Yapılandırması</item>
+    </string-array>
 </resources>
