@@ -90,6 +90,7 @@
     <string name="continue_confirm">Devam et</string>
     <string name="d_sms_mms">SMS/MMS sil</string>
     <string name="date_time_set">Ayarla</string>
+	<string name="delete_apk">Kurulum paketini kaldır %1$s</string>
     <string name="disable_keyguard_warning_message">Bu uygulama ekran kilitlemeyi devre dışı bırakabilir</string>
     <string name="disable_keyguard_warning_title">Güvenlik Uyarıları</string>
     <string name="dlg_check_app_message_on">%1$s, %2$s için izin istiyor.</string>
