@@ -1983,7 +1983,7 @@ Bu, kayıp veya çalıntı cihazlarda verilerin korunmasına yardımcı olur. Ci
     <string name="enroll_finger_side_tips_head">Parmak izi kenarını kaydet</string>
     <string name="enroll_fingerprint">Parmak izi kaydet</string>
 	<string name="enroll_fod_fp_tips_dlg_btn">Anladım</string>
-    <string name="enroll_fod_fp_tips_dlg_summary">"Ekrandan parmak izi tanımlarken koruyucu bulunmaması veya Meizu'nun tavsiye ettiği ekran koruyucunun kullanılması tavsiye edilir."</string>
+    <string name="enroll_fod_fp_tips_dlg_summary">"Parmak izi tanımlarken ve işlem yapılırken sensörün doğru çalışması için önerilen ekran koruyucu dışında bir ürün kullanılmaması tavsiye edilir."</string>
     <string name="enroll_fod_fp_tips_dlg_title">İpuçları</string>
     <string name="enter_new_complex_password_tip">4-17 haneli yeni bir parola girin</string>
     <string name="enter_password">"Android'i başlatmak için şifrenizi girin"</string>
