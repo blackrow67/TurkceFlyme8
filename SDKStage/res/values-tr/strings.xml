@@ -27,8 +27,11 @@
     <string name="btn_exit">Çıkış</string>
     <string name="btn_set_network">Ağ ayarları</string>
     <string name="date_time_set">Ayarla</string>
+	<string name="dark_mode_adjust_wallpaper">Duvar kağıdı karartma</string>
+    <string name="dark_mode_appearance">Koyu görünüm tercihi</string>
 	<string name="dark_mode_auto_contrast">Uyarlanabilir Kontrast</string>
     <string name="dark_mode_auto_contrast_summary">Loş bir ortamda ekranın kontrastını otomatik olarak azaltır</string>
+	<string name="dark_mode_time_config_title">Etkinleştirme yöntemi</string>
     <string name="do_not_disturb_time_interval_error_tips">Aralık en az 1 dakika olmalıdır</string>
     <string name="item_is_selected">%1$s seçildi</string>
     <string name="know_the">ANLADIM</string>
