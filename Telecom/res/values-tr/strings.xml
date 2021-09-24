@@ -861,7 +861,7 @@ Koşullu"</string>
     <string name="notification_unreadedRecordTitle">%s okunmamış kayıt</string>
     <string name="notification_unreadedRecordsMsg_one">Okunmayan kayıtlar</string>
     <string name="notification_unreadedRecordsMsg">%s okunmamış kayıt</string>
-    <string name="notification_unreadedRecordsMsg_multi">Kez %s kişiden</string>
+    <string name="notification_unreadedRecordsMsg_multi">%s kişiden</string>
     <string name="notification_unreadedRecordTicker">%s kullanıcısından gelen okunmadı kaydı</string>
     <string name="notification_missedRecordSdErrorTitle">kaydı durduruldu</string>
     <string name="notification_missedRecordSdErrorText">SD kart dolu veya çıkartılmış</string>
@@ -871,8 +871,8 @@ Koşullu"</string>
     <string name="non_support_for_easy_mode_tip">Kolay mod, arama eklemeyi desteklemiyor</string>
     <string name="unknown_number">Bilinmeyen numara</string>
     <string name="call_not_allowed_for_message_call">Sesli posta sırasında arama eklenemiyor</string>
-    <string name="notification_unreadedMissedMsg_multi">Kez %s kişiden</string>
-    <string name="notification_unreadedMissedTitle_multi">Cevapsız arama %s</string>
+    <string name="notification_unreadedMissedMsg_multi">%s kişiden</string>
+    <string name="notification_unreadedMissedTitle_multi">%s Cevapsız arama</string>
     <string name="ok">Tamam</string>
     <string name="call_failed">Arama başarısız oldu</string>
     <string name="mz_mo_error_no_phone_number_supplied">Arama yapmak için geçerli bir numara girin.</string>
@@ -889,7 +889,7 @@ Koşullu"</string>
     <string name="notification_missedCallTitle">Cevapsız arama</string>
     <string name="notification_missedWorkCallTitle">İşle ilgili cevapsız arama</string>
     <string name="notification_missedCallsTitle">Cevapsız arama</string>
-    <string name="notification_missedCallsMsg">Cevapsız arama %s</string>
+    <string name="notification_missedCallsMsg">%s Cevapsız arama</string>
     <string name="notification_missedCallTicker">Cevapsız arama: %s</string>
     <string name="notification_missedCall_call_back">Geri ara</string>
     <string name="notification_missedCall_message">Mesaj</string>
