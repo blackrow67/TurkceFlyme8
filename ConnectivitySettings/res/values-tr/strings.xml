@@ -896,6 +896,7 @@ Seçimi"</string>
     <string name="mz_wif_setting_dialog_set">Ağ Ayarları</string>
     <string name="network_query_error">Ağ arama hatası</string>
     <string name="network_settings_title">Hücresel ağlar</string>
+	<string name="network_share">Taşınabilir erişim noktası</string>
     <string name="network_state_available">Kullanılabilir</string>
     <string name="network_state_current">Mevcut</string>
     <string name="network_state_forbidden">Yasak</string>
@@ -1321,6 +1322,7 @@ Seçimi"</string>
     <string name="tether_settings_title_usb">USB internet paylaşımı</string>
     <string name="tether_settings_title_usb_bluetooth">İnternet Paylaşımı</string>
     <string name="tether_settings_title_wifi">Taşınabilir erişim noktası</string>
+	<string name="tether_vpn_not_opened_hint">VPN ağı etkin değil</string>
     <string name="tether_wps_connect_title">WPS bağlantısı</string>
     <string name="tethered_Disabled_notification_title">Taşınabilir etkin nokta devre dışı</string>
     <string name="tethered_Disabled_reason_message">Veri trafiği sınırı aşıldı</string>
@@ -1470,6 +1472,7 @@ Seçimi"</string>
     <string name="vpn_settings_not_available">VPN ayarları bu kullanıcı için kullanılamıyor</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="vpn_statusbar_checkbox_text">Bildirim çubuğu düğmesini göster</string>
+    <string name="vpn_tether_checkbox_text">VPN Bağlantısı</string>
     <string name="vpn_title">VPN</string>
     <string name="vpn_turn_on">Aç</string>
     <string name="vpn_type">Tür</string>
@@ -1564,6 +1567,9 @@ Seçimi"</string>
     <string name="wifi_frequency">Sıklık</string>
     <string name="wifi_gateway">Ağ geçidi</string>
     <string name="wifi_gprs_selector_title">Ağ Seçin</string>
+	<string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
+    <string name="wifi_hotspot_network_sharing">Hotspot ağ paylaşımı</string>
+    <string name="wifi_hotspot_sharing">Hotspot Paylaşımı</string>
     <string name="wifi_identity_password_error_hint">Yanlış kullanıcı adı veya parola</string>
     <string name="wifi_in_airplane_mode">Uçak modunda</string>
     <string name="wifi_install_credentials">Sertifikaları yükle</string>
