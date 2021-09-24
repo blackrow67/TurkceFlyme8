@@ -420,6 +420,7 @@ Cihazları bir araya getirmeniz (genellikle sırt sırta) ve ekranınıza dokunm
     <string name="app_install_location_summary">Yeni uygulamalar için tercih edilen yükleme konumunu değiştir</string>
     <string name="app_install_location_title">Tercih edilen yükleme konumu</string>
     <string name="app_installing">Yükleniyor</string>
+	<string name="app_launch_domain_file_title">Dosyaları açma</string>
     <string name="app_launch_domain_links_title">Bağlantıları açma</string>
     <string name="app_launch_open_domain_urls_summary">Sormadan aç</string>
     <string name="app_launch_open_domain_urls_title">Desteklenen bağlantıları aç</string>
@@ -3131,6 +3132,8 @@ Cihazınızı yeniden başlatın ve tekrar deneyin."</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Cihazlar</string>
     <string name="mtp_ptp_mode_summary">MTP veya PTP işlevi etkin</string>
+	<string name="mtrl_picker_cancel">İptal</string>
+    <string name="mtrl_picker_confirm">Kaydet</string>
     <string name="multi_task_layout_title">Görev kartı düzeni</string>
     <string name="multi_task_title">Görev yöneticisi</string>
     <string name="music_category_title">Müzik</string>
@@ -5304,6 +5307,7 @@ Google'ın, kişilerinize, randevularınıza ve diğer bilgilerinize istediğini
     <string name="tts_status_title">Varsayılan dil durumu</string>
     <string name="tx_link_speed">%1$d Mb/sn.</string>
     <string name="tx_wifi_speed">Bağlantı iletim hızı</string>
+	<string name="txt_category_title">Belge</string>
     <string name="unacceptable_char">Geçersiz karakterlere izin verilmez|\\/:*?\"&lt;></string>
     <string name="underglass_enroll_tips_bad_img">Lütfen parmağınızı ya da vurgulanan alanı temizleyin ve daha sert bastırın</string>
     <string name="underglass_enroll_tips_first">Parmağınızı aşağıdaki vurgulanan alana yerleştirin ve titreşimden sonra kaldırın</string>
