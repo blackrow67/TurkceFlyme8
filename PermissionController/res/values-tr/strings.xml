@@ -97,6 +97,8 @@
     <string name="app_permissions_breadcrumb">Uygulamalar</string>
     <string name="app_permissions_group_summary">%1$d / %2$d uygulamaya izin veriliyor</string>
     <string name="app_permissions_info_button_label">Uygulama bilgilerini aç</string>
+	<string name="app_use_record">Uygulama izleme kaydı</string>
+    <string name="app_version">sürüm %1s</string>
 	<string name="application_list">Uygulama Listesi</string>
     <string name="application_managerment">Uygulamalar</string>
     <string name="appsec_allowall">Hepsine izin ver</string>
@@ -105,6 +107,9 @@
     <string name="assistant_confirmation_message">Asistan, ekranınızda görünür olan veya uygulamaların içinden erişilebilen bilgiler dahil olmak üzere sisteminizde kullanılan uygulamalar hakkındaki bilgileri okuyabilecektir.</string>
     <string name="assistant_record_audio_user_sensitive_summary">Sesli yardımı etkinleştirmek için mikrofon kullanıldığında simgeyi durum çubuğunda göster</string>
     <string name="assistant_record_audio_user_sensitive_title">Asistan tetikleyici algılamayı göster</string>
+    <string name="association_start">İlişkilendirme başlangıcı</string>
+    <string name="autorun">Başlangıçta çalıştır</string>
+    <string name="background_install">Arka planda kurulum</string>
     <string name="background_location_access_reminder_notification_content">Bu uygulama, konumunuza her zaman erişebilir. Değiştirmek için dokunun.</string>
     <string name="background_location_access_reminder_notification_title">%s, arka planda konumunuza erişti</string>
 	<string name="body_sensors">Vücut sensörleri</string>
@@ -212,6 +217,9 @@
     <string name="grant_dialog_button_more_info">Daha fazla bilgi</string>
     <string name="help_feedback_label">Yardım ve geri bildirim</string>
     <string name="home_missing_work_profile_support">İş profili desteklenmiyor</string>
+	<string name="hundred">yüz</string>
+    <string name="icon_content_description">İletişim Simgesi</string>
+    <string name="in_the_background">Arka planda %1s</string>
     <string name="incident_report_channel_name">Hata Ayıklama Verilerini Paylaş</string>
     <string name="incident_report_dialog_allow_label">İzin ver</string>
     <string name="incident_report_dialog_deny_label">Reddet</string>
@@ -459,6 +467,7 @@
 	<string name="notification_permission_message">Bip, titreşim ve bildirim rozetlerine erişebilir</string>
     <string name="notification_permission_title">%1$s bildirim göndermesine izin ver?</string>
     <string name="notify_msg">Bildirimler</string>
+	<string name="nowadays">son zamanlarda</string>
     <string name="ok">Tamam</string>
     <string name="old_sdk_deny_warning">"Bu uygulama, Android'in daha eski bir sürümü için tasarlandı. İznin reddedilmesi, uygulamanın bundan sonra amaçlandığı gibi çalışmamasına neden olabilir."</string>
     <string name="ongoing_usage_dialog_last_separator">" ve "</string>
@@ -518,6 +527,7 @@
     <string name="permission_manager">İzin Yönetimi</string>
     <string name="permission_manager_sub">İzin Yönetimi</string>
     <string name="permission_record">İzin kaydı</string>
+	<string name="permission_record_details" formatted="false">%1s %2s Kez</string>
     <string name="permission_reminders">İzin hatırlatıcılar</string>
     <string name="permission_request_title">İzin isteği</string>
     <string name="permission_review_title_template_install">&lt;b>%1$s&lt;/b> uygulamasının nelere erişmesine izin vereceğinizi seçin</string>
@@ -667,9 +677,14 @@ Son olarak uygulama kullanılırken erişildi"</string>
 	<string name="special_permission">Özel izinler</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_warning">Bu izni reddederseniz cihazınızın temel özellikleri artık beklendiği gibi çalışmayabilir.</string>
+    <string name="start_other">Başlayan</string>
+    <string name="start_self">Kendi kendine başlayan</string>
+	<string name="storage_disk">Depolama diski %1s</string>
+    <string name="storage_read_times">%1s Kez</string>
+    <string name="storage_read_write_record">Kaydı oku</string>
 	<string name="status_bar_notification_info_overflow">999+</string>
 	<string name="title_activity_app_sec">Uygulamalar</string>
-    <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
+    <string name="title_allow_item">İzin verilen uygulamalar %1$s: %2$s</string>
     <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
     <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
     <string name="title_use_allow_item">Apps allowed for %1$s only when using this app: %2$s</string>
