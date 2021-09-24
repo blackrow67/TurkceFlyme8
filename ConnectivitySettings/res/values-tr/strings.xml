@@ -1000,6 +1000,7 @@ Seçimi"</string>
     <string name="no_uim_card">Yok</string>
     <string name="not_ask_next_time">Bunu tekrar gösterme</string>
     <string name="not_set">Ayarlanmadı</string>
+	<string name="not_use_vpn_app_title">Uygulama VPN kullanmıyor</string>
     <string name="notice_view">Flyme kamera ile tarayarak etkin noktaya bağlan</string>
     <string name="notification_priority_summary">Yeni bildirimleri bildirim listesinin en üstünde görüntüle</string>
     <string name="notification_section_header">Bildirimler</string>
@@ -1258,6 +1259,8 @@ Seçimi"</string>
 	<string name="smart_switch_enabled">Akıllı 4G geçişi</string>
     <string name="smart_voice_wakeup">Akıllı Ses uyandırma</string>
     <string name="smart_voice_wakeup_tips">Ekran kapalıyken Akıllı Sesi aktive etmek için sesli komutları kullan</string>
+    <string name="smart_vpn_hint">VPN kullanabilen uygulamayı seçin</string>
+    <string name="smart_vpn_switch_title">Akıllı VPN Bağlantısı</string>
     <string name="smart_wifi_selection_sum">Otomatik olarak daha iyi bir WIFI ağına geçilmesine izin ver</string>
     <string name="smart_wifi_selection_title">Akıllı WIFI ağ anahtarı</string>
     <string name="sms_application_title">Varsayılan SMS uygulaması</string>
@@ -1416,6 +1419,7 @@ Seçimi"</string>
     <string name="vpn_always_on_summary_active">Her zaman açık etkin</string>
     <string name="vpn_always_on_summary_not_supported">Bu uygulama tarafından desteklenmiyor</string>
     <string name="vpn_app_tips_str">Başka yapılandırma seçenekleri \"%1$s\" içinde bulunabilir</string>
+    <string name="vpn_app_titlebar">VPN Uygulaması</string>
     <string name="vpn_cancel">İptal</string>
     <string name="vpn_cant_connect_message">Bu uygulama her zaman açık VPN desteklemez</string>
     <string name="vpn_cant_connect_title">%1$s Hedefine bağlanamıyor</string>
