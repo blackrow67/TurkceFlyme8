@@ -426,6 +426,7 @@
     <string name="recents_extend_lock">Kilitle</string>
     <string name="recents_extend_un_blur">Bulanıklığı İptal Et</string>
     <string name="recents_extend_un_lock">Kilidi İptal Et</string>
+	<string name="recents_extend_window_mode">PencereModu</string>
     <string name="remote_action_failed">Başarısız: %1$s</string>
 	<string name="remove">Kaldır</string>
     <string name="remove_cloned_app_message">Klonlanmış uygulamayı kaldırır, verilerini siler</string>
